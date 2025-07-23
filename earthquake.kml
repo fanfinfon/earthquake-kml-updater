@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>DARENDE (MALATYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 01:23:52<br/>
+          <b>Magnitude:</b> 2<br/>
+          <b>Depth:</b> 2.9 km<br/>
+          <b>Closest Cities:</b> Kahramanmaraş, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4955,38.5627,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>MESCICELE-(BOLU)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1424,106 +1449,6 @@
         </Style>
         <Point>
           <coordinates>41.5053,38.6185,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>SOGUTLU-PUTURGE (MALATYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 01:34:16<br/>
-          <b>Magnitude:</b> 1.2<br/>
-          <b>Depth:</b> 23.8 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Elazığ, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.6233,38.205,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>ILICA-(MUS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 01:30:51<br/>
-          <b>Magnitude:</b> 1.9<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Batman, Bitlis, Bingöl, Siirt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Siirt Havalimanı (SXZ), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.5005,38.6302,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>ULUKOY-(MALATYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 01:30:09<br/>
-          <b>Magnitude:</b> 1.2<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Malatya, Elazığ, Şanlıurfa, Kahramanmaraş, Tunceli<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.5773,38.1612,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>DALLICA-KIGI (BINGOL)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 01:21:25<br/>
-          <b>Magnitude:</b> 1.9<br/>
-          <b>Depth:</b> 7 km<br/>
-          <b>Closest Cities:</b> Tunceli, Erzincan, Elazığ, Bayburt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzincan Havalimanı (ERC), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.3107,39.2455,0</coordinates>
         </Point>
       </Placemark>
       

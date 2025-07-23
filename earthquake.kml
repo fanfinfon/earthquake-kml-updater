@@ -54,6 +54,31 @@
       
 
       <Placemark>
+        <name>GONULACAN-GENC (BINGOL)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.23 17:52:50<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b> 12.9 km<br/>
+          <b>Closest Cities:</b> Diyarbakır, Elazığ, Tunceli, Batman, Erzincan<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>40.2707,38.619,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>GIRIT ADASI (AKDENIZ)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1599,81 +1624,6 @@
         </Style>
         <Point>
           <coordinates>28.3013,40.81,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>TURKSEVIN-AFSIN (KAHRAMANMARAS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.22 21:20:48<br/>
-          <b>Magnitude:</b> 1.3<br/>
-          <b>Depth:</b> 11.3 km<br/>
-          <b>Closest Cities:</b> Kayseri, Osmaniye, Malatya, Adana, Gaziantep<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Kayseri Erkilet Havalimanı (ASR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.7588,38.2385,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>UYANIK-KALE (MALATYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.22 21:07:48<br/>
-          <b>Magnitude:</b> 1.3<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Elazığ, Adıyaman, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.8433,38.3315,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>SUGUL-DARENDE (MALATYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.22 20:58:41<br/>
-          <b>Magnitude:</b> 1.3<br/>
-          <b>Depth:</b> 3.7 km<br/>
-          <b>Closest Cities:</b> Kahramanmaraş, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.5307,38.4397,0</coordinates>
         </Point>
       </Placemark>
       

@@ -1,31 +1,64 @@
 const axios = require('axios');
 const fs = require('fs');
-const { create } = require('xmlbuilder2');
 
 (async () => {
-  const res = await axios.get('https://api.orhanaydogdu.com.tr/deprem/kandilli/live');
-  const data = res.data.result;
+  try {
+    const { data } = await axios.get('https://api.orhanaydogdu.com.tr/deprem/kandilli/live');
+    const earthquakes = data.result;
 
-  const doc = create({ version: '1.0', encoding: 'UTF-8' })
-    .ele('kml', { xmlns: 'http://www.opengis.net/kml/2.2' })
-    .ele('Document');
+    const placemarks = earthquakes.map(eq => {
+      const coords = eq.geojson?.coordinates || [0, 0]; // [lon, lat]
+      const provider = eq.provider || '';
+      const title = eq.title || '';
+      const date = eq.date || '';
+      const mag = eq.mag || '';
+      const depth = eq.depth || '';
 
-  for (const eq of data) {
-    const coords = eq.geojson?.coordinates;
-    if (!coords) continue;
+      const closestCities = eq.location_properties?.closestCities || [];
+      const closestCityList = closestCities.map(c => c.name).join(', ') || (eq.location_properties?.closestCity?.name || 'N/A');
 
-    const pm = doc.ele('Placemark');
-    pm.ele('name').txt(eq.title || 'Earthquake');
-    pm.ele('description').dat(
-      `Magnitude: ${eq.mag}\nDepth: ${eq.depth}km\nDate: ${eq.date}\nClosest City: ${eq.location_properties?.closestCity?.name || ''}`
-    );
+      const airports = eq.location_properties?.airports || [];
+      const airportList = airports.map(a => `${a.name} (${a.code})`).join(', ') || 'N/A';
 
-    const style = pm.ele('Style').ele('IconStyle');
-    style.ele('Icon').ele('href').txt('https://maps.google.com/mapfiles/kml/shapes/earthquake.png');
+      return `
+      <Placemark>
+        <name>${title}</name>
+        <description><![CDATA[
+          <b>Provider:</b> ${provider}<br/>
+          <b>Date:</b> ${date}<br/>
+          <b>Magnitude:</b> ${mag}<br/>
+          <b>Depth:</b> ${depth} km<br/>
+          <b>Closest Cities:</b> ${closestCityList}<br/>
+          <b>Nearby Airports:</b> ${airportList}
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>${coords[0]},${coords[1]},0</coordinates>
+        </Point>
+      </Placemark>
+      `;
+    }).join("\n");
 
-    pm.ele('Point').ele('coordinates').txt(`${coords[0]},${coords[1]}`);
+    const kml = `<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Earthquake Data</name>
+    ${placemarks}
+  </Document>
+</kml>`;
+
+    fs.writeFileSync('earthquake.kml', kml, 'utf8');
+    console.log('KML file saved successfully.');
+  } catch (err) {
+    console.error('Failed to generate KML:', err.message);
   }
-
-  const xml = doc.end({ prettyPrint: true });
-  fs.writeFileSync('earthquake.kml', xml);
 })();
+

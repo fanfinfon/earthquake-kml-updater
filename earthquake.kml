@@ -1652,30 +1652,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>OVAKISLA-AHLAT (BITLIS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.22 19:47:14<br/>
-          <b>Magnitude:</b> 2<br/>
-          <b>Depth:</b> 6.1 km<br/>
-          <b>Closest Cities:</b> Muş, Siirt, Ağrı, Batman, Van<br/>
-          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Van Ferit Melen Havalimanı (VAN), Siirt Havalimanı (SXZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.3328,38.8535,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

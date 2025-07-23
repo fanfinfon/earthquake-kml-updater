@@ -2,7 +2,7 @@ name: Update KML from Kandilli API
 
 on:
   schedule:
-    - cron: "*/1 * * * *"  # every 1 minute
+    - cron: "*/1 * * * *"  # Every minute
   workflow_dispatch:
 
 jobs:
@@ -21,19 +21,15 @@ jobs:
       - name: Install dependencies
         run: npm install axios xmlbuilder2
 
-      - name: Run script to generate KML
+      - name: Fetch and convert Kandilli data to KML
         run: node generate-kml.js
 
-      - name: Set up Git authentication
+      - name: Commit and push KML file
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-
-      - name: Commit and push updated KML
-        run: |
           git add earthquake.kml
           git commit -m "Update KML from Kandilli" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

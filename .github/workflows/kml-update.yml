@@ -1,0 +1,33 @@
+name: Update KML from Kandilli API
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"  # every 1 minute
+  workflow_dispatch:
+
+jobs:
+  update-kml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios xmlbuilder2
+
+      - name: Fetch and convert Kandilli data to KML
+        run: node generate-kml.js
+
+      - name: Commit KML
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add earthquake.kml
+          git commit -m "Update KML from Kandilli"
+          git push

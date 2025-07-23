@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>KOSKONU-YUKSEKOVA (HAKKARI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.23 23:53:47<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 6.8 km<br/>
+          <b>Closest Cities:</b> Van, Şırnak, Siirt, Bitlis, Ağrı<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Şırnak Şerafettin Elçi Havalimanı (NKT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.1615,37.4345,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>LEYLEKLI-EMIRDAG (AFYONKARAHISAR)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1624,81 +1649,6 @@
         </Style>
         <Point>
           <coordinates>32.5395,37.5922,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 00:26:16<br/>
-          <b>Magnitude:</b> 2<br/>
-          <b>Depth:</b> 7.7 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.6785,36.7035,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>DARKOPRU-KIGI (BINGOL)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 00:23:17<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 20.6 km<br/>
-          <b>Closest Cities:</b> Tunceli, Erzincan, Elazığ, Bayburt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.2882,39.2022,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>TATLAR-NURHAK (KAHRAMANMARAS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 00:20:40<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 8 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Malatya, Gaziantep, Osmaniye, Kilis<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.4895,38.0258,0</coordinates>
         </Point>
       </Placemark>
       

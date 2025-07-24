@@ -1152,30 +1152,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>BESEN-(KAHRAMANMARAS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 14:49:31<br/>
-          <b>Magnitude:</b> 1.8<br/>
-          <b>Depth:</b> 18.6 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Gaziantep, Kilis, Adana, Adıyaman<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Erhaç Havalimanı (MLX)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.9358,37.7912,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>ORDEKLI-SARIZ (KAYSERI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 00:25:47<br/>
+          <b>Magnitude:</b> 1.3<br/>
+          <b>Depth:</b> 8.2 km<br/>
+          <b>Closest Cities:</b> Kayseri, Osmaniye, Adana, Malatya, Gaziantep<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.5738,38.3163,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>DUDAS-BEYPAZARI (ANKARA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1074,31 +1099,6 @@
         </Style>
         <Point>
           <coordinates>28.1545,36.1563,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>MESCICELE-(BOLU)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.24 00:22:59<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 2 km<br/>
-          <b>Closest Cities:</b> Düzce, Zonguldak, Karabük, Bartın, Sakarya<br/>
-          <b>Nearby Airports:</b> Zonguldak Havalimanı (ONQ), Cengiz Topel Havalimanı (KCO), Esenboğa Havalimanı (ESB)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.7023,40.8853,0</coordinates>
         </Point>
       </Placemark>
       

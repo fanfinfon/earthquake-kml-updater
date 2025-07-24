@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>UCKUYU-SULTANDAGI (AFYONKARAHISAR)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 00:47:05<br/>
+          <b>Magnitude:</b> 2<br/>
+          <b>Depth:</b> 11.4 km<br/>
+          <b>Closest Cities:</b> Isparta, Eskişehir, Konya, Ankara, Burdur<br/>
+          <b>Nearby Airports:</b> Afyon Havalimanı (AFY), Sivrihisar Havalimanı (KYA), Konya Havalimanı (KYA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.4158,38.6225,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 00:35:50<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 10 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Tekirdağ, Balıkesir, Kırklareli<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.4942,40.1987,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>ORDEKLI-SARIZ (KAYSERI)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

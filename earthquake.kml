@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>KIRKGECIT-PINARBASI (KAYSERI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 18:16:20<br/>
+          <b>Magnitude:</b> 1.8<br/>
+          <b>Depth:</b> 14.4 km<br/>
+          <b>Closest Cities:</b> Kahramanmaraş, Sivas, Malatya, Adana, Osmaniye<br/>
+          <b>Nearby Airports:</b> Kayseri Erkilet Havalimanı (ASR), Kahramanmaraş Havalimanı (KCM), Sivas Nuri Demirağ Havalimanı (VAS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.58,38.6613,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>ERICEK-DURSUNBEY (BALIKESIR)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 18:06:42<br/>
+          <b>Magnitude:</b> 2<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Bursa, Kütahya, Manisa, Yalova, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Bursa Havalimanı (BTZ), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.437,39.6777,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>VAYVAYLI-YUREGIR (ADANA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

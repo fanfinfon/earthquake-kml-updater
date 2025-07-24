@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>VAYVAYLI-YUREGIR (ADANA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 16:01:46<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 8.9 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Hatay, Niğde, Kilis, Gaziantep<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>35.6012,36.9447,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>TETEMECELE-(BOLU)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -374,6 +399,31 @@
         </Style>
         <Point>
           <coordinates>25.695,36.6602,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 09:39:35<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 8.5 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.7215,36.6653,0</coordinates>
         </Point>
       </Placemark>
       

@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>KAZANLIPINAR-(KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 21:04:52<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b> 13.9 km<br/>
+          <b>Closest Cities:</b> Gaziantep, Osmaniye, Kilis, Adıyaman, Malatya<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.2228,37.6375,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGIRLER-SIMAV (KUTAHYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 20:54:03<br/>
+          <b>Magnitude:</b> 1.4<br/>
+          <b>Depth:</b> 14.7 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0277,39.2243,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

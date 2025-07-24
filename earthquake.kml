@@ -4,6 +4,81 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>DUDAS-BEYPAZARI (ANKARA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 23:59:54<br/>
+          <b>Magnitude:</b> 1.8<br/>
+          <b>Depth:</b> 13.5 km<br/>
+          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Zonguldak, Sakarya<br/>
+          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Eskişehir Anadolu Havalimanı (AOE), Esenboğa Havalimanı (ESB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.6888,40.2633,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 23:54:48<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 7 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.6922,36.6972,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>KARACAM-CUBUK (ANKARA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 23:42:11<br/>
+          <b>Magnitude:</b> 1.7<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Çankırı, Karabük, Kırıkkale, Bolu, Kastamonu<br/>
+          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Kastamonu Havalimanı (KFS), Zonguldak Havalimanı (ONQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>32.9048,40.4333,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>YAZIR-CAL (DENIZLI)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1024,56 +1099,6 @@
         </Style>
         <Point>
           <coordinates>31.7023,40.8853,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>CAYKISLA-EMIRDAG (AFYONKARAHISAR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.24 00:00:28<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Eskişehir, Isparta, Ankara, Konya, Kütahya<br/>
-          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Afyon Havalimanı (AFY), Eskişehir Anadolu Havalimanı (AOE)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.3888,38.854,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KOSKONU-YUKSEKOVA (HAKKARI)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 23:53:47<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 6.8 km<br/>
-          <b>Closest Cities:</b> Van, Şırnak, Siirt, Bitlis, Ağrı<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Şırnak Şerafettin Elçi Havalimanı (NKT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>44.1615,37.4345,0</coordinates>
         </Point>
       </Placemark>
       

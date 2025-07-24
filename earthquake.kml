@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>KAMISCIK-GOKSUN (KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 02:48:34<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Kayseri, Osmaniye, Gaziantep, Malatya, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Kayseri Erkilet Havalimanı (ASR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.8422,38.1277,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>KARAOMER-GOKSUN (KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 02:46:24<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Kayseri, Osmaniye, Adana, Gaziantep, Malatya<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.6665,38.097,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1299,131 +1349,6 @@
         </Style>
         <Point>
           <coordinates>31.75,40.1972,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>OGULTASI-CAYIRLI (ERZINCAN)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 03:37:12<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 9.6 km<br/>
-          <b>Closest Cities:</b> Bayburt, Tunceli, Gümüşhane, Bingöl, Erzurum<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Erzurum Havalimanı (ERZ), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.0655,39.7287,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>MIDILLI ADASI GUNEYI (EGE DENIZI)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 03:31:36<br/>
-          <b>Magnitude:</b> 1.2<br/>
-          <b>Depth:</b> 10.7 km<br/>
-          <b>Closest Cities:</b> İzmir, Çanakkale, Manisa, Balıkesir, Aydın<br/>
-          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.434,38.8653,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>ILICA-(MUS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 03:25:33<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 13.6 km<br/>
-          <b>Closest Cities:</b> Batman, Bitlis, Bingöl, Siirt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Siirt Havalimanı (SXZ), Batman Havalimanı (BAL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.5305,38.6075,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 02:59:05<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 5.1 km<br/>
-          <b>Closest Cities:</b> İzmir, Aydın, Manisa, Yunanistan, Muğla<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.4863,37.867,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 02:51:04<br/>
-          <b>Magnitude:</b> 1.1<br/>
-          <b>Depth:</b> 13.2 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Bulgaristan, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.1212,40.33,0</coordinates>
         </Point>
       </Placemark>
       

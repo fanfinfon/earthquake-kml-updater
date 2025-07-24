@@ -1152,30 +1152,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>CORLU-KARAISALI (ADANA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 22:21:30<br/>
-          <b>Magnitude:</b> 1.8<br/>
-          <b>Depth:</b> 5.9 km<br/>
-          <b>Closest Cities:</b> Niğde, Osmaniye, Hatay, Mersin, Kayseri<br/>
-          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>35.1973,37.3417,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>CIFTLIK-FETHIYE (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 04:01:17<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 14.7 km<br/>
+          <b>Closest Cities:</b> Denizli, Burdur, Aydın, Antalya, Isparta<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.1103,36.672,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>KAMISCIK-GOKSUN (KAHRAMANMARAS)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1099,256 +1124,6 @@
         </Style>
         <Point>
           <coordinates>35.9225,36.3425,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>GIRIT ADASI (AKDENIZ)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:45:08<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 5.9 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>23.263,35.6317,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KARGI-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:41:19<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 24.1 km<br/>
-          <b>Closest Cities:</b> Denizli, Burdur, Aydın, Antalya, Isparta<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.0878,36.7303,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>GIRIT ADASI (AKDENIZ)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:27:47<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 5.5 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>23.2435,35.643,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>SAHINYURDU-GEMLIK (BURSA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:27:34<br/>
-          <b>Magnitude:</b> 1.2<br/>
-          <b>Depth:</b> 11.4 km<br/>
-          <b>Closest Cities:</b> Yalova, Kocaeli, İstanbul, Bilecik, Sakarya<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.1643,40.4857,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>DOGAN-(MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:15:50<br/>
-          <b>Magnitude:</b> 0.9<br/>
-          <b>Depth:</b> 15.5 km<br/>
-          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Uşak, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.3312,37.1353,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KARACULHA-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 05:06:43<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 38.6 km<br/>
-          <b>Closest Cities:</b> Denizli, Burdur, Antalya, Aydın, Isparta<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.205,36.6522,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>TULUM-TORBALI (IZMIR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 04:52:24<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 12.8 km<br/>
-          <b>Closest Cities:</b> Aydın, Manisa, Muğla, Denizli, Uşak<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.4458,38.0713,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>ULUKOY-(MALATYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 04:41:05<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Malatya, Elazığ, Şanlıurfa, Kahramanmaraş, Tunceli<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.5553,38.169,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>GULDEREN-(HATAY)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 04:39:18<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 7.4 km<br/>
-          <b>Closest Cities:</b> Kilis, Osmaniye, Gaziantep, Adana, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Şakirpaşa Havalimanı (ADA), Gaziantep Havalimanı (GZT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.1078,36.3285,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>HIRKATEPE-BEYPAZARI (ANKARA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 04:20:09<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Zonguldak, Sakarya<br/>
-          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.75,40.1972,0</coordinates>
         </Point>
       </Placemark>
       

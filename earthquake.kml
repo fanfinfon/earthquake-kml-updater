@@ -1177,55 +1177,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 19:29:30<br/>
-          <b>Magnitude:</b> 2<br/>
-          <b>Depth:</b> 9.7 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.6335,36.6535,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 19:02:26<br/>
-          <b>Magnitude:</b> 1.9<br/>
-          <b>Depth:</b> 15.4 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.5857,36.6777,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

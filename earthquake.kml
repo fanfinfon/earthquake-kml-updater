@@ -1152,30 +1152,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 08:04:44<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 16.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, İzmir, Burdur<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.166,36.0368,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>TETEMECELE-(BOLU)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 15:10:01<br/>
+          <b>Magnitude:</b> 1.8<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Düzce, Zonguldak, Karabük, Bartın, Sakarya<br/>
+          <b>Nearby Airports:</b> Zonguldak Havalimanı (ONQ), Esenboğa Havalimanı (ESB), Cengiz Topel Havalimanı (KCO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.7333,40.8385,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>SEYHLER-HISARCIK (KUTAHYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -74,6 +99,31 @@
         </Style>
         <Point>
           <coordinates>37.2112,37.5153,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>CANDIR-SELCUKLU (KONYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 12:28:19<br/>
+          <b>Magnitude:</b> 1.2<br/>
+          <b>Depth:</b>  km<br/>
+          <b>Closest Cities:</b> Aksaray, Karaman, Isparta, Ankara, Afyon<br/>
+          <b>Nearby Airports:</b> Konya Havalimanı (KYA), Sivrihisar Havalimanı (KYA), Nevşehir Kapadokya Havalimanı (NAV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>32.6052,38.1233,0</coordinates>
         </Point>
       </Placemark>
       
@@ -224,6 +274,31 @@
         </Style>
         <Point>
           <coordinates>27.687,38.1375,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>YIRCA-SOMA (MANISA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 11:36:49<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b>  km<br/>
+          <b>Closest Cities:</b> Balıkesir, İzmir, Çanakkale, Bursa, Kütahya<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.6637,39.2128,0</coordinates>
         </Point>
       </Placemark>
       
@@ -1124,31 +1199,6 @@
         </Style>
         <Point>
           <coordinates>23.5958,35.8795,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>PALANDOKEN (ERZURUM)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 14:59:27<br/>
-          <b>Magnitude:</b> 1.8<br/>
-          <b>Depth:</b> 21.5 km<br/>
-          <b>Closest Cities:</b> Bayburt, Bingöl, Muş, Rize, Artvin<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Bingöl Havalimanı (BGG), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.241,39.8067,0</coordinates>
         </Point>
       </Placemark>
       

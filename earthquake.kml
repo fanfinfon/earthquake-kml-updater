@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>ARMUTCUK-ULA (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 09:28:20<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Uşak, Manisa<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.4627,37.1248,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGNEZ-SOMA (MANISA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.24 09:15:47<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b>  km<br/>
+          <b>Closest Cities:</b> İzmir, Balıkesir, Çanakkale, Aydın, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.5513,39.0808,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>IKIZCE-YESILYURT (MALATYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1074,56 +1124,6 @@
         </Style>
         <Point>
           <coordinates>43.2677,38.7572,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>GIRIT ADASI (AKDENIZ)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 09:09:42<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 2.1 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Denizli, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.5977,35.0087,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>MENEMEN (IZMIR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 09:05:08<br/>
-          <b>Magnitude:</b> 1.8<br/>
-          <b>Depth:</b> 17.2 km<br/>
-          <b>Closest Cities:</b> Manisa, Aydın, Balıkesir, Çanakkale, Uşak<br/>
-          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.0877,38.6053,0</coordinates>
         </Point>
       </Placemark>
       

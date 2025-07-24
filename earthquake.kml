@@ -1127,30 +1127,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>BAKIR-KIRKAGAC (MANISA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.23 08:25:49<br/>
-          <b>Magnitude:</b> 1.9<br/>
-          <b>Depth:</b> 3.1 km<br/>
-          <b>Closest Cities:</b> İzmir, Balıkesir, Çanakkale, Uşak, Aydın<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.744,39.1002,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

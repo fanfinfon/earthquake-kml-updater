@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>KABAKTEPE-EKINOZU (KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 11:28:42<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Gaziantep, Malatya, Kayseri, Adıyaman<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.022,38.0385,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>BELEK ACIKLARI-ANTALYA (AKDENIZ)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1099,31 +1124,6 @@
         </Style>
         <Point>
           <coordinates>27.7092,38.1415,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KARATEKE-TIRE (IZMIR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.24 11:57:11<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 4.4 km<br/>
-          <b>Closest Cities:</b> Aydın, Manisa, Muğla, Denizli, Uşak<br/>
-          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.687,38.1375,0</coordinates>
         </Point>
       </Placemark>
       

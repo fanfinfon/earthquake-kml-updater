@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>GOZSUZLU-(AFYONKARAHISAR)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 09:47:06<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Isparta, Eskişehir, Uşak, Kütahya, Burdur<br/>
+          <b>Nearby Airports:</b> Afyon Havalimanı (AFY), Süleyman Demirel Havalimanı (ISE), Sivrihisar Havalimanı (KYA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>30.8548,38.6567,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.25 09:43:43<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 22.5 km<br/>
+          <b>Closest Cities:</b> İstanbul, Yalova, Tekirdağ, Bursa, Kocaeli<br/>
+          <b>Nearby Airports:</b> Atatürk Havalimanı (IST), İstanbul Havalimanı (IST), Tekirdağ Çorlu Havalimanı (TEQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.4722,40.8888,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>EGERLIBASKOY-KIZILCAHAMAM (ANKARA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

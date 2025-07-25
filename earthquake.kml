@@ -1152,30 +1152,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>KARACANLIK-REYHANLI (HATAY)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 02:43:27<br/>
-          <b>Magnitude:</b> 1.8<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Kilis, Osmaniye, Gaziantep, Adana, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Gaziantep Havalimanı (GZT), Şakirpaşa Havalimanı (ADA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.392,36.34,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

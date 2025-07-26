@@ -1027,30 +1027,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>KARAKUYU-MENDERES (IZMIR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 08:43:39<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Aydın, Manisa, Muğla, Denizli, Uşak<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.2108,38.1113,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

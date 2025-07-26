@@ -877,30 +877,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>MARMARA DENIZI</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 18:31:58<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 13.5 km<br/>
-          <b>Closest Cities:</b> Tekirdağ, İstanbul, Yalova, Kırklareli, Bursa<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Atatürk Havalimanı (IST), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1602,40.8238,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

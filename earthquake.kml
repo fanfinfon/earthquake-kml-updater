@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>AKIN-SEREFLIKOCHISAR (ANKARA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 02:27:22<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 6.1 km<br/>
+          <b>Closest Cities:</b> Kırıkkale, Kırşehir, Aksaray, Ankara, Nevşehir<br/>
+          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Nevşehir Kapadokya Havalimanı (NAV), Konya Havalimanı (KYA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>33.2653,39.1132,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>AKTARLI-PUTURGE (MALATYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

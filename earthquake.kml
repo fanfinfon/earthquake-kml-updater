@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 16:50:52<br/>
+          <b>Magnitude:</b> 3.6<br/>
+          <b>Depth:</b> 29.8 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, Denizli, İzmir<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.3765,34.9772,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>GECITLI-SINCIK (ADIYAMAN)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -874,31 +899,6 @@
         </Style>
         <Point>
           <coordinates>28.1602,40.8238,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>YENIBASLAR-(BINGOL)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 17:06:34<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.3 km<br/>
-          <b>Closest Cities:</b> Tunceli, Diyarbakır, Muş, Elazığ, Erzincan<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Muş Havalimanı (MSR), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.6605,39.0188,0</coordinates>
         </Point>
       </Placemark>
       

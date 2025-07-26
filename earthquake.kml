@@ -827,30 +827,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>UGRUCA-SEHITKAMIL (GAZIANTEP)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 00:56:18<br/>
-          <b>Magnitude:</b> 1.7<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kilis, Kahramanmaraş, Adıyaman, Osmaniye, Şanlıurfa<br/>
-          <b>Nearby Airports:</b> Gaziantep Havalimanı (GZT), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.4468,37.279,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

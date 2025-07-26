@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>OREN-FETHIYE (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 20:33:06<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b> 27.7 km<br/>
+          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Aydın, Isparta<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.4222,36.7713,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>CEYLAN-FETHIYE (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 20:20:45<br/>
+          <b>Magnitude:</b> 1.3<br/>
+          <b>Depth:</b> 26.4 km<br/>
+          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Isparta, Aydın<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.5325,36.793,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>DEMRE (ANTALYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -699,31 +749,6 @@
         </Style>
         <Point>
           <coordinates>27.6632,38.444,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>CICEKLI-ULA (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 21:35:03<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 10.4 km<br/>
-          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Uşak, Manisa<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.4658,37.0968,0</coordinates>
         </Point>
       </Placemark>
       

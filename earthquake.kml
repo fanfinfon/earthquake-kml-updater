@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>AKDENIZ</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 09:01:07<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 8.6 km<br/>
+          <b>Closest Cities:</b> Hatay, Osmaniye, Adana, Kilis, Mersin<br/>
+          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Şakirpaşa Havalimanı (ADA), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>35.6,36.0455,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>ODABASI-(HATAY)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -974,56 +999,6 @@
         </Style>
         <Point>
           <coordinates>32.819,40.578,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>AKIN-SEREFLIKOCHISAR (ANKARA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 09:25:34<br/>
-          <b>Magnitude:</b> 1.7<br/>
-          <b>Depth:</b> 4.9 km<br/>
-          <b>Closest Cities:</b> Kırşehir, Kırıkkale, Aksaray, Ankara, Nevşehir<br/>
-          <b>Nearby Airports:</b> Nevşehir Kapadokya Havalimanı (NAV), Esenboğa Havalimanı (ESB), Konya Havalimanı (KYA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>33.294,39.1137,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KATRANDAGI-EMET (KUTAHYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 09:18:59<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 8.5 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.0385,39.2285,0</coordinates>
         </Point>
       </Placemark>
       

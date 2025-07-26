@@ -902,30 +902,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>AVCILAR-(KAHRAMANMARAS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 12:28:56<br/>
-          <b>Magnitude:</b> 1.7<br/>
-          <b>Depth:</b> 12.9 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Gaziantep, Adana, Kayseri, Kilis<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Erhaç Havalimanı (MLX)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.7775,37.8393,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

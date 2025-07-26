@@ -4,6 +4,81 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>ODABASI-(HATAY)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 05:27:31<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Kilis, Osmaniye, Gaziantep, Adana, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Şakirpaşa Havalimanı (ADA), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.1617,36.22,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>ULUKOY-(MALATYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 05:23:37<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 3.4 km<br/>
+          <b>Closest Cities:</b> Malatya, Elazığ, Şanlıurfa, Kahramanmaraş, Tunceli<br/>
+          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.5692,38.1627,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>TURKIYE-IRAN SINIR BOLGESI</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.26 04:29:37<br/>
+          <b>Magnitude:</b> 2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Iğdır, Ermenistan, Ağrı, Van, Kars<br/>
+          <b>Nearby Airports:</b> Iğdır Havalimanı (IGD), Ağrı Havalimanı (AJI), Van Ferit Melen Havalimanı (VAN)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.516,39.4695,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>YENILER-SIMAV (KUTAHYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1099,31 +1174,6 @@
         </Style>
         <Point>
           <coordinates>32.648,35.1025,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>ESENLER-ISLAHIYE (GAZIANTEP)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.25 05:00:18<br/>
-          <b>Magnitude:</b> 1.7<br/>
-          <b>Depth:</b> 6.2 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kilis, Gaziantep, Adana, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.529,36.8723,0</coordinates>
         </Point>
       </Placemark>
       

@@ -852,30 +852,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>YESILYURT-KEMALPASA (IZMIR)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 00:29:42<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 18.6 km<br/>
-          <b>Closest Cities:</b> Manisa, Aydın, Uşak, Balıkesir, Denizli<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.6632,38.444,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

@@ -1302,30 +1302,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 16:50:52<br/>
-          <b>Magnitude:</b> 3.6<br/>
-          <b>Depth:</b> 29.8 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, Denizli, İzmir<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.3765,34.9772,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

@@ -29,6 +29,31 @@
       
 
       <Placemark>
+        <name>AKCAKERTIL-KEPSUT (BALIKESIR)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 19:16:03<br/>
+          <b>Magnitude:</b> 1.5<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Manisa, Bursa, Kütahya, İzmir, Yalova<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Bandırma Havalimanı (BDM), Bursa Havalimanı (BTZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.255,39.5422,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1374,81 +1399,6 @@
         </Style>
         <Point>
           <coordinates>30.5787,35.9352,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>OREN-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 20:33:06<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 27.7 km<br/>
-          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Aydın, Isparta<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.4222,36.7713,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>CEYLAN-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 20:20:45<br/>
-          <b>Magnitude:</b> 1.3<br/>
-          <b>Depth:</b> 26.4 km<br/>
-          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Isparta, Aydın<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.5325,36.793,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>DEMRE (ANTALYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 20:19:02<br/>
-          <b>Magnitude:</b> 1.7<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Burdur, Muğla, Denizli, Isparta, Aydın<br/>
-          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>30.0018,36.2498,0</coordinates>
         </Point>
       </Placemark>
       

@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>CEVIRME-AKCADAG (MALATYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 12:48:21<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Gaziantep, Sivas, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.7785,38.269,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>GOKOVA KORFEZI (EGE DENIZI)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -124,6 +149,31 @@
         </Style>
         <Point>
           <coordinates>28.603,37.0932,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 10:32:31<br/>
+          <b>Magnitude:</b> 1.7<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9928,39.2415,0</coordinates>
         </Point>
       </Placemark>
       

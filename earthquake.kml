@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>AKYAR-KORKUTELI (ANTALYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.28 00:53:35<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 103 km<br/>
+          <b>Closest Cities:</b> Burdur, Denizli, Isparta, Muğla, Afyon<br/>
+          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Süleyman Demirel Havalimanı (ISE), Çardak Havalimanı (DNZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>30.1665,37.1228,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>SUGUL-DARENDE (MALATYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.28 00:43:19<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 6 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4948,38.4272,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>SAHINYURDU-GEMLIK (BURSA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1474,81 +1524,6 @@
         </Style>
         <Point>
           <coordinates>38.8248,38.2768,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>TASCILAR-AKHISAR (MANISA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.27 01:12:33<br/>
-          <b>Magnitude:</b> 1.9<br/>
-          <b>Depth:</b> 3.1 km<br/>
-          <b>Closest Cities:</b> İzmir, Balıkesir, Aydın, Uşak, Kütahya<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.9383,38.8612,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>BASOREN-(KUTAHYA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.27 01:06:53<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 8.8 km<br/>
-          <b>Closest Cities:</b> Bilecik, Kütahya, Afyon, Bursa, Sakarya<br/>
-          <b>Nearby Airports:</b> Zafer Havalimanı (KZR), Eskişehir Anadolu Havalimanı (AOE), Sivrihisar Havalimanı (KYA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>30.3003,39.5502,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>AKPINAR-EKINOZU (KAHRAMANMARAS)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.27 01:03:08<br/>
-          <b>Magnitude:</b> 1.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.202,38.092,0</coordinates>
         </Point>
       </Placemark>
       

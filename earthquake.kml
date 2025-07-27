@@ -1427,30 +1427,5 @@
         </Point>
       </Placemark>
       
-
-      <Placemark>
-        <name>BAYIRKOY-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 23:00:47<br/>
-          <b>Magnitude:</b> 2<br/>
-          <b>Depth:</b> 9.6 km<br/>
-          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Aydın, Isparta<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.4378,36.739,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

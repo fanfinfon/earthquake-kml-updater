@@ -4,6 +4,81 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 21:12:28<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9755,39.238,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>AKDENIZ</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 20:45:46<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 4.5 km<br/>
+          <b>Closest Cities:</b> Antalya, Burdur, Muğla, Denizli, Isparta<br/>
+          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Gazipaşa Havalimanı (GZP)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>30.3937,35.7807,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>YUVA-GURUN (SIVAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 20:17:27<br/>
+          <b>Magnitude:</b> 1.7<br/>
+          <b>Depth:</b> 8.7 km<br/>
+          <b>Closest Cities:</b> Malatya, Kahramanmaraş, Kayseri, Adıyaman, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Sivas Nuri Demirağ Havalimanı (VAS), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4345,38.8022,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>GUNDUZBEY-YESILYURT (MALATYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

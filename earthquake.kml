@@ -4,6 +4,81 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 19:44:57<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 7 km<br/>
+          <b>Closest Cities:</b> Gaziantep, Kilis, Osmaniye, Hatay, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.0338,37.3212,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 18:50:46<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.62,36.5623,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>KOLAK-CAMELI (DENIZLI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 18:50:27<br/>
+          <b>Magnitude:</b> 1.4<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Muğla, Burdur, Aydın, Uşak, Antalya<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.1695,37.1062,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>CALIS-ELBISTAN (KAHRAMANMARAS)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1374,31 +1449,6 @@
         </Style>
         <Point>
           <coordinates>30.0018,36.2498,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>OVACIK-HONAZ (DENIZLI)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 19:42:02<br/>
-          <b>Magnitude:</b> 1.2<br/>
-          <b>Depth:</b> 18.1 km<br/>
-          <b>Closest Cities:</b> Uşak, Burdur, Aydın, Muğla, Manisa<br/>
-          <b>Nearby Airports:</b> Çardak Havalimanı (DNZ), Uşak Havalimanı (USQ), Süleyman Demirel Havalimanı (ISE)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.1545,37.7882,0</coordinates>
         </Point>
       </Placemark>
       

@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>AKDENIZ</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 15:20:18<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 19 km<br/>
+          <b>Closest Cities:</b> Antalya, Burdur, Karaman, Kıbrıs, Isparta<br/>
+          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Antalya Havalimanı (AYT), Ercan Havalimanı (ECN)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.4757,36.0062,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>SELIMIYE-MARMARIS (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 14:35:30<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 59 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, İzmir<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0378,36.7547,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>KESECIK-(HATAY)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -24,6 +74,56 @@
         </Style>
         <Point>
           <coordinates>36.0665,36.2562,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>SAHILCEYLAN-FETHIYE (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 13:30:07<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Aydın, Isparta<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.4088,36.7207,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>YENICE-EMET (KUTAHYA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 13:23:15<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Bilecik, Balıkesir<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Bursa Havalimanı (BTZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.1725,39.3,0</coordinates>
         </Point>
       </Placemark>
       
@@ -1224,31 +1324,6 @@
         </Style>
         <Point>
           <coordinates>38.5502,38.1345,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>KARAKURT-KIRKAGAC (MANISA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 15:41:10<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> İzmir, Balıkesir, Çanakkale, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.7777,39.1237,0</coordinates>
         </Point>
       </Placemark>
       

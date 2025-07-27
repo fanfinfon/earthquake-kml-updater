@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>AKDENIZ</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 17:04:46<br/>
+          <b>Magnitude:</b> 1.9<br/>
+          <b>Depth:</b> 2.9 km<br/>
+          <b>Closest Cities:</b> Antalya, Burdur, Isparta, Kıbrıs, Karaman<br/>
+          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Gazipaşa Havalimanı (GZP), Dalaman Havalimanı (DLM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.008,35.8755,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

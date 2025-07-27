@@ -4,6 +4,56 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>MIDILLI ADASI (EGE DENIZI)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 07:24:12<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 14.9 km<br/>
+          <b>Closest Cities:</b> Çanakkale, İzmir, Balıkesir, Manisa, Edirne<br/>
+          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Çanakkale Havalimanı (CKZ), Gökçeada Havalimanı (GKD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.2972,39.3723,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>KULLAR-NURHAK (KAHRAMANMARAS)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 07:14:36<br/>
+          <b>Magnitude:</b> 1.6<br/>
+          <b>Depth:</b> 5.8 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Malatya, Gaziantep, Osmaniye, Kilis<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4908,37.9883,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>TEKEDERESI-PUTURGE (MALATYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>

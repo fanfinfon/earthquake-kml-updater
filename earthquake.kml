@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>ARICILAR-ULA (MUGLA)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 10:08:50<br/>
+          <b>Magnitude:</b> 1.8<br/>
+          <b>Depth:</b> 4.9 km<br/>
+          <b>Closest Cities:</b> Denizli, Aydın, Burdur, Uşak, Manisa<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.595,37.0967,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>UCGOZE-YESILYURT (MALATYA)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -974,56 +999,6 @@
         </Style>
         <Point>
           <coordinates>27.7217,40.208,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>AKDENIZ</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 12:12:40<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 24.7 km<br/>
-          <b>Closest Cities:</b> Kıbrıs, Filistin, İsrail, Lübnan, Mersin<br/>
-          <b>Nearby Airports:</b> Ercan Havalimanı (ECN), Gazipaşa Havalimanı (GZP), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>32.6797,33.1502,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>FATIH-CELIKHAN (ADIYAMAN)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 11:59:07<br/>
-          <b>Magnitude:</b> 1.4<br/>
-          <b>Depth:</b> 17.7 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.3815,38.0138,0</coordinates>
         </Point>
       </Placemark>
       

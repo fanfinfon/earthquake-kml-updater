@@ -7,6 +7,31 @@
         <name>AKDENIZ</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.27 22:50:48<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 10 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, Antalya<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.4443,35.6727,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
+        <name>AKDENIZ</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
           <b>Date:</b> 2025.07.27 21:50:07<br/>
           <b>Magnitude:</b> 2.2<br/>
           <b>Depth:</b> 9 km<br/>
@@ -1399,31 +1424,6 @@
         </Style>
         <Point>
           <coordinates>37.2065,38.0492,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>BAYIRKOY-FETHIYE (MUGLA)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.26 23:42:24<br/>
-          <b>Magnitude:</b> 1.5<br/>
-          <b>Depth:</b> 20.2 km<br/>
-          <b>Closest Cities:</b> Burdur, Denizli, Antalya, Isparta, Aydın<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Antalya Havalimanı (AYT)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.5007,36.7558,0</coordinates>
         </Point>
       </Placemark>
       

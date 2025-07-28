@@ -21,7 +21,7 @@ function isWithinLast7Days(isoDate) {
 (async () => {
   try {
     const { data } = await axios.get('https://api.orhanaydogdu.com.tr/deprem/kandilli/live');
-    const newQuakes = data.result.filter(eq => eq.mag > 2.0);
+    const newQuakes = data.result.filter(eq => eq.mag > 3.8);
 
     let archive = [];
 

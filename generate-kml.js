@@ -14,7 +14,7 @@ function formatKandilliDateToISO(dateStr) {
     const { data } = await axios.get('https://api.orhanaydogdu.com.tr/deprem/kandilli/live');
     const earthquakes = data.result;
 
-    const filtered = earthquakes.filter(eq => eq.mag > 3.8);
+    const filtered = earthquakes.filter(eq => eq.mag > 2.0);
 
     const placemarks = filtered.map(eq => {
       const coords = eq.geojson?.coordinates || [0, 0]; // [lon, lat]

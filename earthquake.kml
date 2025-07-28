@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Filtered Earthquake Data</name>
+    <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
         <name>RODOS ADASI (AKDENIZ)</name>
@@ -29,7 +29,6 @@
           <coordinates>27.7228,36.1852,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>BOZGEDIK-CELIKHAN (ADIYAMAN)</name>
@@ -57,7 +56,6 @@
           <coordinates>38.3085,38.0843,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>KINIK-SINDIRGI (BALIKESIR)</name>
@@ -85,7 +83,6 @@
           <coordinates>28.1965,39.1247,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>SURIYE</name>
@@ -113,7 +110,6 @@
           <coordinates>37.295,34.6917,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -141,7 +137,6 @@
           <coordinates>25.4045,36.3913,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>SURIYE</name>
@@ -169,7 +164,6 @@
           <coordinates>37.0118,35.2425,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -197,7 +191,6 @@
           <coordinates>25.6397,36.6952,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>AKYAR-KORKUTELI (ANTALYA)</name>
@@ -225,7 +218,6 @@
           <coordinates>30.1665,37.1228,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>SUGUL-DARENDE (MALATYA)</name>
@@ -253,7 +245,6 @@
           <coordinates>37.4948,38.4272,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>SAHINYURDU-GEMLIK (BURSA)</name>
@@ -281,7 +272,6 @@
           <coordinates>29.2112,40.4742,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>CUKURCAK-SULTANDAGI (AFYONKARAHISAR)</name>
@@ -309,7 +299,6 @@
           <coordinates>31.4033,38.7845,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -337,7 +326,6 @@
           <coordinates>26.4905,38.7247,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>SEKLI-BEYPAZARI (ANKARA)</name>
@@ -365,7 +353,6 @@
           <coordinates>31.7205,40.1973,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>AKDENIZ</name>
@@ -393,7 +380,6 @@
           <coordinates>28.4443,35.6727,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>AKDENIZ</name>
@@ -421,7 +407,6 @@
           <coordinates>34.6402,36.0947,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
@@ -449,7 +434,6 @@
           <coordinates>28.9755,39.238,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>AKDENIZ</name>
@@ -477,7 +461,6 @@
           <coordinates>30.3937,35.7807,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -505,7 +488,6 @@
           <coordinates>25.62,36.5623,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -533,7 +515,6 @@
           <coordinates>25.9368,36.583,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>AKDENIZ</name>
@@ -561,7 +542,6 @@
           <coordinates>31.4757,36.0062,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>CEVIRME-AKCADAG (MALATYA)</name>
@@ -589,7 +569,6 @@
           <coordinates>37.7785,38.269,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>EGE DENIZI</name>
@@ -617,7 +596,6 @@
           <coordinates>25.6795,36.6487,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>HACIHUSEYINLER-BASKIL (ELAZIG)</name>
@@ -645,7 +623,6 @@
           <coordinates>38.936,38.4052,0</coordinates>
         </Point>
       </Placemark>
-      
 
       <Placemark>
         <name>YAYLANLI-BASKIL (ELAZIG)</name>
@@ -673,34 +650,5 @@
           <coordinates>38.9297,38.3938,0</coordinates>
         </Point>
       </Placemark>
-      
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-07-27T10:22:13.000Z</when>
-        </TimeStamp>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.27 10:22:13<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 10.6 km<br/>
-          <b>Closest Cities:</b> İzmir, Çanakkale, Yunanistan, Manisa, Balıkesir<br/>
-          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.0697,38.8088,0</coordinates>
-        </Point>
-      </Placemark>
-      
   </Document>
 </kml>

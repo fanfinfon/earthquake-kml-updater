@@ -4,6 +4,31 @@
     <name>Earthquake Data</name>
     
       <Placemark>
+        <name>BOZGEDIK-CELIKHAN (ADIYAMAN)</name>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.28 07:29:36<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 1.4 km<br/>
+          <b>Closest Cities:</b> Malatya, Şanlıurfa, Kahramanmaraş, Elazığ, Gaziantep<br/>
+          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color> <!-- Red -->
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.3085,38.0843,0</coordinates>
+        </Point>
+      </Placemark>
+      
+
+      <Placemark>
         <name>KINIK-SINDIRGI (BALIKESIR)</name>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
@@ -1774,31 +1799,6 @@
         </Style>
         <Point>
           <coordinates>25.7358,36.6502,0</coordinates>
-        </Point>
-      </Placemark>
-      
-
-      <Placemark>
-        <name>SUYATAGI-TORTUM (ERZURUM)</name>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.27 07:34:48<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Artvin, Rize, Bayburt, Kars, Ardahan<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Kars Havalimanı (KSY), Ağrı Havalimanı (AJI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color> <!-- Red -->
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.5198,40.4448,0</coordinates>
         </Point>
       </Placemark>
       

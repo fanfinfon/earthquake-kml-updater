@@ -3,31 +3,5 @@
   <Document>
     <name>Earthquake Data (Last 7 Days)</name>
     
-      <Placemark>
-        <name>SURIYE</name>
-        <TimeStamp>
-          <when>2025-07-28T05:31:48.000Z</when>
-        </TimeStamp>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.28 05:31:48<br/>
-          <b>Magnitude:</b> 4.1<br/>
-          <b>Depth:</b> 6 km<br/>
-          <b>Closest Cities:</b> Lübnan, Hatay, Kilis, Gaziantep, Osmaniye<br/>
-          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Gaziantep Havalimanı (GZT), Şakirpaşa Havalimanı (ADA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.295,34.6917,0</coordinates>
-        </Point>
-      </Placemark>
   </Document>
 </kml>

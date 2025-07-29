@@ -548,38 +548,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KUZKOY-IMRANLI (SIVAS)</name>
-        <TimeStamp>
-          <when>2025-07-28T18:51:04.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Y8TkFuzG8Duv2</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.28 21:51:04<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 1.4 km<br/>
-          <b>Closest Cities:</b> Giresun, Erzincan, Gümüşhane, Ordu, Tunceli<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Sivas Nuri Demirağ Havalimanı (VAS), Ordu Giresun Havalimanı (OGU)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.3347,39.8413,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>NADIRKOY-AFSIN (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-07-29T16:58:40.000Z</when>
@@ -1120,38 +1088,6 @@
         </Style>
         <Point>
           <coordinates>28.6982,40.8347,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KUZKOY-IMRANLI (SIVAS)</name>
-        <TimeStamp>
-          <when>2025-07-28T18:51:04.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Y8TkFuzG8Duv2</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.28 21:51:04<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 1.4 km<br/>
-          <b>Closest Cities:</b> Giresun, Erzincan, Gümüşhane, Ordu, Tunceli<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Sivas Nuri Demirağ Havalimanı (VAS), Ordu Giresun Havalimanı (OGU)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.3347,39.8413,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -2,14 +2,12 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const ARCHIVE_PATH = path.join(__dirname, 'archive.json');
 const KML_PATH = path.join(__dirname, 'earthquake.kml');
 
 function formatKandilliDateToISO(dateStr) {
-  // "2025.07.28 09:07:03" → "2025-07-28T09:07:03Z"
   const [datePart, timePart] = dateStr.split(' ');
   const [year, month, day] = datePart.split('.');
-  return new Date(`${year}-${month}-${day}T${timePart}Z`).toISOString();
+  return new Date(`${year}-${month}-${day}T${timePart}+03:00`).toISOString(); // Turkish local time
 }
 
 function isWithinLast7Days(isoDate) {
@@ -18,36 +16,39 @@ function isWithinLast7Days(isoDate) {
   return (now - eventDate) <= 7 * 24 * 60 * 60 * 1000; // 7 days
 }
 
+function extractEarthquakeIDsFromKML(kmlContent) {
+  const idRegex = /<ExtendedData>[\s\S]*?<Data name="earthquake_id">[\s\S]*?<value>(.*?)<\/value>/g;
+  const ids = [];
+  let match;
+  while ((match = idRegex.exec(kmlContent)) !== null) {
+    ids.push(match[1]);
+  }
+  return ids;
+}
+
 (async () => {
   try {
     const { data } = await axios.get('https://api.orhanaydogdu.com.tr/deprem/kandilli/live');
     const newQuakes = data.result.filter(eq => eq.mag > 3.8);
 
-    let archive = [];
-
-    // Load existing archive
-    if (fs.existsSync(ARCHIVE_PATH)) {
-      archive = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf8'));
+    // Load existing earthquake IDs from current KML (if exists)
+    let existingIDs = [];
+    if (fs.existsSync(KML_PATH)) {
+      const kmlContent = fs.readFileSync(KML_PATH, 'utf8');
+      existingIDs = extractEarthquakeIDsFromKML(kmlContent);
     }
 
-    // Append new, unique earthquakes
-    for (const eq of newQuakes) {
-      if (!archive.find(e => e.earthquake_id === eq.earthquake_id)) {
-        archive.push(eq);
-      }
-    }
+    // Keep only new earthquakes not already in the KML
+    const uniqueNewQuakes = newQuakes.filter(eq => !existingIDs.includes(eq.earthquake_id));
 
-    // Remove entries older than 7 days
-    archive = archive.filter(eq => {
-      const isoDate = formatKandilliDateToISO(eq.date);
-      return isWithinLast7Days(isoDate);
-    });
+    // Combine existing + new (load all data again from KML if needed)
+    const combinedQuakes = [...newQuakes, ...data.result.filter(eq => existingIDs.includes(eq.earthquake_id))];
 
-    // Save updated archive
-    fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(archive, null, 2), 'utf8');
+    // Filter to keep only those within 7 days
+    const recentQuakes = combinedQuakes.filter(eq => isWithinLast7Days(formatKandilliDateToISO(eq.date)));
 
-    // Generate KML from archive
-    const placemarks = archive.map(eq => {
+    // Generate KML
+    const placemarks = recentQuakes.map(eq => {
       const coords = eq.geojson?.coordinates || [0, 0];
       const provider = eq.provider || '';
       const title = eq.title || '';
@@ -55,6 +56,7 @@ function isWithinLast7Days(isoDate) {
       const isoDate = formatKandilliDateToISO(rawDate);
       const mag = eq.mag || '';
       const depth = eq.depth || '';
+      const earthquakeId = eq.earthquake_id || '';
 
       const closestCities = eq.location_properties?.closestCities || [];
       const closestCityList = closestCities.map(c => c.name).join(', ') || (eq.location_properties?.closestCity?.name || 'N/A');
@@ -68,6 +70,11 @@ function isWithinLast7Days(isoDate) {
         <TimeStamp>
           <when>${isoDate}</when>
         </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>${earthquakeId}</value>
+          </Data>
+        </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> ${provider}<br/>
           <b>Date:</b> ${rawDate}<br/>
@@ -100,9 +107,8 @@ function isWithinLast7Days(isoDate) {
 </kml>`;
 
     fs.writeFileSync(KML_PATH, kml, 'utf8');
-    console.log('✅ KML file updated with last 7 days of data.');
+    console.log(`✅ KML updated. Entries: ${recentQuakes.length}`);
   } catch (err) {
     console.error('❌ Error:', err.message);
   }
 })();
-

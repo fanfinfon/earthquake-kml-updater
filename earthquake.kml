@@ -580,38 +580,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BALLIKAYA-KARACABEY (BURSA)</name>
-        <TimeStamp>
-          <when>2025-07-28T11:08:20.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>ZPLcbXo1TtAMf</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.28 14:08:20<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.1 km<br/>
-          <b>Closest Cities:</b> Yalova, Bursa, Balıkesir, İstanbul, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.5597,40.3985,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
         <TimeStamp>
           <when>2025-07-29T07:49:24.000Z</when>
@@ -1184,38 +1152,6 @@
         </Style>
         <Point>
           <coordinates>28.8497,37.0323,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BALLIKAYA-KARACABEY (BURSA)</name>
-        <TimeStamp>
-          <when>2025-07-28T11:08:20.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>ZPLcbXo1TtAMf</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.28 14:08:20<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.1 km<br/>
-          <b>Closest Cities:</b> Yalova, Bursa, Balıkesir, İstanbul, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.5597,40.3985,0</coordinates>
         </Point>
       </Placemark>
   </Document>

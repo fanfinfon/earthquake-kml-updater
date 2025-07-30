@@ -452,38 +452,6 @@
       </Placemark>
 
       <Placemark>
-        <name>NADIRKOY-AFSIN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-07-29T16:58:40.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>YIByXh3yFyCBp</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 19:58:40<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kayseri, Osmaniye, Malatya, Gaziantep, Adıyaman<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.936,38.158,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-07-30T15:52:19.000Z</when>
@@ -928,38 +896,6 @@
         </Style>
         <Point>
           <coordinates>25.8647,35.814,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>NADIRKOY-AFSIN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-07-29T16:58:40.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>YIByXh3yFyCBp</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 19:58:40<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kayseri, Osmaniye, Malatya, Gaziantep, Adıyaman<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.936,38.158,0</coordinates>
         </Point>
       </Placemark>
   </Document>

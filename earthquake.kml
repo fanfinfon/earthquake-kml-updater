@@ -548,38 +548,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
-        <TimeStamp>
-          <when>2025-07-29T07:49:24.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>dukVZAUwHVNGR</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 10:49:24<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.9 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.4217,38.1207,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GUNEYPINAR-ILGIN (KONYA)</name>
         <TimeStamp>
           <when>2025-07-30T04:30:20.000Z</when>
@@ -1120,38 +1088,6 @@
         </Style>
         <Point>
           <coordinates>28.1978,39.1573,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
-        <TimeStamp>
-          <when>2025-07-29T07:49:24.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>dukVZAUwHVNGR</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 10:49:24<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.9 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.4217,38.1207,0</coordinates>
         </Point>
       </Placemark>
   </Document>

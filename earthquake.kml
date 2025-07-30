@@ -452,38 +452,6 @@
       </Placemark>
 
       <Placemark>
-        <name>GUNESLIK-YAYLADERE (BINGOL)</name>
-        <TimeStamp>
-          <when>2025-07-29T21:18:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>QB0cEh0pAu8Xh</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.30 00:18:57<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 6.4 km<br/>
-          <b>Closest Cities:</b> Tunceli, Erzincan, Elazığ, Bayburt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.1418,39.2412,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-07-30T20:24:08.000Z</when>
@@ -928,38 +896,6 @@
         </Style>
         <Point>
           <coordinates>39.1867,38.4808,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GUNESLIK-YAYLADERE (BINGOL)</name>
-        <TimeStamp>
-          <when>2025-07-29T21:18:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>QB0cEh0pAu8Xh</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.30 00:18:57<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 6.4 km<br/>
-          <b>Closest Cities:</b> Tunceli, Erzincan, Elazığ, Bayburt, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.1418,39.2412,0</coordinates>
         </Point>
       </Placemark>
   </Document>

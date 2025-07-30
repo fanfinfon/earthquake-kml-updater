@@ -484,38 +484,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-07-29T13:07:26.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>alfmFC851uW_n</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 16:07:26<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.4 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9547,39.269,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GUNEYPINAR-ILGIN (KONYA)</name>
         <TimeStamp>
           <when>2025-07-30T04:30:20.000Z</when>
@@ -992,38 +960,6 @@
         </Style>
         <Point>
           <coordinates>28.9892,39.2457,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-07-29T13:07:26.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>alfmFC851uW_n</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 16:07:26<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.4 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9547,39.269,0</coordinates>
         </Point>
       </Placemark>
   </Document>

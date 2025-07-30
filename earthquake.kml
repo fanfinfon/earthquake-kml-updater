@@ -516,6 +516,38 @@
       </Placemark>
 
       <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-07-30T20:24:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>MqCk9IHlEGuez</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.30 23:24:08<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 125.5 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Yunanistan, Denizli<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.4123,36.456,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>OSMANGAZI (BURSA)</name>
         <TimeStamp>
           <when>2025-07-30T18:58:33.000Z</when>

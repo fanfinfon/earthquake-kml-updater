@@ -676,22 +676,22 @@
       </Placemark>
 
       <Placemark>
-        <name>BANDIRMA ACIKLARI-BALIKESIR (MARMARA DENIZI)</name>
+        <name>GUNEYPINAR-ILGIN (KONYA)</name>
         <TimeStamp>
-          <when>2025-07-29T05:24:40.000Z</when>
+          <when>2025-07-30T04:30:20.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>26JhvTonBJ84t</value>
+            <value>l6AWM1f83DslJ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 08:24:40<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, Yalova, Bursa, Tekirdağ, İstanbul<br/>
-          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Bursa Havalimanı (BTZ), Tekirdağ Çorlu Havalimanı (TEQ)
+          <b>Date:</b> 2025.07.30 07:30:20<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 2.6 km<br/>
+          <b>Closest Cities:</b> Isparta, Afyon, Aksaray, Karaman, Antalya<br/>
+          <b>Nearby Airports:</b> Konya Havalimanı (KYA), Afyon Havalimanı (AFY), Süleyman Demirel Havalimanı (ISE)
         ]]></description>
         <Style>
           <IconStyle>
@@ -703,7 +703,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.155,40.43,0</coordinates>
+          <coordinates>32.1098,38.1088,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1344,38 +1344,6 @@
         </Style>
         <Point>
           <coordinates>28.9625,39.26,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BANDIRMA ACIKLARI-BALIKESIR (MARMARA DENIZI)</name>
-        <TimeStamp>
-          <when>2025-07-29T05:24:40.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>26JhvTonBJ84t</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 08:24:40<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, Yalova, Bursa, Tekirdağ, İstanbul<br/>
-          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Bursa Havalimanı (BTZ), Tekirdağ Çorlu Havalimanı (TEQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.155,40.43,0</coordinates>
         </Point>
       </Placemark>
   </Document>

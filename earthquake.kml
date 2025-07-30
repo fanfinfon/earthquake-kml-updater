@@ -580,38 +580,6 @@
       </Placemark>
 
       <Placemark>
-        <name>ALPUDERE-SULUSARAY (TOKAT)</name>
-        <TimeStamp>
-          <when>2025-07-29T06:49:56.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PXxCNYzOrczfa</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 09:49:56<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 6.2 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Ordu<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0852,40.0672,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GUNEYPINAR-ILGIN (KONYA)</name>
         <TimeStamp>
           <when>2025-07-30T04:30:20.000Z</when>
@@ -1184,38 +1152,6 @@
         </Style>
         <Point>
           <coordinates>38.4217,38.1207,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ALPUDERE-SULUSARAY (TOKAT)</name>
-        <TimeStamp>
-          <when>2025-07-29T06:49:56.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PXxCNYzOrczfa</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.29 09:49:56<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 6.2 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Ordu<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0852,40.0672,0</coordinates>
         </Point>
       </Placemark>
   </Document>

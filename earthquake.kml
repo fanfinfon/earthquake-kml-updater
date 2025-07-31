@@ -356,6 +356,70 @@
       </Placemark>
 
       <Placemark>
+        <name>BADEMLI-NURDAGI (GAZIANTEP)</name>
+        <TimeStamp>
+          <when>2025-07-31T04:15:40.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>O2iXVGTG8n9Kd</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 07:15:40<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.7 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kilis, Kahramanmaraş, Hatay, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.7337,37.2165,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>AKDENIZ</name>
+        <TimeStamp>
+          <when>2025-07-31T03:39:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>k1PeyrF3DrHp7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 06:39:37<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Muğla, Denizli, Burdur, Aydın, Antalya<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9867,36.1988,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ESENLI-SUMBAS (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-07-31T01:43:42.000Z</when>

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>MIDILLI ADASI GUNEYI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-07-31T22:37:14.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>y4PbRAlaMiu1I</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 01:37:14<br/>
+          <b>Magnitude:</b> 3.8<br/>
+          <b>Depth:</b> 5.6 km<br/>
+          <b>Closest Cities:</b> İzmir, Çanakkale, Yunanistan, Balıkesir, Manisa<br/>
+          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Balıkesir Koca Seyit Havalimanı (EDO), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.0033,38.9738,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-07-31T21:43:04.000Z</when>

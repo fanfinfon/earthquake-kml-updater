@@ -580,6 +580,38 @@
       </Placemark>
 
       <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-07-31T15:47:17.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>1XFpcy2EHz193</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 18:47:17<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 8.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9992,39.2385,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GIRIT ADASI (AKDENIZ)</name>
         <TimeStamp>
           <when>2025-07-31T13:50:49.000Z</when>

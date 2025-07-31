@@ -708,6 +708,38 @@
       </Placemark>
 
       <Placemark>
+        <name>IRAN</name>
+        <TimeStamp>
+          <when>2025-07-31T13:28:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>wCdH8v3sG61Jq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 16:28:57<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Van, Hakkari, Ermenistan, Iğdır, Ağrı<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>45.2823,38.5197,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BAGOZU-BEYPAZARI (ANKARA)</name>
         <TimeStamp>
           <when>2025-07-31T10:51:56.000Z</when>

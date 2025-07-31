@@ -580,6 +580,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SURIYE</name>
+        <TimeStamp>
+          <when>2025-07-31T13:40:32.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>nzyT04A7sGwxf</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 16:40:32<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9.4 km<br/>
+          <b>Closest Cities:</b> Şanlıurfa, Kilis, Gaziantep, Adıyaman, Hatay<br/>
+          <b>Nearby Airports:</b> Gaziantep Havalimanı (GZT), GAP Havalimanı (GNY), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.4983,36.4613,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BAGOZU-BEYPAZARI (ANKARA)</name>
         <TimeStamp>
           <when>2025-07-31T10:51:56.000Z</when>

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BAGOZU-BEYPAZARI (ANKARA)</name>
+        <TimeStamp>
+          <when>2025-07-31T10:51:56.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7lWOHJkFIhqkA</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 13:51:56<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.8 km<br/>
+          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Zonguldak, Karabük<br/>
+          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.8208,40.1845,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
         <TimeStamp>
           <when>2025-07-31T10:36:40.000Z</when>
@@ -576,6 +608,38 @@
         </Style>
         <Point>
           <coordinates>28.2827,40.8207,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-07-31T09:44:47.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>wTIqY_c7ORPz_</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.07.31 12:44:47<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7.9 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Denizli, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.3407,36.9287,0</coordinates>
         </Point>
       </Placemark>
 

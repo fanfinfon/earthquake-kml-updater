@@ -708,22 +708,22 @@
       </Placemark>
 
       <Placemark>
-        <name>BAGOZU-BEYPAZARI (ANKARA)</name>
+        <name>CUKURKAYA-DARENDE (MALATYA)</name>
         <TimeStamp>
-          <when>2025-07-31T10:51:56.000Z</when>
+          <when>2025-08-01T10:21:58.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>7lWOHJkFIhqkA</value>
+            <value>9gbSMvzIVRjQX</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 13:51:56<br/>
-          <b>Magnitude:</b> 2.2<br/>
+          <b>Date:</b> 2025.08.01 13:21:58<br/>
+          <b>Magnitude:</b> 2.3<br/>
           <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Zonguldak, Karabük<br/>
-          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
+          <b>Closest Cities:</b> Kahramanmaraş, Sivas, Adıyaman, Kayseri, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,7 +735,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>31.8208,40.1845,0</coordinates>
+          <coordinates>37.4688,38.6027,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1408,6 @@
         </Style>
         <Point>
           <coordinates>45.2823,38.5197,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BAGOZU-BEYPAZARI (ANKARA)</name>
-        <TimeStamp>
-          <when>2025-07-31T10:51:56.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7lWOHJkFIhqkA</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 13:51:56<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Zonguldak, Karabük<br/>
-          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.8208,40.1845,0</coordinates>
         </Point>
       </Placemark>
   </Document>

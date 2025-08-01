@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-01T06:08:40.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>gB8GJg9buWoSC</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 09:08:40<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 7.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9502,39.2728,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YESILDERE-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-08-01T05:33:44.000Z</when>
@@ -676,22 +708,22 @@
       </Placemark>
 
       <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
+        <name>YESILDERE-SIMAV (KUTAHYA)</name>
         <TimeStamp>
-          <when>2025-07-31T06:52:38.000Z</when>
+          <when>2025-08-01T05:33:44.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>yZ4kMKPUqz_XH</value>
+            <value>Tk1t5LUtisw3l</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 09:52:38<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 15 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+          <b>Date:</b> 2025.08.01 08:33:44<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.2 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
         ]]></description>
         <Style>
           <IconStyle>
@@ -703,7 +735,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1903,39.1498,0</coordinates>
+          <coordinates>28.9798,39.2662,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1344,38 +1376,6 @@
         </Style>
         <Point>
           <coordinates>28.9815,39.241,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-07-31T06:52:38.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>yZ4kMKPUqz_XH</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 09:52:38<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 15 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1903,39.1498,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -836,6 +836,38 @@
       </Placemark>
 
       <Placemark>
+        <name>ERMENISTAN</name>
+        <TimeStamp>
+          <when>2025-08-01T19:07:26.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>MhEKpYnroFo27</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 22:07:26<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Ardahan, Kars, Iğdır, Gürcistan, Artvin<br/>
+          <b>Nearby Airports:</b> Kars Havalimanı (KSY), Iğdır Havalimanı (IGD), Ağrı Havalimanı (AJI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>43.853,41.0725,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-01T18:42:59.000Z</when>

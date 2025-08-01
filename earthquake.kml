@@ -708,38 +708,6 @@
       </Placemark>
 
       <Placemark>
-        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-07-31T09:44:47.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>wTIqY_c7ORPz_</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 12:44:47<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.9 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Denizli, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.3407,36.9287,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GORGU-YESILYURT (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-01T08:13:03.000Z</when>
@@ -1440,38 +1408,6 @@
         </Style>
         <Point>
           <coordinates>28.2827,40.8207,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-07-31T09:44:47.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>wTIqY_c7ORPz_</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.07.31 12:44:47<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.9 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Denizli, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.3407,36.9287,0</coordinates>
         </Point>
       </Placemark>
   </Document>

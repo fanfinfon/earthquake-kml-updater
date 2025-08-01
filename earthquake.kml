@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BAGCAGIZ-MUT (MERSIN)</name>
+        <TimeStamp>
+          <when>2025-08-01T09:56:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>diC6lfYjfFe3I</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 12:56:10<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 14.9 km<br/>
+          <b>Closest Cities:</b> Karaman, Konya, Niğde, Kıbrıs, Aksaray<br/>
+          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Şakirpaşa Havalimanı (ADA), Konya Havalimanı (KYA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>33.5515,36.6975,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GORGU-YESILYURT (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-01T08:13:03.000Z</when>

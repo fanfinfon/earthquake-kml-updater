@@ -772,6 +772,70 @@
       </Placemark>
 
       <Placemark>
+        <name>AKDENIZ</name>
+        <TimeStamp>
+          <when>2025-08-01T11:36:11.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>1IVfaXsnRxyC3</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 14:36:11<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 42.9 km<br/>
+          <b>Closest Cities:</b> Kıbrıs, Lübnan, Mersin, Karaman, Hatay<br/>
+          <b>Nearby Airports:</b> Ercan Havalimanı (ECN), Gazipaşa Havalimanı (GZP), Şakirpaşa Havalimanı (ADA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>33.924,34.8208,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YUNUSLAR-GEDIZ (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-01T11:32:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>kIceNNJNFVlKT</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 14:32:08<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 6.5 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Bilecik, Afyon<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Afyon Havalimanı (AFY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.4357,39.1403,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CUKURKAYA-DARENDE (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-01T10:21:58.000Z</when>

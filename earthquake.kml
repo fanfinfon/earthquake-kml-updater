@@ -708,6 +708,38 @@
       </Placemark>
 
       <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-01T06:08:40.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>gB8GJg9buWoSC</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 09:08:40<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 7.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9502,39.2728,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YESILDERE-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-08-01T05:33:44.000Z</when>

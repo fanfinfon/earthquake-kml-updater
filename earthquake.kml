@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ESENLI-SUMBAS (OSMANIYE)</name>
+        <TimeStamp>
+          <when>2025-08-01T17:34:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7fe9jxuozngak</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 20:34:36<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 4.5 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kahramanmaraş, Kayseri, Gaziantep, Niğde<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Şakirpaşa Havalimanı (ADA), Kayseri Erkilet Havalimanı (ASR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.1185,37.6825,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>COKEKYAZI-HIZAN (BITLIS)</name>
+        <TimeStamp>
+          <when>2025-08-01T17:24:25.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>zuvd6kkKlIkOV</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 20:24:25<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 2 km<br/>
+          <b>Closest Cities:</b> Siirt, Batman, Muş, Şırnak, Van<br/>
+          <b>Nearby Airports:</b> Siirt Havalimanı (SXZ), Muş Havalimanı (MSR), Van Ferit Melen Havalimanı (VAN)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>42.3793,38.2798,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)</name>
         <TimeStamp>
           <when>2025-08-01T15:36:04.000Z</when>

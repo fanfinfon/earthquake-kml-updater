@@ -262,38 +262,6 @@
       <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-08-01T18:42:59.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>tQXQGmBiijTOG</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 21:42:59<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> İzmir, Çanakkale, Yunanistan, Manisa, Balıkesir<br/>
-          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.095,38.8107,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
           <when>2025-08-02T12:25:09.000Z</when>
         </TimeStamp>
         <ExtendedData>
@@ -544,38 +512,6 @@
         </Style>
         <Point>
           <coordinates>43.853,41.0725,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-01T18:42:59.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>tQXQGmBiijTOG</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 21:42:59<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> İzmir, Çanakkale, Yunanistan, Manisa, Balıkesir<br/>
-          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.095,38.8107,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>CAYYAKA-ILIC (ERZINCAN)</name>
+        <TimeStamp>
+          <when>2025-08-02T02:05:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>bFYtm4KNfF4Tn</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.02 05:05:01<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Giresun, Tunceli, Gümüşhane, Sivas, Elazığ<br/>
+          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.569,39.6288,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARBASAN-HISARCIK (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-02T01:19:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>sReQJ2WTZ98bq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.02 04:19:53<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 6.8 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Bilecik, Manisa, Afyon<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Afyon Havalimanı (AFY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.407,39.2003,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>HAMITLER-INCIRLIOVA (AYDIN)</name>
         <TimeStamp>
           <when>2025-08-02T00:07:53.000Z</when>
@@ -708,22 +772,22 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
+        <name>HAMITLER-INCIRLIOVA (AYDIN)</name>
         <TimeStamp>
-          <when>2025-08-01T02:32:32.000Z</when>
+          <when>2025-08-02T00:07:53.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>DSoXnPylMgep5</value>
+            <value>DdwrhCPliKIal</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:32:32<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 15.5 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+          <b>Date:</b> 2025.08.02 03:07:53<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> İzmir, Manisa, Muğla, Denizli, Uşak<br/>
+          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,71 +799,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>26.3285,35.7347,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KAVAKLIDERE-AZIZIYE (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-08-01T02:11:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>8MnEl97E8cldS</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:11:06<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 7.5 km<br/>
-          <b>Closest Cities:</b> Bayburt, Rize, Bingöl, Artvin, Trabzon<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Erzincan Havalimanı (ERC), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.1047,40.0718,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
-        <TimeStamp>
-          <when>2025-08-01T01:33:19.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>n2KvwWIyCZsiX</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 04:33:19<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 10.1 km<br/>
-          <b>Closest Cities:</b> İstanbul, Tekirdağ, Yalova, Bursa, Kırklareli<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Atatürk Havalimanı (IST), İstanbul Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2827,40.8187,0</coordinates>
+          <coordinates>27.6738,37.9003,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1472,102 +1472,6 @@
         </Style>
         <Point>
           <coordinates>28.961,39.2435,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-01T02:32:32.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>DSoXnPylMgep5</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:32:32<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 15.5 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.3285,35.7347,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KAVAKLIDERE-AZIZIYE (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-08-01T02:11:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>8MnEl97E8cldS</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:11:06<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 7.5 km<br/>
-          <b>Closest Cities:</b> Bayburt, Rize, Bingöl, Artvin, Trabzon<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Erzincan Havalimanı (ERC), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.1047,40.0718,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
-        <TimeStamp>
-          <when>2025-08-01T01:33:19.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>n2KvwWIyCZsiX</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 04:33:19<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 10.1 km<br/>
-          <b>Closest Cities:</b> İstanbul, Tekirdağ, Yalova, Bursa, Kırklareli<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Atatürk Havalimanı (IST), İstanbul Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2827,40.8187,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -260,6 +260,38 @@
       </Placemark>
 
       <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-01T17:27:05.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>VHM_U4AfrWX9B</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.01 20:27:05<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 21.9 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.3258,36.6062,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>COKEKYAZI-HIZAN (BITLIS)</name>
         <TimeStamp>
           <when>2025-08-01T17:24:25.000Z</when>
@@ -512,38 +544,6 @@
         </Style>
         <Point>
           <coordinates>36.3162,37.9952,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-01T06:08:40.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gB8GJg9buWoSC</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 09:08:40<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 7.3 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9502,39.2728,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1056,38 +1056,6 @@
         </Style>
         <Point>
           <coordinates>36.3162,37.9952,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-01T06:08:40.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gB8GJg9buWoSC</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 09:08:40<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 7.3 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9502,39.2728,0</coordinates>
         </Point>
       </Placemark>
   </Document>

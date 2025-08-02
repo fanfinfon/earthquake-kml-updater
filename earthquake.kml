@@ -740,22 +740,22 @@
       </Placemark>
 
       <Placemark>
-        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <name>CAYYAKA-ILIC (ERZINCAN)</name>
         <TimeStamp>
-          <when>2025-08-01T02:58:49.000Z</when>
+          <when>2025-08-02T02:05:01.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>l_mxm4S0tbJva</value>
+            <value>bFYtm4KNfF4Tn</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:58:49<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 4.1 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+          <b>Date:</b> 2025.08.02 05:05:01<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Giresun, Tunceli, Gümüşhane, Sivas, Elazığ<br/>
+          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX)
         ]]></description>
         <Style>
           <IconStyle>
@@ -767,7 +767,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.961,39.2435,0</coordinates>
+          <coordinates>38.569,39.6288,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARBASAN-HISARCIK (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-02T01:19:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>sReQJ2WTZ98bq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.02 04:19:53<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 6.8 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Bilecik, Manisa, Afyon<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Afyon Havalimanı (AFY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.407,39.2003,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1440,38 +1472,6 @@
         </Style>
         <Point>
           <coordinates>25.3858,36.4297,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YEMISLI-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-01T02:58:49.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>l_mxm4S0tbJva</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.01 05:58:49<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 4.1 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.961,39.2435,0</coordinates>
         </Point>
       </Placemark>
   </Document>

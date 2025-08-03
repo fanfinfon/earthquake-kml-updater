@@ -4,6 +4,102 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KARAGOZ-(MALATYA)</name>
+        <TimeStamp>
+          <when>2025-08-03T00:59:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>NKBKIoVo92X9f</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 03:59:24<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.5 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Elazığ, Kahramanmaraş, Şanlıurfa, Tunceli<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.3173,38.3058,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EDREMIT KORFEZI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-08-03T00:53:56.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Oh1ZaVCGadgsP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 03:53:56<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 6.1 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Balıkesir, İzmir, Manisa, Edirne<br/>
+          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Çanakkale Havalimanı (CKZ), Gökçeada Havalimanı (GKD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.2992,39.4558,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ISIKLAR-BIGADIC (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-02T23:59:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>_SdFo9X6lruRh</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 02:59:57<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6 km<br/>
+          <b>Closest Cities:</b> Manisa, Bursa, İzmir, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1445,39.4107,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-02T23:01:00.000Z</when>
@@ -260,70 +356,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KARBASAN-HISARCIK (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-02T01:19:53.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>sReQJ2WTZ98bq</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 04:19:53<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 6.8 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Bilecik, Manisa, Afyon<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Afyon Havalimanı (AFY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.407,39.2003,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>HAMITLER-INCIRLIOVA (AYDIN)</name>
-        <TimeStamp>
-          <when>2025-08-02T00:07:53.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>DdwrhCPliKIal</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 03:07:53<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> İzmir, Manisa, Muğla, Denizli, Uşak<br/>
-          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.6738,37.9003,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-02T23:01:00.000Z</when>
@@ -576,70 +608,6 @@
         </Style>
         <Point>
           <coordinates>38.569,39.6288,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARBASAN-HISARCIK (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-02T01:19:53.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>sReQJ2WTZ98bq</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 04:19:53<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 6.8 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Bilecik, Manisa, Afyon<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Afyon Havalimanı (AFY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.407,39.2003,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>HAMITLER-INCIRLIOVA (AYDIN)</name>
-        <TimeStamp>
-          <when>2025-08-02T00:07:53.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>DdwrhCPliKIal</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 03:07:53<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> İzmir, Manisa, Muğla, Denizli, Uşak<br/>
-          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.6738,37.9003,0</coordinates>
         </Point>
       </Placemark>
   </Document>

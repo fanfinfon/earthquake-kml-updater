@@ -740,6 +740,38 @@
       </Placemark>
 
       <Placemark>
+        <name>YEDIYOL-PUTURGE (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-08-03T09:41:47.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>yskyUQPHOrkPN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 12:41:47<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Elazığ, Şanlıurfa, Tunceli, Diyarbakır<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.8552,38.272,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-03T09:10:38.000Z</when>

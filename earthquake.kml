@@ -68,6 +68,38 @@
       </Placemark>
 
       <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-03T10:10:33.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>AoRXC7Uf6IRu7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 13:10:33<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Çanakkale, İzmir, Yunanistan, Balıkesir, Manisa<br/>
+          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL), Gökçeada Havalimanı (GKD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.7962,39.0642,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YEDIYOL-PUTURGE (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-03T09:41:47.000Z</when>
@@ -800,6 +832,38 @@
         </Style>
         <Point>
           <coordinates>24.8873,40.1032,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ALTINTAS-MUDANYA (BURSA)</name>
+        <TimeStamp>
+          <when>2025-08-03T10:43:07.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>p8CB_Hgo9PWKa</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 13:43:07<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 8.1 km<br/>
+          <b>Closest Cities:</b> Yalova, Bursa, Kocaeli, İstanbul, Bilecik<br/>
+          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.994,40.3658,0</coordinates>
         </Point>
       </Placemark>
 

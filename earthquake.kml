@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>MARMARA DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-03T22:40:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>0BHUyHZTMBhbP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 01:40:04<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 5.5 km<br/>
+          <b>Closest Cities:</b> İstanbul, Yalova, Tekirdağ, Bursa, Kırklareli<br/>
+          <b>Nearby Airports:</b> Atatürk Havalimanı (IST), Tekirdağ Çorlu Havalimanı (TEQ), İstanbul Havalimanı (IST)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2943,40.8113,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-08-03T19:28:01.000Z</when>

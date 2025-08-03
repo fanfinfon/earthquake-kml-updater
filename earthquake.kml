@@ -870,6 +870,70 @@
       <Placemark>
         <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
         <TimeStamp>
+          <when>2025-08-03T19:28:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>T_wbxVc59D_YZ</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 22:28:01<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7.8 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Adana, Kilis, Gaziantep, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.076,37.0037,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>LALEGOLU-TOPRAKKALE (OSMANIYE)</name>
+        <TimeStamp>
+          <when>2025-08-03T19:25:54.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>rqFHQTzmodyJ1</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 22:25:54<br/>
+          <b>Magnitude:</b> 3.8<br/>
+          <b>Depth:</b> 5.9 km<br/>
+          <b>Closest Cities:</b> Adana, Hatay, Kilis, Gaziantep, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.0608,37.0268,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
+        <TimeStamp>
           <when>2025-08-03T19:23:12.000Z</when>
         </TimeStamp>
         <ExtendedData>

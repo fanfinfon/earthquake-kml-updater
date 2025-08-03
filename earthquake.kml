@@ -804,38 +804,6 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-02T12:25:09.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>yFERzED5drVn4</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 15:25:09<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 2.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Yunanistan, Tekirdağ, Balıkesir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.8873,40.1032,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ALTINTAS-MUDANYA (BURSA)</name>
         <TimeStamp>
           <when>2025-08-03T10:43:07.000Z</when>
@@ -896,6 +864,38 @@
         </Style>
         <Point>
           <coordinates>36.2042,36.2197,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-03T10:10:33.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>AoRXC7Uf6IRu7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 13:10:33<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Çanakkale, İzmir, Yunanistan, Balıkesir, Manisa<br/>
+          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL), Gökçeada Havalimanı (GKD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.7962,39.0642,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1600,38 +1600,6 @@
         </Style>
         <Point>
           <coordinates>38.3967,38.1943,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-02T12:25:09.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>yFERzED5drVn4</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 15:25:09<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 2.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Yunanistan, Tekirdağ, Balıkesir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.8873,40.1032,0</coordinates>
         </Point>
       </Placemark>
   </Document>

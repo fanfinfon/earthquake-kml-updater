@@ -644,22 +644,22 @@
       </Placemark>
 
       <Placemark>
-        <name>ROMANYA</name>
+        <name>PEKMEZCI-AKHISAR (MANISA)</name>
         <TimeStamp>
-          <when>2025-08-02T08:42:21.000Z</when>
+          <when>2025-08-03T07:43:57.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>rAglWUQlOQfGP</value>
+            <value>ydgOG7RsYwq7r</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 11:42:21<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 123.9 km<br/>
-          <b>Closest Cities:</b> Bulgaristan, Kırklareli, Sırbistan, Edirne, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), İstanbul Havalimanı (IST), Atatürk Havalimanı (IST)
+          <b>Date:</b> 2025.08.03 10:43:57<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9 km<br/>
+          <b>Closest Cities:</b> İzmir, Balıkesir, Uşak, Kütahya, Aydın<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Çiğli Havalimanı (IGL), Balıkesir Koca Seyit Havalimanı (EDO)
         ]]></description>
         <Style>
           <IconStyle>
@@ -671,7 +671,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>26.4938,45.626,0</coordinates>
+          <coordinates>28.0323,39.0022,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-03T06:51:26.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>1wODUWEZuczca</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.03 09:51:26<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 9.2 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Tekirdağ, Balıkesir, Yunanistan<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.1455,40.2145,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1248,38 +1280,6 @@
         </Style>
         <Point>
           <coordinates>24.8873,40.1032,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ROMANYA</name>
-        <TimeStamp>
-          <when>2025-08-02T08:42:21.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>rAglWUQlOQfGP</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.02 11:42:21<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 123.9 km<br/>
-          <b>Closest Cities:</b> Bulgaristan, Kırklareli, Sırbistan, Edirne, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), İstanbul Havalimanı (IST), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.4938,45.626,0</coordinates>
         </Point>
       </Placemark>
   </Document>

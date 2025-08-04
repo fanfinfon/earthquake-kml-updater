@@ -644,6 +644,38 @@
       </Placemark>
 
       <Placemark>
+        <name>YESILVADI-AZIZIYE (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-08-04T16:16:23.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7WAxmMC5naoHt</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 19:16:23<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 8.4 km<br/>
+          <b>Closest Cities:</b> Bayburt, Rize, Artvin, Trabzon, Gümüşhane<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Trabzon Havalimanı (TZX), Erzincan Havalimanı (ERC)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>40.9793,40.2667,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CAMLI-MARMARIS (MUGLA)</name>
         <TimeStamp>
           <when>2025-08-04T15:50:01.000Z</when>

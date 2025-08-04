@@ -548,38 +548,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
-        <TimeStamp>
-          <when>2025-08-03T19:28:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>T_wbxVc59D_YZ</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.03 22:28:01<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Adana, Kilis, Gaziantep, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.076,37.0037,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>CAMLI-MARMARIS (MUGLA)</name>
         <TimeStamp>
           <when>2025-08-04T17:16:57.000Z</when>
@@ -1120,38 +1088,6 @@
         </Style>
         <Point>
           <coordinates>28.2943,40.8113,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
-        <TimeStamp>
-          <when>2025-08-03T19:28:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>T_wbxVc59D_YZ</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.03 22:28:01<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Adana, Kilis, Gaziantep, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.076,37.0037,0</coordinates>
         </Point>
       </Placemark>
   </Document>

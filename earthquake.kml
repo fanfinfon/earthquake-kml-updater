@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>AKDENIZ</name>
+        <TimeStamp>
+          <when>2025-08-04T18:48:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>PXHUslM9vU7yN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 21:48:39<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 10 km<br/>
+          <b>Closest Cities:</b> Muğla, Antalya, Burdur, Denizli, Aydın<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Antalya Havalimanı (AYT), Çardak Havalimanı (DNZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.5562,35.4945,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CAMLI-MARMARIS (MUGLA)</name>
         <TimeStamp>
           <when>2025-08-04T17:16:57.000Z</when>

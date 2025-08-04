@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BAGCILAR-BAHCESARAY (VAN)</name>
+        <TimeStamp>
+          <when>2025-08-04T04:59:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>6dmIKAA7sUcDs</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 07:59:39<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Siirt, Şırnak, Van, Batman, Muş<br/>
+          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Siirt Havalimanı (SXZ), Şırnak Şerafettin Elçi Havalimanı (NKT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>42.788,38.0465,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AKCAOVA-(MUGLA)</name>
         <TimeStamp>
           <when>2025-08-04T02:49:43.000Z</when>
@@ -512,6 +544,38 @@
         </Style>
         <Point>
           <coordinates>25.1455,40.2145,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>AKCAOVA-(MUGLA)</name>
+        <TimeStamp>
+          <when>2025-08-04T02:49:43.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>dQkqcgfePEJvU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 05:49:43<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.1 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Manisa, Uşak<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.3175,37.2317,0</coordinates>
         </Point>
       </Placemark>
 

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-08-04T12:19:46.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>2NxcpASk2FXbX</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 15:19:46<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 9 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, İzmir<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.1357,35.0857,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KOLDERE-DOGANYOL (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-04T11:24:14.000Z</when>

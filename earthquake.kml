@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>CAMLI-MARMARIS (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-08-04T17:06:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>SbJsmvnkG2Hpm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 20:06:01<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 14.4 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Uşak, İzmir<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2895,36.9707,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>CAMLI-MARMARIS (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-08-04T15:50:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>JzNrWiw56lLV0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.04 18:50:01<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 12 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, Uşak, İzmir<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2948,36.9638,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YATAKLI-TAVSANLI (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-08-04T15:32:48.000Z</when>

@@ -740,38 +740,6 @@
       </Placemark>
 
       <Placemark>
-        <name>RODOS ADASI (AKDENIZ)</name>
-        <TimeStamp>
-          <when>2025-08-04T14:59:30.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xpgNqdpadwxuQ</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 17:59:30<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 6.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, Antalya<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0918,36.0843,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-05T11:09:01.000Z</when>
@@ -1504,38 +1472,6 @@
         </Style>
         <Point>
           <coordinates>29.134,39.529,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>RODOS ADASI (AKDENIZ)</name>
-        <TimeStamp>
-          <when>2025-08-04T14:59:30.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xpgNqdpadwxuQ</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 17:59:30<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 6.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, Antalya<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0918,36.0843,0</coordinates>
         </Point>
       </Placemark>
   </Document>

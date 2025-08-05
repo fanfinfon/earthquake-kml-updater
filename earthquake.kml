@@ -804,6 +804,70 @@
       </Placemark>
 
       <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-05T09:50:19.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>1bfqdkqOsBGuM</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.05 12:50:19<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 2.9 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9973,39.2337,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>AVSA-MARMARA (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-05T09:30:35.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>jr3rfpF0vTygl</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.05 12:30:35<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 6.6 km<br/>
+          <b>Closest Cities:</b> Tekirdağ, Çanakkale, Edirne, Kırklareli, Yalova<br/>
+          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Tekirdağ Çorlu Havalimanı (TEQ), Çanakkale Havalimanı (CKZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.5142,40.5017,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BOSTANBASI-YESILYURT (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-05T07:01:16.000Z</when>

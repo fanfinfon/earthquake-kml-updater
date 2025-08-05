@@ -772,22 +772,22 @@
       </Placemark>
 
       <Placemark>
-        <name>AKDENIZ</name>
+        <name>AKBELENLI-EGIRDIR (ISPARTA)</name>
         <TimeStamp>
-          <when>2025-08-04T18:48:39.000Z</when>
+          <when>2025-08-05T17:56:32.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>PXHUslM9vU7yN</value>
+            <value>4Gpb5orn6tHmK</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 21:48:39<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 10 km<br/>
-          <b>Closest Cities:</b> Muğla, Antalya, Burdur, Denizli, Aydın<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Antalya Havalimanı (AYT), Çardak Havalimanı (DNZ)
+          <b>Date:</b> 2025.08.05 20:56:32<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 6 km<br/>
+          <b>Closest Cities:</b> Burdur, Antalya, Afyon, Denizli, Uşak<br/>
+          <b>Nearby Airports:</b> Süleyman Demirel Havalimanı (ISE), Antalya Havalimanı (AYT), Çardak Havalimanı (DNZ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -799,7 +799,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>29.5562,35.4945,0</coordinates>
+          <coordinates>30.8473,37.5957,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1536,38 +1536,6 @@
         </Style>
         <Point>
           <coordinates>24.1382,40.3178,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKDENIZ</name>
-        <TimeStamp>
-          <when>2025-08-04T18:48:39.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PXHUslM9vU7yN</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 21:48:39<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 10 km<br/>
-          <b>Closest Cities:</b> Muğla, Antalya, Burdur, Denizli, Aydın<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Antalya Havalimanı (AYT), Çardak Havalimanı (DNZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.5562,35.4945,0</coordinates>
         </Point>
       </Placemark>
   </Document>

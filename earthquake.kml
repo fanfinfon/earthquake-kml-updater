@@ -772,38 +772,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KALKANCI-REFAHIYE (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-08-04T06:37:45.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>RbzF81lPkqBSY</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 09:37:45<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 16 km<br/>
-          <b>Closest Cities:</b> Giresun, Gümüşhane, Sivas, Tunceli, Elazığ<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Ordu Giresun Havalimanı (OGU), Sivas Nuri Demirağ Havalimanı (VAS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.5473,39.8093,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ELMAPINARI-CAT (ERZURUM)</name>
         <TimeStamp>
           <when>2025-08-05T04:38:31.000Z</when>
@@ -1568,38 +1536,6 @@
         </Style>
         <Point>
           <coordinates>38.6877,38.2922,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KALKANCI-REFAHIYE (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-08-04T06:37:45.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>RbzF81lPkqBSY</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 09:37:45<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 16 km<br/>
-          <b>Closest Cities:</b> Giresun, Gümüşhane, Sivas, Tunceli, Elazığ<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Ordu Giresun Havalimanı (OGU), Sivas Nuri Demirağ Havalimanı (VAS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.5473,39.8093,0</coordinates>
         </Point>
       </Placemark>
   </Document>

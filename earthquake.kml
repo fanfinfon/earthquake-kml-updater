@@ -740,6 +740,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
+        <TimeStamp>
+          <when>2025-08-05T21:14:46.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>HvSDCfU6aC4em</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 00:14:46<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9.2 km<br/>
+          <b>Closest Cities:</b> İstanbul, Tekirdağ, Yalova, Bursa, Kırklareli<br/>
+          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Atatürk Havalimanı (IST), İstanbul Havalimanı (IST)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2768,40.852,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CALTI-CARDAK (DENIZLI)</name>
         <TimeStamp>
           <when>2025-08-05T21:08:59.000Z</when>

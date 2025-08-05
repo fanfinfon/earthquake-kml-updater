@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ORHANLI-(HATAY)</name>
+        <TimeStamp>
+          <when>2025-08-05T22:26:56.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>kjthEfhE8h6yJ</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 01:26:56<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 6.4 km<br/>
+          <b>Closest Cities:</b> Kilis, Osmaniye, Gaziantep, Adana, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Şakirpaşa Havalimanı (ADA), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.1155,36.1992,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
         <TimeStamp>
           <when>2025-08-05T21:14:46.000Z</when>

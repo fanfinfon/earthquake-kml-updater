@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>EGIRLER-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-05T15:38:07.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>5VYLF9y4CjCJ0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.05 18:38:07<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9.6 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.021,39.222,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KAPLANCIK-TORBALI (IZMIR)</name>
+        <TimeStamp>
+          <when>2025-08-05T15:20:29.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>SWxhXTABpjUWu</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.05 18:20:29<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 8.4 km<br/>
+          <b>Closest Cities:</b> Aydın, Manisa, Muğla, Uşak, Denizli<br/>
+          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.3007,38.184,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-05T11:09:01.000Z</when>
@@ -708,38 +772,6 @@
       </Placemark>
 
       <Placemark>
-        <name>YATAKLI-TAVSANLI (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-04T15:32:48.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gd5cmh_Uwqdw9</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 18:32:48<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 7.1 km<br/>
-          <b>Closest Cities:</b> Bursa, Bilecik, Uşak, Yalova, Balıkesir<br/>
-          <b>Nearby Airports:</b> Zafer Havalimanı (KZR), Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.134,39.529,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-05T11:09:01.000Z</when>
@@ -1440,38 +1472,6 @@
         </Style>
         <Point>
           <coordinates>28.2948,36.9638,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YATAKLI-TAVSANLI (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-04T15:32:48.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gd5cmh_Uwqdw9</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.04 18:32:48<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 7.1 km<br/>
-          <b>Closest Cities:</b> Bursa, Bilecik, Uşak, Yalova, Balıkesir<br/>
-          <b>Nearby Airports:</b> Zafer Havalimanı (KZR), Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.134,39.529,0</coordinates>
         </Point>
       </Placemark>
   </Document>

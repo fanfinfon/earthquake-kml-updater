@@ -4,6 +4,102 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ANAMUR ACIKLARI-MERSIN (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-08-06T13:15:51.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>R_v67sQhsRInS</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 16:15:51<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 17.4 km<br/>
+          <b>Closest Cities:</b> Kıbrıs, Karaman, Mersin, Antalya, Konya<br/>
+          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Ercan Havalimanı (ECN), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>32.4995,36.0048,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YARIMCA-DARENDE (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-08-06T12:42:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>wOBPacavDp0p_</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 15:42:57<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.5 km<br/>
+          <b>Closest Cities:</b> Kahramanmaraş, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.3618,38.4763,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>MIDILLI ADASI GUNEYI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-08-06T12:36:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>innXJ9pVity4w</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 15:36:42<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 2.8 km<br/>
+          <b>Closest Cities:</b> İzmir, Çanakkale, Yunanistan, Balıkesir, Manisa<br/>
+          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Balıkesir Koca Seyit Havalimanı (EDO), Çanakkale Havalimanı (CKZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.9577,39.0208,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CAMLI-MARMARIS (MUGLA)</name>
         <TimeStamp>
           <when>2025-08-06T11:27:37.000Z</when>

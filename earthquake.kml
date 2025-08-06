@@ -710,18 +710,18 @@
       <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-08-05T19:02:46.000Z</when>
+          <when>2025-08-06T17:12:38.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>iU0QGcXkYXrr1</value>
+            <value>y2tmkusiQIqtn</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.05 22:02:46<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 8.5 km<br/>
+          <b>Date:</b> 2025.08.06 20:12:38<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 8.4 km<br/>
           <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
           <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
         ]]></description>
@@ -735,7 +735,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>25.6475,36.6565,0</coordinates>
+          <coordinates>25.8717,36.6537,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1408,6 @@
         </Style>
         <Point>
           <coordinates>29.682,37.7353,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-05T19:02:46.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>iU0QGcXkYXrr1</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.05 22:02:46<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 8.5 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.6475,36.6565,0</coordinates>
         </Point>
       </Placemark>
   </Document>

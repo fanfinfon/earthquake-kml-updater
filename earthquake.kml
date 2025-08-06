@@ -740,6 +740,38 @@
       </Placemark>
 
       <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-08-06T04:34:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>J5XvQCsdr_zdm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 07:34:50<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Yunanistan, Makedonya, Bulgaristan<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>24.1452,40.2662,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AKDENIZ</name>
         <TimeStamp>
           <when>2025-08-06T03:54:34.000Z</when>

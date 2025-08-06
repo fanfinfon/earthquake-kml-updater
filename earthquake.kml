@@ -708,6 +708,38 @@
       </Placemark>
 
       <Placemark>
+        <name>CAMLI-MARMARIS (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-08-06T11:27:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>mGl35lHxzPzbq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 14:27:37<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 13.8 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2632,36.961,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-08-06T10:21:07.000Z</when>

@@ -676,38 +676,6 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-05T11:09:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xnM35PaH71I8g</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.05 14:09:01<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Muğla, Aydın, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.5865,35.813,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-08-06T10:21:07.000Z</when>
@@ -1376,38 +1344,6 @@
         </Style>
         <Point>
           <coordinates>25.7428,35.8938,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-05T11:09:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xnM35PaH71I8g</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.05 14:09:01<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Muğla, Aydın, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Dalaman Havalimanı (DLM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.5865,35.813,0</coordinates>
         </Point>
       </Placemark>
   </Document>

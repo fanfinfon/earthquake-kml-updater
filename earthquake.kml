@@ -740,6 +740,38 @@
       </Placemark>
 
       <Placemark>
+        <name>AYDINLI-TEKMAN (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-08-06T16:04:02.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>XLGNjwNo86MLU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.06 19:04:02<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8 km<br/>
+          <b>Closest Cities:</b> Muş, Bingöl, Bayburt, Rize, Bitlis<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Muş Havalimanı (MSR), Bingöl Havalimanı (BGG)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.389,39.6873,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KARAKOCA-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-08-06T15:03:58.000Z</when>

@@ -516,6 +516,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SUGUL-DARENDE (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-08-07T09:13:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>yUm3duf_hOgKR</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.07 12:13:50<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 4.1 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4893,38.4315,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)</name>
         <TimeStamp>
           <when>2025-08-07T07:07:24.000Z</when>

@@ -292,38 +292,6 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-06T17:12:38.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>y2tmkusiQIqtn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 20:12:38<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.4 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.8717,36.6537,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>BESTEPE-GEMEREK (SIVAS)</name>
         <TimeStamp>
           <when>2025-08-07T15:09:15.000Z</when>
@@ -608,38 +576,6 @@
         </Style>
         <Point>
           <coordinates>35.1943,35.7247,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-08-06T17:12:38.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>y2tmkusiQIqtn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 20:12:38<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.4 km<br/>
-          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.8717,36.6537,0</coordinates>
         </Point>
       </Placemark>
   </Document>

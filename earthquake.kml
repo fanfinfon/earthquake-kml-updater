@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BESTEPE-GEMEREK (SIVAS)</name>
+        <TimeStamp>
+          <when>2025-08-07T15:09:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>1U8xkWg48mBH4</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.07 18:09:15<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 4.9 km<br/>
+          <b>Closest Cities:</b> Yozgat, Sivas, Nevşehir, Tokat, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Kayseri Erkilet Havalimanı (ASR), Sivas Nuri Demirağ Havalimanı (VAS), Tokat Havalimanı (TJK)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.0928,39.1202,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SARIKAVAK-DAZKIRI (AFYONKARAHISAR)</name>
+        <TimeStamp>
+          <when>2025-08-07T14:40:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Wsa0SKLLkL6yL</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.07 17:40:10<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 3.2 km<br/>
+          <b>Closest Cities:</b> Denizli, Burdur, Uşak, Isparta, Antalya<br/>
+          <b>Nearby Airports:</b> Çardak Havalimanı (DNZ), Süleyman Demirel Havalimanı (ISE), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.8123,37.8468,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YOLKURU-DOGANSEHIR (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-07T13:40:51.000Z</when>
@@ -292,38 +356,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-06T15:03:58.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>krhwMZ2nWBoSu</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 18:03:58<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.969,39.26,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>YOLKURU-DOGANSEHIR (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-07T13:40:51.000Z</when>
@@ -608,38 +640,6 @@
         </Style>
         <Point>
           <coordinates>41.389,39.6873,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-06T15:03:58.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>krhwMZ2nWBoSu</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 18:03:58<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.969,39.26,0</coordinates>
         </Point>
       </Placemark>
   </Document>

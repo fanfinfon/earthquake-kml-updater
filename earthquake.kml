@@ -36,6 +36,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SURIYE</name>
+        <TimeStamp>
+          <when>2025-08-07T07:05:44.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>eqzqqGGemRrRX</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.07 10:05:44<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 3.8 km<br/>
+          <b>Closest Cities:</b> Mardin, Şanlıurfa, Diyarbakır, Batman, Şırnak<br/>
+          <b>Nearby Airports:</b> Mardin Havalimanı (MQM), Şırnak Şerafettin Elçi Havalimanı (NKT), Diyarbakır Havalimanı (DIY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>40.5165,35.8888,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-07T05:50:59.000Z</when>

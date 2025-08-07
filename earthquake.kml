@@ -420,22 +420,22 @@
       </Placemark>
 
       <Placemark>
-        <name>YUNANISTAN</name>
+        <name>KAYNAR-(KAHRAMANMARAS)</name>
         <TimeStamp>
-          <when>2025-08-06T04:34:50.000Z</when>
+          <when>2025-08-06T23:49:01.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>J5XvQCsdr_zdm</value>
+            <value>hGmMLn9IJd75P</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 07:34:50<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Yunanistan, Makedonya, Bulgaristan<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.08.07 02:49:01<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 3.4 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Adana, Gaziantep, Kayseri, Kilis<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Şakirpaşa Havalimanı (ADA)
         ]]></description>
         <Style>
           <IconStyle>
@@ -447,7 +447,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>24.1452,40.2662,0</coordinates>
+          <coordinates>36.5432,37.7802,0</coordinates>
         </Point>
       </Placemark>
 
@@ -832,38 +832,6 @@
         </Style>
         <Point>
           <coordinates>26.4147,40.486,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-08-06T04:34:50.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>J5XvQCsdr_zdm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.06 07:34:50<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Yunanistan, Makedonya, Bulgaristan<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.1452,40.2662,0</coordinates>
         </Point>
       </Placemark>
   </Document>

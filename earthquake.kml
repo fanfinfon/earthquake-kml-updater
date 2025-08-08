@@ -36,6 +36,38 @@
       </Placemark>
 
       <Placemark>
+        <name>GIRIT ADASI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-08-08T10:05:23.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>rSVibrO5Dobx7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.08 13:05:23<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, Denizli, İzmir<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.2547,35.2802,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AGCASAR-NURHAK (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-08-08T09:25:34.000Z</when>

@@ -292,38 +292,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BESTEPE-GEMEREK (SIVAS)</name>
-        <TimeStamp>
-          <when>2025-08-07T15:09:15.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>1U8xkWg48mBH4</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.07 18:09:15<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 4.9 km<br/>
-          <b>Closest Cities:</b> Yozgat, Sivas, Nevşehir, Tokat, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Kayseri Erkilet Havalimanı (ASR), Sivas Nuri Demirağ Havalimanı (VAS), Tokat Havalimanı (TJK)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0928,39.1202,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>YUKARIULUPINAR-DARENDE (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-08T11:15:07.000Z</when>
@@ -608,38 +576,6 @@
         </Style>
         <Point>
           <coordinates>27.0603,39.4987,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BESTEPE-GEMEREK (SIVAS)</name>
-        <TimeStamp>
-          <when>2025-08-07T15:09:15.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>1U8xkWg48mBH4</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.07 18:09:15<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 4.9 km<br/>
-          <b>Closest Cities:</b> Yozgat, Sivas, Nevşehir, Tokat, Kahramanmaraş<br/>
-          <b>Nearby Airports:</b> Kayseri Erkilet Havalimanı (ASR), Sivas Nuri Demirağ Havalimanı (VAS), Tokat Havalimanı (TJK)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0928,39.1202,0</coordinates>
         </Point>
       </Placemark>
   </Document>

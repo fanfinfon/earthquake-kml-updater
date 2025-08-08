@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>CIHATLI-GEMLIK (BURSA)</name>
+        <TimeStamp>
+          <when>2025-08-08T04:53:33.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>xUD3HVLkO4yUz</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.08 07:53:33<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.3 km<br/>
+          <b>Closest Cities:</b> Yalova, Kocaeli, İstanbul, Bilecik, Sakarya<br/>
+          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.1835,40.4588,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-08T01:32:55.000Z</when>

@@ -356,38 +356,6 @@
       </Placemark>
 
       <Placemark>
-        <name>YOLKURU-DOGANSEHIR (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-08-07T13:40:51.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>WpdXDVtYrLC8T</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.07 16:40:51<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 16.3 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Gaziantep, Şanlıurfa, Elazığ<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Kahramanmaraş Havalimanı (KCM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.87,38.1417,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>YUKARIULUPINAR-DARENDE (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-08T11:15:07.000Z</when>
@@ -736,38 +704,6 @@
         </Style>
         <Point>
           <coordinates>29.8123,37.8468,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YOLKURU-DOGANSEHIR (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-08-07T13:40:51.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>WpdXDVtYrLC8T</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.07 16:40:51<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 16.3 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Gaziantep, Şanlıurfa, Elazığ<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Kahramanmaraş Havalimanı (KCM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.87,38.1417,0</coordinates>
         </Point>
       </Placemark>
   </Document>

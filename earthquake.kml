@@ -324,6 +324,38 @@
       </Placemark>
 
       <Placemark>
+        <name>AGCASAR-NURHAK (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-08-08T09:25:34.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YPXQ1kUYIWqhP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.08 12:25:34<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kilis<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4047,38.0387,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KARAHAMZALI-KOZAN (ADANA)</name>
         <TimeStamp>
           <when>2025-08-08T08:40:45.000Z</when>

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-09T17:37:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>T36YctueZ82qE</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.09 20:37:53<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 11.4 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Yunanistan, Edirne, Balıkesir, İzmir<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>24.4753,39.8553,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
         <TimeStamp>
           <when>2025-08-09T16:26:05.000Z</when>
@@ -676,38 +708,6 @@
       </Placemark>
 
       <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-08-08T17:56:00.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>fdHt8HOpEbg3I</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.08 20:56:00<br/>
-          <b>Magnitude:</b> 4.3<br/>
-          <b>Depth:</b> 7.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, İzmir, Balıkesir, Aydın, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çiğli Havalimanı (IGL), Çanakkale Havalimanı (CKZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>23.8352,38.5048,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
         <TimeStamp>
           <when>2025-08-09T16:26:05.000Z</when>
@@ -1376,38 +1376,6 @@
         </Style>
         <Point>
           <coordinates>30.1242,37.6672,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-08-08T17:56:00.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>fdHt8HOpEbg3I</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.08 20:56:00<br/>
-          <b>Magnitude:</b> 4.3<br/>
-          <b>Depth:</b> 7.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, İzmir, Balıkesir, Aydın, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çiğli Havalimanı (IGL), Çanakkale Havalimanı (CKZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>23.8352,38.5048,0</coordinates>
         </Point>
       </Placemark>
   </Document>

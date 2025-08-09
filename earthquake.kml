@@ -644,6 +644,38 @@
       </Placemark>
 
       <Placemark>
+        <name>DOGANBEY ACIKLARI-AYDIN (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-08-09T06:15:33.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>bB5zgWjIDTWBS</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.09 09:15:33<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 14.9 km<br/>
+          <b>Closest Cities:</b> Aydın, İzmir, Muğla, Manisa, Denizli<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.0682,37.5987,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SEHSUVAR-(ELAZIG)</name>
         <TimeStamp>
           <when>2025-08-09T05:26:03.000Z</when>

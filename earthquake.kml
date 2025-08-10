@@ -612,38 +612,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AKDENIZ</name>
-        <TimeStamp>
-          <when>2025-08-09T11:48:36.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>t4KAeivxH68y1</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 14:48:36<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, Antalya<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2168,35.841,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>KOCAKOY-AYVACIK (CANAKKALE)</name>
         <TimeStamp>
           <when>2025-08-10T09:44:51.000Z</when>
@@ -1248,38 +1216,6 @@
         </Style>
         <Point>
           <coordinates>24.3808,34.6822,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKDENIZ</name>
-        <TimeStamp>
-          <when>2025-08-09T11:48:36.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>t4KAeivxH68y1</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 14:48:36<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, Antalya<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2168,35.841,0</coordinates>
         </Point>
       </Placemark>
   </Document>

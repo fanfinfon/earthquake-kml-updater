@@ -36,6 +36,38 @@
       </Placemark>
 
       <Placemark>
+        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-10T09:41:05.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>0LZmwrqyzwYT2</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 12:41:05<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 8.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0725,39.236,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KOZLU-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-10T09:27:31.000Z</when>
@@ -704,6 +736,38 @@
         </Style>
         <Point>
           <coordinates>35.9045,37.0658,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KOCAKOY-AYVACIK (CANAKKALE)</name>
+        <TimeStamp>
+          <when>2025-08-10T09:44:51.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>RlNuAbCCEw5cv</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 12:44:51<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 6.9 km<br/>
+          <b>Closest Cities:</b> Balıkesir, İzmir, Manisa, Edirne, Yunanistan<br/>
+          <b>Nearby Airports:</b> Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO), Gökçeada Havalimanı (GKD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.128,39.4927,0</coordinates>
         </Point>
       </Placemark>
 

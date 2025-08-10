@@ -6,6 +6,38 @@
       <Placemark>
         <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
+          <when>2025-08-10T03:53:02.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>8Yb4zFvwYKMIq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 06:53:02<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 7.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0572,39.2262,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
           <when>2025-08-10T02:59:29.000Z</when>
         </TimeStamp>
         <ExtendedData>
@@ -708,22 +740,22 @@
       </Placemark>
 
       <Placemark>
-        <name>SUGUL-DARENDE (MALATYA)</name>
+        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-09T04:05:01.000Z</when>
+          <when>2025-08-10T02:59:29.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>1Q61FVDhkD2EX</value>
+            <value>MgLLdcOsKKfWZ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 07:05:01<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
+          <b>Date:</b> 2025.08.10 05:59:29<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 10.2 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,7 +767,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>37.5137,38.403,0</coordinates>
+          <coordinates>28.0682,39.2347,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1440,6 @@
         </Style>
         <Point>
           <coordinates>39.6362,38.6005,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SUGUL-DARENDE (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-08-09T04:05:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>1Q61FVDhkD2EX</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 07:05:01<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.5137,38.403,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -68,6 +68,38 @@
       </Placemark>
 
       <Placemark>
+        <name>GURCISTAN</name>
+        <TimeStamp>
+          <when>2025-08-09T22:31:49.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>zWLfJM5XhsTFK</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 01:31:49<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.5 km<br/>
+          <b>Closest Cities:</b> Ardahan, Kars, Iğdır, Ermenistan, Artvin<br/>
+          <b>Nearby Airports:</b> Kars Havalimanı (KSY), Iğdır Havalimanı (IGD), Ağrı Havalimanı (AJI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.1153,41.3403,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-09T19:22:06.000Z</when>

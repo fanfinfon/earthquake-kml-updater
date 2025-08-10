@@ -708,22 +708,22 @@
       </Placemark>
 
       <Placemark>
-        <name>DOGANBEY ACIKLARI-AYDIN (EGE DENIZI)</name>
+        <name>KOCAELI-IVRINDI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-09T06:15:33.000Z</when>
+          <when>2025-08-10T05:21:58.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>bB5zgWjIDTWBS</value>
+            <value>QmGJfSUTzDloQ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 09:15:33<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 14.9 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Muğla, Manisa, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB)
+          <b>Date:</b> 2025.08.10 08:21:58<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 6.5 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Manisa, İzmir, Bursa, Tekirdağ<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,7 +735,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>27.0682,37.5987,0</coordinates>
+          <coordinates>27.5023,39.6273,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1408,6 @@
         </Style>
         <Point>
           <coordinates>37.3168,38.4862,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>DOGANBEY ACIKLARI-AYDIN (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-08-09T06:15:33.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>bB5zgWjIDTWBS</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.09 09:15:33<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 14.9 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Muğla, Manisa, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.0682,37.5987,0</coordinates>
         </Point>
       </Placemark>
   </Document>

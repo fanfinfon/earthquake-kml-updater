@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KULU (KONYA)</name>
+        <TimeStamp>
+          <when>2025-08-10T14:12:47.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ql1MabX5eGWZl</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 17:12:47<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.2 km<br/>
+          <b>Closest Cities:</b> Ankara, Kırıkkale, Aksaray, Kırşehir, Nevşehir<br/>
+          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Konya Havalimanı (KYA), Nevşehir Kapadokya Havalimanı (NAV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>33.0445,39.1005,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-10T13:23:24.000Z</when>
@@ -704,6 +736,38 @@
         </Style>
         <Point>
           <coordinates>24.3808,34.6822,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-10T13:23:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Is6w1pRi7NgNF</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.10 16:23:24<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Balıkesir, Tekirdağ, İzmir<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.6238,39.9538,0</coordinates>
         </Point>
       </Placemark>
 

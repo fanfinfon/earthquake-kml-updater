@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-13T17:39:13.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>5lxMvJVQGA2Mg</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.13 20:39:13<br/>
+          <b>Magnitude:</b> 4.3<br/>
+          <b>Depth:</b> 118.9 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, İzmir, Denizli, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.8863,36.3243,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARBASAN-HISARCIK (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-08-13T17:30:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>4Xs9Tcan72zPf</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.13 20:30:15<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.8 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Bilecik, Manisa, Afyon<br/>
+          <b>Nearby Airports:</b> Zafer Havalimanı (KZR), Uşak Havalimanı (USQ), Bursa Yenişehir Havalimanı (YEI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.3945,39.2388,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-13T17:17:40.000Z</when>
@@ -1316,22 +1380,22 @@
       </Placemark>
 
       <Placemark>
-        <name>VAN GOLU</name>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-13T12:31:01.000Z</when>
+          <when>2025-08-13T17:17:40.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>rRpTc33ClTl2z</value>
+            <value>GVQ5prcWW4HRa</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.13 15:31:01<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 9 km<br/>
-          <b>Closest Cities:</b> Bitlis, Siirt, Muş, Ağrı, Şırnak<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Muş Havalimanı (MSR), Ağrı Havalimanı (AJI)
+          <b>Date:</b> 2025.08.13 20:17:40<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 13.2 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1343,7 +1407,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>43.0143,38.57,0</coordinates>
+          <coordinates>28.1168,39.1872,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2624,38 +2688,6 @@
         </Style>
         <Point>
           <coordinates>28.0858,39.2132,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>VAN GOLU</name>
-        <TimeStamp>
-          <when>2025-08-13T12:31:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>rRpTc33ClTl2z</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.13 15:31:01<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 9 km<br/>
-          <b>Closest Cities:</b> Bitlis, Siirt, Muş, Ağrı, Şırnak<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Muş Havalimanı (MSR), Ağrı Havalimanı (AJI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>43.0143,38.57,0</coordinates>
         </Point>
       </Placemark>
   </Document>

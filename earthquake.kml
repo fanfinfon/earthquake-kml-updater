@@ -964,22 +964,22 @@
       </Placemark>
 
       <Placemark>
-        <name>ORTULU-LICE (DIYARBAKIR)</name>
+        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-15T07:27:42.000Z</when>
+          <when>2025-08-15T13:00:13.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>gpfHZ3zVViJNn</value>
+            <value>RqSqUgEZ2OLuH</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.15 10:27:42<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Bingöl, Batman, Tunceli, Elazığ, Muş<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Batman Havalimanı (BAL)
+          <b>Date:</b> 2025.08.15 16:00:13<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,7 +991,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>40.5765,38.5392,0</coordinates>
+          <coordinates>28.0302,39.2243,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1920,38 +1920,6 @@
         </Style>
         <Point>
           <coordinates>28.133,39.1963,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ORTULU-LICE (DIYARBAKIR)</name>
-        <TimeStamp>
-          <when>2025-08-15T07:27:42.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gpfHZ3zVViJNn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.15 10:27:42<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Bingöl, Batman, Tunceli, Elazığ, Muş<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Batman Havalimanı (BAL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.5765,38.5392,0</coordinates>
         </Point>
       </Placemark>
   </Document>

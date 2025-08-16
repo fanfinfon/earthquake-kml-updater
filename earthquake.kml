@@ -1028,38 +1028,6 @@
       </Placemark>
 
       <Placemark>
-        <name>GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-08-16T06:01:26.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>bP7kyEX1pgWeY</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.16 09:01:26<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 8.7 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Balıkesir, İzmir, Edirne, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.0207,39.5533,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>GOKOVA KORFEZI (EGE DENIZI)</name>
         <TimeStamp>
           <when>2025-08-16T14:24:05.000Z</when>
@@ -2080,38 +2048,6 @@
         </Style>
         <Point>
           <coordinates>28.1207,39.1887,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-08-16T06:01:26.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>bP7kyEX1pgWeY</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.16 09:01:26<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 8.7 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Balıkesir, İzmir, Edirne, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.0207,39.5533,0</coordinates>
         </Point>
       </Placemark>
   </Document>

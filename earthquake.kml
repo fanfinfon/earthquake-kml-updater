@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>PURSUNLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-16T14:01:32.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>tzmBJ2YzisSSN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.16 17:01:32<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 8.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1865,39.2243,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-16T13:45:12.000Z</when>
@@ -1060,22 +1092,22 @@
       </Placemark>
 
       <Placemark>
-        <name>OSMANLAR-SINDIRGI (BALIKESIR)</name>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-16T05:22:03.000Z</when>
+          <when>2025-08-16T13:45:12.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>y7VkS7hz8sv2C</value>
+            <value>pN11q6GusBVot</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.16 08:22:03<br/>
+          <b>Date:</b> 2025.08.16 16:45:12<br/>
           <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 7.7 km<br/>
-          <b>Closest Cities:</b> Manisa, Kütahya, İzmir, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Uşak Havalimanı (USQ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Depth:</b> 10.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1087,7 +1119,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.3175,39.226,0</coordinates>
+          <coordinates>28.075,39.1945,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2112,38 +2144,6 @@
         </Style>
         <Point>
           <coordinates>28.1437,39.1613,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>OSMANLAR-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-16T05:22:03.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>y7VkS7hz8sv2C</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.16 08:22:03<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 7.7 km<br/>
-          <b>Closest Cities:</b> Manisa, Kütahya, İzmir, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Uşak Havalimanı (USQ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.3175,39.226,0</coordinates>
         </Point>
       </Placemark>
   </Document>

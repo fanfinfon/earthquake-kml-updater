@@ -1348,21 +1348,21 @@
       </Placemark>
 
       <Placemark>
-        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-17T11:04:30.000Z</when>
+          <when>2025-08-17T21:57:07.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>cWfjpcseiDWKi</value>
+            <value>nwjbcuJ6Iio4u</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.17 14:04:30<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Date:</b> 2025.08.18 00:57:07<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 11.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
@@ -1375,7 +1375,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.0182,39.2175,0</coordinates>
+          <coordinates>28.1372,39.1815,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARGAPAZARI-KARLIOVA (BINGOL)</name>
+        <TimeStamp>
+          <when>2025-08-17T21:46:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>odpVRdJgEf6J0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.18 00:46:24<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 2.8 km<br/>
+          <b>Closest Cities:</b> Muş, Erzurum, Bayburt, Tunceli, Bitlis<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzurum Havalimanı (ERZ), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.1095,39.3265,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2656,38 +2688,6 @@
         </Style>
         <Point>
           <coordinates>28.1827,39.1795,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-17T11:04:30.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>cWfjpcseiDWKi</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.17 14:04:30<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0182,39.2175,0</coordinates>
         </Point>
       </Placemark>
   </Document>

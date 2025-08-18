@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>YAZIDERE-AFSIN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-08-18T18:17:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>y48x5iAwfyawR</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.18 21:17:08<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Kayseri, Malatya, Osmaniye, Gaziantep, Adıyaman<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.9987,38.141,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-08-18T17:29:34.000Z</when>
@@ -1124,38 +1156,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AKARCA-ELBISTAN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-08-18T10:30:58.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>seFXcG_9OaQbU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.18 13:30:58<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.3175,38.4543,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-08-18T17:29:34.000Z</when>
@@ -1184,6 +1184,38 @@
         </Style>
         <Point>
           <coordinates>36.0618,37.0103,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-18T17:02:55.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>nFTdo6l3P90xj</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.18 20:02:55<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 7.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.247,39.1668,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2240,38 +2272,6 @@
         </Style>
         <Point>
           <coordinates>28.1903,39.2325,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKARCA-ELBISTAN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-08-18T10:30:58.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>seFXcG_9OaQbU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.18 13:30:58<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Sivas, Kayseri, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Kahramanmaraş Havalimanı (KCM), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.3175,38.4543,0</coordinates>
         </Point>
       </Placemark>
   </Document>

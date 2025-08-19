@@ -996,22 +996,22 @@
       </Placemark>
 
       <Placemark>
-        <name>CAMPINAR-CELIKHAN (ADIYAMAN)</name>
+        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-19T10:11:22.000Z</when>
+          <when>2025-08-19T16:38:55.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>iFsqHn50BvrfK</value>
+            <value>YqQfUXuIrJqMs</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.19 13:11:22<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 2.1 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Kahramanmaraş, Elazığ, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), GAP Havalimanı (GNY)
+          <b>Date:</b> 2025.08.19 19:38:55<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 11.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1023,7 +1023,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.248,38.1055,0</coordinates>
+          <coordinates>28.048,39.2578,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1984,38 +1984,6 @@
         </Style>
         <Point>
           <coordinates>28.1917,39.2158,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>CAMPINAR-CELIKHAN (ADIYAMAN)</name>
-        <TimeStamp>
-          <when>2025-08-19T10:11:22.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>iFsqHn50BvrfK</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.19 13:11:22<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 2.1 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Kahramanmaraş, Elazığ, Gaziantep<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.248,38.1055,0</coordinates>
         </Point>
       </Placemark>
   </Document>

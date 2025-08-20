@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KOZLU-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-20T14:58:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>kO6bwmHsnGZKn</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.20 17:58:50<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 13.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0777,39.223,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GURCISTAN</name>
         <TimeStamp>
           <when>2025-08-20T14:13:50.000Z</when>
@@ -868,22 +900,22 @@
       </Placemark>
 
       <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <name>GURCISTAN</name>
         <TimeStamp>
-          <when>2025-08-20T07:38:19.000Z</when>
+          <when>2025-08-20T14:13:50.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>asM2btjgw3uJz</value>
+            <value>0ZiHHtlanf_82</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 10:38:19<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 21.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+          <b>Date:</b> 2025.08.20 17:13:50<br/>
+          <b>Magnitude:</b> 3.8<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Artvin, Ardahan, Rize, Kars, Trabzon<br/>
+          <b>Nearby Airports:</b> Kars Havalimanı (KSY), Trabzon Havalimanı (TZX), Erzurum Havalimanı (ERZ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -895,39 +927,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1422,39.1715,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>CAYGOREN-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T07:38:00.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7fBFckAz1I3Lj</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 10:38:00<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 14.3 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2082,39.2472,0</coordinates>
+          <coordinates>41.9765,42.3705,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1760,70 +1760,6 @@
         </Style>
         <Point>
           <coordinates>27.5108,40.8005,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T07:38:19.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>asM2btjgw3uJz</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 10:38:19<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 21.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1422,39.1715,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>CAYGOREN-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T07:38:00.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7fBFckAz1I3Lj</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 10:38:00<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 14.3 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2082,39.2472,0</coordinates>
         </Point>
       </Placemark>
   </Document>

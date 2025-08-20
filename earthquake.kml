@@ -804,21 +804,53 @@
       </Placemark>
 
       <Placemark>
-        <name>ISACA-AKHISAR (MANISA)</name>
+        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-20T08:25:41.000Z</when>
+          <when>2025-08-20T16:38:43.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>nsVyvIHIUcio2</value>
+            <value>VSoG6RDJ2kWOS</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 11:25:41<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Date:</b> 2025.08.20 19:38:43<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 12.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1307,39.2118,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-20T16:30:12.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>v3a3Mtx9wbpt9</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.20 19:30:12<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 10.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
@@ -831,7 +863,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.0508,39.155,0</coordinates>
+          <coordinates>28.1073,39.1552,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1568,38 +1600,6 @@
         </Style>
         <Point>
           <coordinates>28.095,39.208,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ISACA-AKHISAR (MANISA)</name>
-        <TimeStamp>
-          <when>2025-08-20T08:25:41.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>nsVyvIHIUcio2</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 11:25:41<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0508,39.155,0</coordinates>
         </Point>
       </Placemark>
   </Document>

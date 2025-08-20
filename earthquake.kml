@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-20T10:13:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>622AMG0Dr4F0E</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.20 13:13:15<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1893,39.1782,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-20T10:04:01.000Z</when>
@@ -1028,22 +1060,22 @@
       </Placemark>
 
       <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-20T00:56:38.000Z</when>
+          <when>2025-08-20T10:04:01.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>yC73MDBaWhin8</value>
+            <value>SqzWLHcGCWtuX</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 03:56:38<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 13.5 km<br/>
+          <b>Date:</b> 2025.08.20 13:04:01<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 7.9 km<br/>
           <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1055,7 +1087,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1522,39.1865,0</coordinates>
+          <coordinates>28.128,39.2118,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2048,38 +2080,6 @@
         </Style>
         <Point>
           <coordinates>28.2253,39.1877,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T00:56:38.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>yC73MDBaWhin8</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.20 03:56:38<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 13.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1522,39.1865,0</coordinates>
         </Point>
       </Placemark>
   </Document>

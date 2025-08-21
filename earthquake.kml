@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>PURSUNLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-21T12:31:45.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ioTKSUce0Z5oi</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.21 15:31:45<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1893,39.2312,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-21T12:19:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pboOhknqaNbyb</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.21 15:19:08<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Uşak, Kütahya, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1293,39.1235,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CAYGOREN-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-21T12:07:33.000Z</when>
@@ -1220,85 +1284,21 @@
       </Placemark>
 
       <Placemark>
-        <name>ARPACIKARACAY-SULUSARAY (TOKAT)</name>
+        <name>CAYGOREN-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-20T22:31:16.000Z</when>
+          <when>2025-08-21T12:07:33.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>0jGTBoYDa47bD</value>
+            <value>J03UIsHk7MPKF</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:31:16<br/>
-          <b>Magnitude:</b> 3.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Samsun<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0303,40.0685,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ARPACIKARACAY-SULUSARAY (TOKAT)</name>
-        <TimeStamp>
-          <when>2025-08-20T22:24:02.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9TkhVjFnArjOI</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:24:02<br/>
-          <b>Magnitude:</b> 4.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Samsun<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0308,40.0582,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KUCUKBUKU-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T22:07:48.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>AIHPryxAsrjCm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:07:48<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 12.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Date:</b> 2025.08.21 15:07:33<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
@@ -1311,7 +1311,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.0985,39.28,0</coordinates>
+          <coordinates>28.211,39.243,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2496,102 +2496,6 @@
         </Style>
         <Point>
           <coordinates>28.214,39.1773,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ARPACIKARACAY-SULUSARAY (TOKAT)</name>
-        <TimeStamp>
-          <when>2025-08-20T22:31:16.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>0jGTBoYDa47bD</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:31:16<br/>
-          <b>Magnitude:</b> 3.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Samsun<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0303,40.0685,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ARPACIKARACAY-SULUSARAY (TOKAT)</name>
-        <TimeStamp>
-          <when>2025-08-20T22:24:02.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9TkhVjFnArjOI</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:24:02<br/>
-          <b>Magnitude:</b> 4.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Amasya, Yozgat, Sivas, Çorum, Samsun<br/>
-          <b>Nearby Airports:</b> Tokat Havalimanı (TJK), Sivas Nuri Demirağ Havalimanı (VAS), Amasya Merzifon Havalimanı (MZH)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.0308,40.0582,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KUCUKBUKU-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-20T22:07:48.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>AIHPryxAsrjCm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.21 01:07:48<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 12.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0985,39.28,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -1284,22 +1284,22 @@
       </Placemark>
 
       <Placemark>
-        <name>GOKSU-SOLHAN (BINGOL)</name>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-22T09:30:57.000Z</when>
+          <when>2025-08-22T18:25:57.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>U1eO3C1y5x1zl</value>
+            <value>5YRU1RmABA6aZ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.22 12:30:57<br/>
-          <b>Magnitude:</b> 3.9<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Muş, Batman, Diyarbakır, Erzurum, Bitlis<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Muş Havalimanı (MSR), Erzurum Havalimanı (ERZ)
+          <b>Date:</b> 2025.08.22 21:25:57<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1311,7 +1311,71 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>41.0858,39.0163,0</coordinates>
+          <coordinates>28.1527,39.196,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-22T17:56:59.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>3RqpK51PRXGby</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.22 20:56:59<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 11.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1353,39.2068,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-22T17:50:54.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>0cCIbcNVVNR3X</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.22 20:50:54<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 8.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1422,39.1853,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2496,38 +2560,6 @@
         </Style>
         <Point>
           <coordinates>28.0528,39.2087,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GOKSU-SOLHAN (BINGOL)</name>
-        <TimeStamp>
-          <when>2025-08-22T09:30:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>U1eO3C1y5x1zl</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.22 12:30:57<br/>
-          <b>Magnitude:</b> 3.9<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Muş, Batman, Diyarbakır, Erzurum, Bitlis<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Muş Havalimanı (MSR), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.0858,39.0163,0</coordinates>
         </Point>
       </Placemark>
   </Document>

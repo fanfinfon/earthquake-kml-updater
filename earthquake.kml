@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GOKSU-SOLHAN (BINGOL)</name>
+        <TimeStamp>
+          <when>2025-08-22T09:30:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ZvhwTij7lgQHg</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.22 12:30:57<br/>
+          <b>Magnitude:</b> 3.9<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Muş, Batman, Diyarbakır, Erzurum, Bitlis<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Muş Havalimanı (MSR), Erzurum Havalimanı (ERZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.089,39.0168,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-22T08:40:38.000Z</when>
@@ -960,6 +992,38 @@
         </Style>
         <Point>
           <coordinates>28.1865,39.14,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGE DENIZI                                        REVIZE01   (2025.08.22 09:58:39)</name>
+        <TimeStamp>
+          <when>2025-08-22T06:58:31.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ExHQBjI9jvtjt</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.22 09:58:31<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 2.3 km<br/>
+          <b>Closest Cities:</b> İzmir, Manisa, Çanakkale, Balıkesir, Aydın<br/>
+          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.599,38.8015,0</coordinates>
         </Point>
       </Placemark>
 

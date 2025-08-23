@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-23T11:00:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>beDdOGxpgL3tE</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.23 14:00:36<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.9972,39.2538,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-08-23T10:44:54.000Z</when>
@@ -1092,22 +1124,22 @@
       </Placemark>
 
       <Placemark>
-        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-08-22T23:08:34.000Z</when>
+          <when>2025-08-23T10:44:54.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>T1fm8oqDpqWF2</value>
+            <value>jPV83qB6gZvYn</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.23 02:08:34<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 6.6 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+          <b>Date:</b> 2025.08.23 13:44:54<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 10.5 km<br/>
+          <b>Closest Cities:</b> İzmir, Manisa, Çanakkale, Balıkesir, Aydın<br/>
+          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB), Balıkesir Koca Seyit Havalimanı (EDO)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1119,7 +1151,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.9943,39.235,0</coordinates>
+          <coordinates>26.6238,38.7888,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2176,38 +2208,6 @@
         </Style>
         <Point>
           <coordinates>44.6133,36.3177,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YEMISLI-SIMAV (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-08-22T23:08:34.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>T1fm8oqDpqWF2</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.23 02:08:34<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 6.6 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9943,39.235,0</coordinates>
         </Point>
       </Placemark>
   </Document>

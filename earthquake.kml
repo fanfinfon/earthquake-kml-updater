@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-23T22:41:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Zk0MCIfuDghEd</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.24 01:41:06<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 15.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2135,39.174,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GOKHASANLI-KARAISALI (ADANA)</name>
         <TimeStamp>
           <when>2025-08-23T22:25:51.000Z</when>
@@ -1508,22 +1540,22 @@
       </Placemark>
 
       <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
+        <name>GOKHASANLI-KARAISALI (ADANA)</name>
         <TimeStamp>
-          <when>2025-08-23T11:54:09.000Z</when>
+          <when>2025-08-23T22:25:51.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>JcShV1OtTIdnv</value>
+            <value>DfuGhkFrMzfIa</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.23 14:54:09<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 10.6 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+          <b>Date:</b> 2025.08.24 01:25:51<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 8.4 km<br/>
+          <b>Closest Cities:</b> Niğde, Osmaniye, Hatay, Mersin, Kayseri<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1535,7 +1567,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.2012,39.1813,0</coordinates>
+          <coordinates>35.1738,37.273,0</coordinates>
         </Point>
       </Placemark>
 
@@ -3008,38 +3040,6 @@
         </Style>
         <Point>
           <coordinates>28.1375,39.2197,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-23T11:54:09.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>JcShV1OtTIdnv</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.23 14:54:09<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 10.6 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2012,39.1813,0</coordinates>
         </Point>
       </Placemark>
   </Document>

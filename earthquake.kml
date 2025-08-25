@@ -868,6 +868,38 @@
       </Placemark>
 
       <Placemark>
+        <name>IRLIGANLI-(DENIZLI)</name>
+        <TimeStamp>
+          <when>2025-08-25T08:49:23.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>fPIU58ylZ0sDI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.25 11:49:23<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Uşak, Burdur, Aydın, Muğla, Isparta<br/>
+          <b>Nearby Airports:</b> Çardak Havalimanı (DNZ), Uşak Havalimanı (USQ), Süleyman Demirel Havalimanı (ISE)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.2393,37.8782,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>MUDANYA (BURSA)</name>
         <TimeStamp>
           <when>2025-08-25T08:15:59.000Z</when>

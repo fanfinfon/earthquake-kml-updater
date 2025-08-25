@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-25T15:40:07.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>24vdfiIW3f_bM</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.25 18:40:07<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 12.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0793,39.2565,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>IRIAGAC-YAZIHAN (MALATYA)</name>
         <TimeStamp>
           <when>2025-08-25T15:38:08.000Z</when>
@@ -832,6 +864,38 @@
         </Style>
         <Point>
           <coordinates>28.2038,39.2018,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IRIAGAC-YAZIHAN (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-08-25T15:38:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Hlx4ZDrKy0SKv</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.25 18:38:08<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Elazığ, Sivas, Tunceli<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.9945,38.5432,0</coordinates>
         </Point>
       </Placemark>
 

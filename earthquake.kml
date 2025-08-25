@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KUCUKBUKU-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-25T13:20:18.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>PHmhaVVd5V6Ex</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.25 16:20:18<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 9.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0995,39.2717,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>LALEGOLU-TOPRAKKALE (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-08-25T12:47:38.000Z</when>
@@ -800,6 +832,38 @@
         </Style>
         <Point>
           <coordinates>28.1637,39.2063,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>LALEGOLU-TOPRAKKALE (OSMANIYE)</name>
+        <TimeStamp>
+          <when>2025-08-25T12:47:38.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Xj7oeCjhBTHaB</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.25 15:47:38<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 1.9 km<br/>
+          <b>Closest Cities:</b> Adana, Hatay, Kilis, Gaziantep, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.0587,37.0658,0</coordinates>
         </Point>
       </Placemark>
 

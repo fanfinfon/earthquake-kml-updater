@@ -708,6 +708,134 @@
       </Placemark>
 
       <Placemark>
+        <name>TOROS-ERDEMLI (MERSIN)</name>
+        <TimeStamp>
+          <when>2025-08-26T07:29:00.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>JxL9KAaa4KOxq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 10:29:00<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 8.8 km<br/>
+          <b>Closest Cities:</b> Karaman, Niğde, Adana, Konya, Aksaray<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Konya Havalimanı (KYA), Gazipaşa Havalimanı (GZP)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>34.0977,37.0335,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KORUCAK-CELIKHAN (ADIYAMAN)</name>
+        <TimeStamp>
+          <when>2025-08-26T07:24:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>8gSXgt_sNHwJD</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 10:24:01<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 3.8 km<br/>
+          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
+          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.3778,38.0882,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TOKATKIRI-BIGA (CANAKKALE)</name>
+        <TimeStamp>
+          <when>2025-08-26T07:18:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>scJ3HZoTTR9QJ</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 10:18:01<br/>
+          <b>Magnitude:</b> 3.4<br/>
+          <b>Depth:</b> 10.3 km<br/>
+          <b>Closest Cities:</b> Balıkesir, Tekirdağ, Edirne, Kırklareli, Bursa<br/>
+          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.2567,40.344,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-26T07:01:09.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>qJKr0SUUZRK6r</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 10:01:09<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1315,39.1898,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-26T06:36:13.000Z</when>

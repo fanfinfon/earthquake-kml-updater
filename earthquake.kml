@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-26T20:34:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>OzsjotQ3ot39I</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 23:34:24<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 12.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2422,39.1822,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-26T20:31:31.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YExHnjmiwhoP6</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 23:31:31<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2298,39.1413,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
         <TimeStamp>
           <when>2025-08-26T20:30:44.000Z</when>
@@ -900,20 +964,20 @@
       </Placemark>
 
       <Placemark>
-        <name>KORUCAK-CELIKHAN (ADIYAMAN)</name>
+        <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
         <TimeStamp>
-          <when>2025-08-26T07:24:01.000Z</when>
+          <when>2025-08-26T20:30:44.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>8gSXgt_sNHwJD</value>
+            <value>ERrO7GDKNhhsL</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 10:24:01<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3.8 km<br/>
+          <b>Date:</b> 2025.08.26 23:30:44<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7 km<br/>
           <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
           <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
         ]]></description>
@@ -927,27 +991,27 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.3778,38.0882,0</coordinates>
+          <coordinates>38.454,38.1112,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>TOKATKIRI-BIGA (CANAKKALE)</name>
+        <name>KONUKLU-KULP (DIYARBAKIR)</name>
         <TimeStamp>
-          <when>2025-08-26T07:18:01.000Z</when>
+          <when>2025-08-26T20:23:01.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>FFhmh7A0cgwH1</value>
+            <value>gsaTsAl9NYo4l</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 10:18:01<br/>
-          <b>Magnitude:</b> 3.4<br/>
-          <b>Depth:</b> 9.7 km<br/>
-          <b>Closest Cities:</b> Balıkesir, Tekirdağ, Edirne, Kırklareli, Bursa<br/>
-          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.08.26 23:23:01<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 5.8 km<br/>
+          <b>Closest Cities:</b> Batman, Bingöl, Muş, Siirt, Bitlis<br/>
+          <b>Nearby Airports:</b> Batman Havalimanı (BAL), Muş Havalimanı (MSR), Bingöl Havalimanı (BGG)
         ]]></description>
         <Style>
           <IconStyle>
@@ -959,7 +1023,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>27.2547,40.3452,0</coordinates>
+          <coordinates>41.0735,38.3878,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1792,70 +1856,6 @@
         </Style>
         <Point>
           <coordinates>34.0977,37.0335,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KORUCAK-CELIKHAN (ADIYAMAN)</name>
-        <TimeStamp>
-          <when>2025-08-26T07:24:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>8gSXgt_sNHwJD</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 10:24:01<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3.8 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.3778,38.0882,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOKATKIRI-BIGA (CANAKKALE)</name>
-        <TimeStamp>
-          <when>2025-08-26T07:18:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>FFhmh7A0cgwH1</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 10:18:01<br/>
-          <b>Magnitude:</b> 3.4<br/>
-          <b>Depth:</b> 9.7 km<br/>
-          <b>Closest Cities:</b> Balıkesir, Tekirdağ, Edirne, Kırklareli, Bursa<br/>
-          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.2547,40.3452,0</coordinates>
         </Point>
       </Placemark>
   </Document>

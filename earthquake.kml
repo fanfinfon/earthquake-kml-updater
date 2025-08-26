@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ESKIKARAHISAR-ULAS (SIVAS)</name>
+        <TimeStamp>
+          <when>2025-08-26T16:31:05.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>AMcB4k989_lAS</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 19:31:05<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 1.6 km<br/>
+          <b>Closest Cities:</b> Tokat, Malatya, Kayseri, Ordu, Kahramanmaraş<br/>
+          <b>Nearby Airports:</b> Sivas Nuri Demirağ Havalimanı (VAS), Tokat Havalimanı (TJK), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.2518,39.4195,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-26T15:59:09.000Z</when>
@@ -768,6 +800,38 @@
         </Style>
         <Point>
           <coordinates>28.2165,39.1775,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-26T15:59:09.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>zZqq1wtjRWwI3</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.26 18:59:09<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 9.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1528,39.1662,0</coordinates>
         </Point>
       </Placemark>
 

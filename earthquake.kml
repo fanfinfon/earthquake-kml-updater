@@ -1028,38 +1028,6 @@
       </Placemark>
 
       <Placemark>
-        <name>TOKMAKLAR-(BOLU)</name>
-        <TimeStamp>
-          <when>2025-08-27T09:21:46.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>5WJHuCsQwd0bp</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.27 12:21:46<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 4.6 km<br/>
-          <b>Closest Cities:</b> Düzce, Zonguldak, Karabük, Bartın, Sakarya<br/>
-          <b>Nearby Airports:</b> Zonguldak Havalimanı (ONQ), Esenboğa Havalimanı (ESB), Cengiz Topel Havalimanı (KCO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.7665,40.8133,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>CAMPINAR-CELIKHAN (ADIYAMAN)</name>
         <TimeStamp>
           <when>2025-08-27T18:14:37.000Z</when>
@@ -2080,38 +2048,6 @@
         </Style>
         <Point>
           <coordinates>31.758,40.8192,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOKMAKLAR-(BOLU)</name>
-        <TimeStamp>
-          <when>2025-08-27T09:21:46.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>5WJHuCsQwd0bp</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.27 12:21:46<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 4.6 km<br/>
-          <b>Closest Cities:</b> Düzce, Zonguldak, Karabük, Bartın, Sakarya<br/>
-          <b>Nearby Airports:</b> Zonguldak Havalimanı (ONQ), Esenboğa Havalimanı (ESB), Cengiz Topel Havalimanı (KCO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>31.7665,40.8133,0</coordinates>
         </Point>
       </Placemark>
   </Document>

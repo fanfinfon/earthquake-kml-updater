@@ -1060,22 +1060,22 @@
       </Placemark>
 
       <Placemark>
-        <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
+        <name>KARSIYAKA-PUTURGE (MALATYA)</name>
         <TimeStamp>
-          <when>2025-08-26T20:30:44.000Z</when>
+          <when>2025-08-27T05:26:48.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>ERrO7GDKNhhsL</value>
+            <value>WFlzZRe53vujM</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 23:30:44<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
+          <b>Date:</b> 2025.08.27 08:26:48<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Elazığ, Şanlıurfa, Tunceli, Diyarbakır<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1087,39 +1087,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.454,38.1112,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KONUKLU-KULP (DIYARBAKIR)</name>
-        <TimeStamp>
-          <when>2025-08-26T20:23:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gsaTsAl9NYo4l</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 23:23:01<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Batman, Bingöl, Muş, Siirt, Bitlis<br/>
-          <b>Nearby Airports:</b> Batman Havalimanı (BAL), Muş Havalimanı (MSR), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.0735,38.3878,0</coordinates>
+          <coordinates>38.7862,38.2843,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2144,70 +2112,6 @@
         </Style>
         <Point>
           <coordinates>28.2298,39.1413,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KARAGOL-CELIKHAN (ADIYAMAN)</name>
-        <TimeStamp>
-          <when>2025-08-26T20:30:44.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>ERrO7GDKNhhsL</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 23:30:44<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7 km<br/>
-          <b>Closest Cities:</b> Malatya, Şanlıurfa, Elazığ, Kahramanmaraş, Gaziantep<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.454,38.1112,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KONUKLU-KULP (DIYARBAKIR)</name>
-        <TimeStamp>
-          <when>2025-08-26T20:23:01.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>gsaTsAl9NYo4l</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.26 23:23:01<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Batman, Bingöl, Muş, Siirt, Bitlis<br/>
-          <b>Nearby Airports:</b> Batman Havalimanı (BAL), Muş Havalimanı (MSR), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.0735,38.3878,0</coordinates>
         </Point>
       </Placemark>
   </Document>

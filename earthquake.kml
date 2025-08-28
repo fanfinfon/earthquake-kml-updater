@@ -964,22 +964,22 @@
       </Placemark>
 
       <Placemark>
-        <name>TOPSOGUT-(MALATYA)</name>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-27T13:39:15.000Z</when>
+          <when>2025-08-28T05:16:07.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>qD8jtF8w4Y2c0</value>
+            <value>c2zkdXX2Dmmfc</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.27 16:39:15<br/>
+          <b>Date:</b> 2025.08.28 08:16:07<br/>
           <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 7.9 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Elazığ, Kahramanmaraş, Şanlıurfa, Tunceli<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
+          <b>Depth:</b> 12.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,7 +991,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.2302,38.3565,0</coordinates>
+          <coordinates>28.1645,39.1783,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1920,38 +1920,6 @@
         </Style>
         <Point>
           <coordinates>28.2368,39.1928,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOPSOGUT-(MALATYA)</name>
-        <TimeStamp>
-          <when>2025-08-27T13:39:15.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>qD8jtF8w4Y2c0</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.27 16:39:15<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 7.9 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Elazığ, Kahramanmaraş, Şanlıurfa, Tunceli<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.2302,38.3565,0</coordinates>
         </Point>
       </Placemark>
   </Document>

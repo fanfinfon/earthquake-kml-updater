@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-28T18:33:18.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>LGZpbD_yWjaUW</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.28 21:33:18<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 15.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.097,39.1592,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SOGUTLU-AKHISAR (MANISA)</name>
+        <TimeStamp>
+          <when>2025-08-28T18:32:52.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ngElTac2lLacz</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.28 21:32:52<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 2.2 km<br/>
+          <b>Closest Cities:</b> Balıkesir, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0018,39.1815,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>OZCANLI-ELBISTAN (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-08-28T18:10:00.000Z</when>
@@ -768,6 +832,70 @@
         </Style>
         <Point>
           <coordinates>40.08,38.7385,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>OZCANLI-ELBISTAN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-08-28T18:10:00.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>gdxz0189USc_8</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.28 21:10:00<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 6.5 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.3112,38.1205,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>MARMARA DENIZI</name>
+        <TimeStamp>
+          <when>2025-08-28T18:03:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pkLoJIMKb2l3E</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.28 21:03:42<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 9.3 km<br/>
+          <b>Closest Cities:</b> İstanbul, Yalova, Tekirdağ, Bursa, Kırklareli<br/>
+          <b>Nearby Airports:</b> Atatürk Havalimanı (IST), Tekirdağ Çorlu Havalimanı (TEQ), İstanbul Havalimanı (IST)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.3397,40.8435,0</coordinates>
         </Point>
       </Placemark>
 

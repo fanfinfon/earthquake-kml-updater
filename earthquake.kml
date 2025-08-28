@@ -516,6 +516,38 @@
       </Placemark>
 
       <Placemark>
+        <name>RODOS ADASI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-08-28T13:47:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>jd6g0DgxqDntg</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.28 16:47:37<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 4.9 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Burdur, İzmir<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.099,36.2982,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>INKOY-GEVAS (VAN)</name>
         <TimeStamp>
           <when>2025-08-28T13:30:07.000Z</when>

@@ -4,6 +4,102 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-29T13:32:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>HJ_ZzBgkVrlvK</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.29 16:32:10<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 10.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1688,39.1657,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-29T13:30:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>fJ6ANdWJepTPD</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.29 16:30:06<br/>
+          <b>Magnitude:</b> 3.5<br/>
+          <b>Depth:</b> 11.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1603,39.1877,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-29T13:28:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>wKFl8m8O8HObl</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.29 16:28:53<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 9.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1657,39.1968,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-29T13:07:03.000Z</when>
@@ -484,21 +580,21 @@
       </Placemark>
 
       <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-29T00:37:44.000Z</when>
+          <when>2025-08-29T13:07:03.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>bdfCoriKGvgOk</value>
+            <value>OUDerFkyWL6dL</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.29 03:37:44<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Date:</b> 2025.08.29 16:07:03<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 8.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
@@ -511,7 +607,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.136,39.1687,0</coordinates>
+          <coordinates>28.1028,39.2003,0</coordinates>
         </Point>
       </Placemark>
 
@@ -960,38 +1056,6 @@
         </Style>
         <Point>
           <coordinates>28.1413,39.1737,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-08-29T00:37:44.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>bdfCoriKGvgOk</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.29 03:37:44<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.136,39.1687,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -612,38 +612,6 @@
       </Placemark>
 
       <Placemark>
-        <name>CATAK-SILIFKE (MERSIN)</name>
-        <TimeStamp>
-          <when>2025-08-29T16:19:39.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>F1Ngn2_4ahs4k</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.29 19:19:39<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Karaman, Niğde, Konya, Kıbrıs, Adana<br/>
-          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Şakirpaşa Havalimanı (ADA), Ercan Havalimanı (ECN)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>33.7772,36.6562,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-30T01:45:04.000Z</when>
@@ -1248,38 +1216,6 @@
         </Style>
         <Point>
           <coordinates>28.0562,39.2185,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>CATAK-SILIFKE (MERSIN)</name>
-        <TimeStamp>
-          <when>2025-08-29T16:19:39.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>F1Ngn2_4ahs4k</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.29 19:19:39<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Karaman, Niğde, Konya, Kıbrıs, Adana<br/>
-          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Şakirpaşa Havalimanı (ADA), Ercan Havalimanı (ECN)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>33.7772,36.6562,0</coordinates>
         </Point>
       </Placemark>
   </Document>

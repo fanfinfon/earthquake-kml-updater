@@ -484,38 +484,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BALATCIK-GERMENCIK (AYDIN)</name>
-        <TimeStamp>
-          <when>2025-08-29T22:33:28.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>nwKu14Fdm_9XG</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.30 01:33:28<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.1 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.4758,37.938,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-30T10:38:46.000Z</when>
@@ -992,38 +960,6 @@
         </Style>
         <Point>
           <coordinates>27.2707,37.9235,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BALATCIK-GERMENCIK (AYDIN)</name>
-        <TimeStamp>
-          <when>2025-08-29T22:33:28.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>nwKu14Fdm_9XG</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.30 01:33:28<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.1 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.4758,37.938,0</coordinates>
         </Point>
       </Placemark>
   </Document>

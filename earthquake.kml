@@ -964,22 +964,22 @@
       </Placemark>
 
       <Placemark>
-        <name>AKUSAGI-KALE (MALATYA)</name>
+        <name>YUNANISTAN</name>
         <TimeStamp>
-          <when>2025-08-30T20:18:53.000Z</when>
+          <when>2025-08-31T10:54:21.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>kVJ2pZuemsL_j</value>
+            <value>SOfHw03oYC_yZ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.30 23:18:53<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> Elazığ, Adıyaman, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+          <b>Date:</b> 2025.08.31 13:54:21<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7.2 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Yunanistan, Bulgaristan<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,7 +991,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.8125,38.3452,0</coordinates>
+          <coordinates>24.1368,40.3615,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1920,38 +1920,6 @@
         </Style>
         <Point>
           <coordinates>28.1615,39.1987,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKUSAGI-KALE (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-08-30T20:18:53.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>kVJ2pZuemsL_j</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.30 23:18:53<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> Elazığ, Adıyaman, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.8125,38.3452,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>IBILLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-08-31T13:44:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>tCRxYG3QQI8mo</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.08.31 16:44:53<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1405,39.2572,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>DANACAYIRI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-08-31T13:41:07.000Z</when>
@@ -964,22 +996,22 @@
       </Placemark>
 
       <Placemark>
-        <name>AKDENIZ</name>
+        <name>DANACAYIRI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-30T21:07:06.000Z</when>
+          <when>2025-08-31T13:41:07.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>RE3zKfJcWXOJy</value>
+            <value>TMfBLbVRb3Emn</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.31 00:07:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 2 km<br/>
-          <b>Closest Cities:</b> Antalya, Burdur, Muğla, Denizli, Isparta<br/>
-          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Gazipaşa Havalimanı (GZP)
+          <b>Date:</b> 2025.08.31 16:41:07<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 17.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,27 +1023,27 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>30.1055,35.9157,0</coordinates>
+          <coordinates>28.2775,39.2408,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>AKDENIZ</name>
+        <name>KARAGUR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-08-30T21:07:06.000Z</when>
+          <when>2025-08-31T13:39:39.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>Mnz7kAgXtv4fP</value>
+            <value>VA8SV0A96aB0d</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.31 00:07:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 2.1 km<br/>
-          <b>Closest Cities:</b> Antalya, Burdur, Muğla, Denizli, Isparta<br/>
-          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Gazipaşa Havalimanı (GZP)
+          <b>Date:</b> 2025.08.31 16:39:39<br/>
+          <b>Magnitude:</b> 3.8<br/>
+          <b>Depth:</b> 8.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1023,7 +1055,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>30.1078,35.9192,0</coordinates>
+          <coordinates>28.1023,39.2522,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1920,70 +1952,6 @@
         </Style>
         <Point>
           <coordinates>24.1178,40.3442,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKDENIZ</name>
-        <TimeStamp>
-          <when>2025-08-30T21:07:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>RE3zKfJcWXOJy</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.31 00:07:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 2 km<br/>
-          <b>Closest Cities:</b> Antalya, Burdur, Muğla, Denizli, Isparta<br/>
-          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Gazipaşa Havalimanı (GZP)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>30.1055,35.9157,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKDENIZ</name>
-        <TimeStamp>
-          <when>2025-08-30T21:07:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Mnz7kAgXtv4fP</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.08.31 00:07:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 2.1 km<br/>
-          <b>Closest Cities:</b> Antalya, Burdur, Muğla, Denizli, Isparta<br/>
-          <b>Nearby Airports:</b> Antalya Havalimanı (AYT), Dalaman Havalimanı (DLM), Gazipaşa Havalimanı (GZP)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>30.1078,35.9192,0</coordinates>
         </Point>
       </Placemark>
   </Document>

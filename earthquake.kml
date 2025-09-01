@@ -868,22 +868,22 @@
       </Placemark>
 
       <Placemark>
-        <name>MILLI PARK-KUSADASI (AYDIN)</name>
+        <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-09-01T11:15:20.000Z</when>
+          <when>2025-09-01T21:02:06.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>FKVsRyQFpWDrF</value>
+            <value>0G8iPUVeyuJXG</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.01 14:15:20<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.4 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+          <b>Date:</b> 2025.09.02 00:02:06<br/>
+          <b>Magnitude:</b> 3.7<br/>
+          <b>Depth:</b> 6.3 km<br/>
+          <b>Closest Cities:</b> Aydın, Muğla, İzmir, Manisa, Denizli<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
         ]]></description>
         <Style>
           <IconStyle>
@@ -895,7 +895,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>27.0583,37.7095,0</coordinates>
+          <coordinates>25.6822,36.6275,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1728,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>28.0645,39.1922,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MILLI PARK-KUSADASI (AYDIN)</name>
-        <TimeStamp>
-          <when>2025-09-01T11:15:20.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>FKVsRyQFpWDrF</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.01 14:15:20<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.4 km<br/>
-          <b>Closest Cities:</b> Aydın, İzmir, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.0583,37.7095,0</coordinates>
         </Point>
       </Placemark>
   </Document>

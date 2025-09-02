@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-02T12:16:27.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>__jnDP7tB9p_f</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.02 15:16:27<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 13.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1818,39.1882,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ILICA-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-02T11:46:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>oiNovjP6xz_S3</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.02 14:46:06<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 12.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2117,39.1922,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ILICA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-02T10:09:12.000Z</when>
@@ -612,38 +676,6 @@
       </Placemark>
 
       <Placemark>
-        <name>ALTINTAS-MUDANYA (BURSA)</name>
-        <TimeStamp>
-          <when>2025-09-01T23:16:21.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>beWX018Ed815S</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.02 02:16:21<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 6.2 km<br/>
-          <b>Closest Cities:</b> Yalova, Bursa, İstanbul, Kocaeli, Bilecik<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9693,40.3867,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ILICA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-02T10:09:12.000Z</when>
@@ -1248,38 +1280,6 @@
         </Style>
         <Point>
           <coordinates>28.2443,39.1892,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ALTINTAS-MUDANYA (BURSA)</name>
-        <TimeStamp>
-          <when>2025-09-01T23:16:21.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>beWX018Ed815S</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.02 02:16:21<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 6.2 km<br/>
-          <b>Closest Cities:</b> Yalova, Bursa, İstanbul, Kocaeli, Bilecik<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.9693,40.3867,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -644,38 +644,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KUSADASI KORFEZI (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-09-02T23:45:29.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>rNni9BOK8TImg</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.03 02:45:29<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> İzmir, Aydın, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.1107,37.9605,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>CICEKLI-GORDES (MANISA)</name>
         <TimeStamp>
           <when>2025-09-03T15:35:59.000Z</when>
@@ -1312,38 +1280,6 @@
         </Style>
         <Point>
           <coordinates>28.2167,39.1767,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KUSADASI KORFEZI (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-09-02T23:45:29.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>rNni9BOK8TImg</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.03 02:45:29<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> İzmir, Aydın, Manisa, Muğla, Denizli<br/>
-          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.1107,37.9605,0</coordinates>
         </Point>
       </Placemark>
   </Document>

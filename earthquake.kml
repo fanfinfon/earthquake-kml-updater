@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KUSADASI KORFEZI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-09-02T23:45:29.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>rNni9BOK8TImg</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.03 02:45:29<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> İzmir, Aydın, Manisa, Muğla, Denizli<br/>
+          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Çiğli Havalimanı (IGL), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.1107,37.9605,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>MILLI PARK-KUSADASI (AYDIN)</name>
         <TimeStamp>
           <when>2025-09-02T20:15:16.000Z</when>
@@ -548,38 +580,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-02T06:47:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>tJrLoCmT3MC_v</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.02 09:47:10<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 12.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2032,39.1837,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>MILLI PARK-KUSADASI (AYDIN)</name>
         <TimeStamp>
           <when>2025-09-02T20:15:16.000Z</when>
@@ -1120,38 +1120,6 @@
         </Style>
         <Point>
           <coordinates>28.0853,39.2042,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-02T06:47:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>tJrLoCmT3MC_v</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.02 09:47:10<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 12.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2032,39.1837,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -996,22 +996,22 @@
       </Placemark>
 
       <Placemark>
-        <name>ILICA-SINDIRGI (BALIKESIR)</name>
+        <name>SIRMACEK-KIGI (BINGOL)</name>
         <TimeStamp>
-          <when>2025-09-03T17:47:52.000Z</when>
+          <when>2025-09-04T08:55:03.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>OwuISJSagKOna</value>
+            <value>zM_3tCio3sF4k</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.03 20:47:52<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 11.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+          <b>Date:</b> 2025.09.04 11:55:03<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 4.6 km<br/>
+          <b>Closest Cities:</b> Bingöl, Tunceli, Erzincan, Diyarbakır, Bayburt<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzincan Havalimanı (ERC), Elazığ Havalimanı (EZS)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1023,7 +1023,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.2427,39.1963,0</coordinates>
+          <coordinates>40.3363,39.1457,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ISACA-AKHISAR (MANISA)</name>
+        <TimeStamp>
+          <when>2025-09-04T08:46:58.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>0c_G5pW5hpjiA</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.04 11:46:58<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 12.7 km<br/>
+          <b>Closest Cities:</b> Balıkesir, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0723,39.1345,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1952,38 +1984,6 @@
         </Style>
         <Point>
           <coordinates>25.583,36.672,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ILICA-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-03T17:47:52.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>OwuISJSagKOna</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.03 20:47:52<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 11.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2427,39.1963,0</coordinates>
         </Point>
       </Placemark>
   </Document>

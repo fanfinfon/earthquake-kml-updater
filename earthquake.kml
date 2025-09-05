@@ -900,6 +900,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SAGLICA-TERCAN (ERZINCAN)</name>
+        <TimeStamp>
+          <when>2025-09-05T15:47:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>uLwbvScDYCTtd</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.05 18:47:10<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7.2 km<br/>
+          <b>Closest Cities:</b> Bayburt, Bingöl, Tunceli, Erzurum, Gümüşhane<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Erzincan Havalimanı (ERC), Bingöl Havalimanı (BGG)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>40.4752,39.6437,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BAYIRLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-05T15:23:34.000Z</when>

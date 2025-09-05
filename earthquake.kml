@@ -772,38 +772,6 @@
       </Placemark>
 
       <Placemark>
-        <name>INKOY-GEVAS (VAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T05:36:55.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7iAKnSGmxig0d</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 08:36:55<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 6.5 km<br/>
-          <b>Closest Cities:</b> Bitlis, Siirt, Muş, Şırnak, Ağrı<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Siirt Havalimanı (SXZ), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.9072,38.5143,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)</name>
         <TimeStamp>
           <when>2025-09-05T17:43:43.000Z</when>
@@ -896,6 +864,38 @@
         </Style>
         <Point>
           <coordinates>28.2357,39.1713,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YENIKOY-REFAHIYE (ERZINCAN)</name>
+        <TimeStamp>
+          <when>2025-09-05T16:50:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>zJ0rsyX3vHKMR</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.05 19:50:57<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Gümüşhane, Giresun, Tunceli, Bayburt, Trabzon<br/>
+          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Trabzon Havalimanı (TZX), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.0657,39.8795,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1536,38 +1536,6 @@
         </Style>
         <Point>
           <coordinates>25.6653,36.6692,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>INKOY-GEVAS (VAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T05:36:55.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7iAKnSGmxig0d</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 08:36:55<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 6.5 km<br/>
-          <b>Closest Cities:</b> Bitlis, Siirt, Muş, Şırnak, Ağrı<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Siirt Havalimanı (SXZ), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.9072,38.5143,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BUYUKKUMLA-GEMLIK (BURSA)</name>
+        <TimeStamp>
+          <when>2025-09-06T02:30:28.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>9TlDCEDMk5vlk</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 05:30:28<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Yalova, Kocaeli, İstanbul, Bilecik, Sakarya<br/>
+          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.1315,40.4712,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-09-06T01:43:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>debtqvol8q5ta</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 04:43:37<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 15.6 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, Denizli, İzmir<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.798,34.2482,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SURIYE</name>
         <TimeStamp>
           <when>2025-09-05T23:26:01.000Z</when>
@@ -644,38 +708,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KOKPINAR-PUTURGE (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-09-05T13:29:25.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>OymlILeSdAExo</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 16:29:25<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 24 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Elazığ, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.6673,38.2447,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>SURIYE</name>
         <TimeStamp>
           <when>2025-09-05T23:26:01.000Z</when>
@@ -1312,38 +1344,6 @@
         </Style>
         <Point>
           <coordinates>25.5205,39.327,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KOKPINAR-PUTURGE (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-09-05T13:29:25.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>OymlILeSdAExo</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 16:29:25<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 24 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Elazığ, Şanlıurfa, Tunceli, Diyarbakır<br/>
-          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.6673,38.2447,0</coordinates>
         </Point>
       </Placemark>
   </Document>

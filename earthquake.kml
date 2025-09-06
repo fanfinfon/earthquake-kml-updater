@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ACIELMA-GOKSUN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-06T06:18:22.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>apEBQD5rCsl9o</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 09:18:22<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kayseri, Adana, Gaziantep, Kilis<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.4175,37.9752,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AKKAYA-KOZAN (ADANA)</name>
         <TimeStamp>
           <when>2025-09-06T05:27:36.000Z</when>
@@ -612,38 +644,6 @@
       </Placemark>
 
       <Placemark>
-        <name>YENIKOY-REFAHIYE (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T16:50:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>zJ0rsyX3vHKMR</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 19:50:57<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Gümüşhane, Giresun, Tunceli, Bayburt, Trabzon<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Trabzon Havalimanı (TZX), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>39.0657,39.8795,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>AKKAYA-KOZAN (ADANA)</name>
         <TimeStamp>
           <when>2025-09-06T05:27:36.000Z</when>
@@ -1248,38 +1248,6 @@
         </Style>
         <Point>
           <coordinates>28.2357,39.1713,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YENIKOY-REFAHIYE (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T16:50:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>zJ0rsyX3vHKMR</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 19:50:57<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Gümüşhane, Giresun, Tunceli, Bayburt, Trabzon<br/>
-          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Trabzon Havalimanı (TZX), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>39.0657,39.8795,0</coordinates>
         </Point>
       </Placemark>
   </Document>

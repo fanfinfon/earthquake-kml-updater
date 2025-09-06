@@ -580,38 +580,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-09-05T17:43:43.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PptpsWSd6UFeV</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 20:43:43<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 63.9 km<br/>
-          <b>Closest Cities:</b> Aydın, Denizli, Burdur, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0168,36.5967,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ISIKLAR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-06T07:12:43.000Z</when>
@@ -1184,38 +1152,6 @@
         </Style>
         <Point>
           <coordinates>28.0993,39.2138,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-09-05T17:43:43.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PptpsWSd6UFeV</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 20:43:43<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 63.9 km<br/>
-          <b>Closest Cities:</b> Aydın, Denizli, Burdur, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0168,36.5967,0</coordinates>
         </Point>
       </Placemark>
   </Document>

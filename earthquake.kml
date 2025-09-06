@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
+        <TimeStamp>
+          <when>2025-09-06T04:19:40.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YnrKmG4w7ncbJ</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 07:19:40<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 11 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.7923,36.9105,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGE DENIZI</name>
+        <TimeStamp>
+          <when>2025-09-06T04:08:11.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>lNBokZA9RkKP6</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 07:08:11<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 15.6 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Tekirdağ, Balıkesir, Kırklareli<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.6248,40.5843,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-06T03:48:33.000Z</when>
@@ -580,22 +644,22 @@
       </Placemark>
 
       <Placemark>
-        <name>NISANTASI-SENKAYA (ERZURUM)</name>
+        <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-05T16:01:46.000Z</when>
+          <when>2025-09-06T03:48:33.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>a5vr1vOzbo8Uy</value>
+            <value>5Dxw97U_g8nyc</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 19:01:46<br/>
+          <b>Date:</b> 2025.09.06 06:48:33<br/>
           <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.7 km<br/>
-          <b>Closest Cities:</b> Kars, Artvin, Ardahan, Rize, Ağrı<br/>
-          <b>Nearby Airports:</b> Kars Havalimanı (KSY), Ağrı Havalimanı (AJI), Erzurum Havalimanı (ERZ)
+          <b>Depth:</b> 8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -607,39 +671,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>42.375,40.686,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SAGLICA-TERCAN (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T15:47:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>uLwbvScDYCTtd</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 18:47:10<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.2 km<br/>
-          <b>Closest Cities:</b> Bayburt, Bingöl, Tunceli, Erzurum, Gümüşhane<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Erzincan Havalimanı (ERC), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.4752,39.6437,0</coordinates>
+          <coordinates>28.056,39.2493,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1184,70 +1216,6 @@
         </Style>
         <Point>
           <coordinates>28.1532,39.1663,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>NISANTASI-SENKAYA (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-05T16:01:46.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>a5vr1vOzbo8Uy</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 19:01:46<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.7 km<br/>
-          <b>Closest Cities:</b> Kars, Artvin, Ardahan, Rize, Ağrı<br/>
-          <b>Nearby Airports:</b> Kars Havalimanı (KSY), Ağrı Havalimanı (AJI), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.375,40.686,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SAGLICA-TERCAN (ERZINCAN)</name>
-        <TimeStamp>
-          <when>2025-09-05T15:47:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>uLwbvScDYCTtd</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.05 18:47:10<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 7.2 km<br/>
-          <b>Closest Cities:</b> Bayburt, Bingöl, Tunceli, Erzurum, Gümüşhane<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Erzincan Havalimanı (ERC), Bingöl Havalimanı (BGG)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.4752,39.6437,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -644,6 +644,38 @@
       </Placemark>
 
       <Placemark>
+        <name>AKKAYA-KOZAN (ADANA)</name>
+        <TimeStamp>
+          <when>2025-09-06T05:27:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>jXjgWgnfr_scy</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 08:27:36<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Niğde, Osmaniye, Kayseri, Kahramanmaraş, Nevşehir<br/>
+          <b>Nearby Airports:</b> Şakirpaşa Havalimanı (ADA), Kayseri Erkilet Havalimanı (ASR), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>35.6047,37.7817,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>GOKOVA KORFEZI (EGE DENIZI)</name>
         <TimeStamp>
           <when>2025-09-06T04:19:40.000Z</when>

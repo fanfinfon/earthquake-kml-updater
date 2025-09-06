@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>TULUM-TORBALI (IZMIR)</name>
+        <TimeStamp>
+          <when>2025-09-06T14:25:29.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>nwVrvTXWRJ98l</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.06 17:25:29<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Aydın, Manisa, Muğla, Denizli, Uşak<br/>
+          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.4463,38.1227,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ISIKLAR-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-06T13:25:51.000Z</when>

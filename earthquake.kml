@@ -868,38 +868,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BUYUKKUMLA-GEMLIK (BURSA)</name>
-        <TimeStamp>
-          <when>2025-09-06T02:30:28.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9TlDCEDMk5vlk</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.06 05:30:28<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Yalova, Kocaeli, İstanbul, Bilecik, Sakarya<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.1315,40.4712,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-06T23:04:59.000Z</when>
@@ -1760,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>28.056,39.2493,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BUYUKKUMLA-GEMLIK (BURSA)</name>
-        <TimeStamp>
-          <when>2025-09-06T02:30:28.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9TlDCEDMk5vlk</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.06 05:30:28<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Yalova, Kocaeli, İstanbul, Bilecik, Sakarya<br/>
-          <b>Nearby Airports:</b> Bursa Havalimanı (BTZ), Bursa Yenişehir Havalimanı (YEI), Sabiha Gökçen Havalimanı (SAW)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.1315,40.4712,0</coordinates>
         </Point>
       </Placemark>
   </Document>

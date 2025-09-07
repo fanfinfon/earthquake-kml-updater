@@ -740,6 +740,38 @@
       </Placemark>
 
       <Placemark>
+        <name>TOPRAKTEPE-DOGANSEHIR (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-09-07T05:32:51.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7GpgqACrjz7cq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.07 08:32:51<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.7 km<br/>
+          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Gaziantep, Şanlıurfa, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.8358,38.0987,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KATRANDAGI-EMET (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-07T04:06:55.000Z</when>

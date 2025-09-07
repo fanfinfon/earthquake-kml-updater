@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>SENOVA-KOVANCILAR (ELAZIG)</name>
+        <TimeStamp>
+          <when>2025-09-07T15:38:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YwCW4baH5zCfU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.07 18:38:10<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 4.6 km<br/>
+          <b>Closest Cities:</b> Tunceli, Bingöl, Diyarbakır, Erzincan, Batman<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Elazığ Havalimanı (EZS), Diyarbakır Havalimanı (DIY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.9533,38.7442,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-07T15:08:42.000Z</when>

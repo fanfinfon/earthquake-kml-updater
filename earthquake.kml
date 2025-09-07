@@ -1284,6 +1284,38 @@
       </Placemark>
 
       <Placemark>
+        <name>YAYDERE-GENC (BINGOL)</name>
+        <TimeStamp>
+          <when>2025-09-07T17:34:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>fv6QRs6oDXzuf</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.07 20:34:42<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 3.2 km<br/>
+          <b>Closest Cities:</b> Diyarbakır, Elazığ, Tunceli, Batman, Erzincan<br/>
+          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>40.3058,38.4847,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-07T17:08:19.000Z</when>

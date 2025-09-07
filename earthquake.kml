@@ -292,6 +292,38 @@
       </Placemark>
 
       <Placemark>
+        <name>AKCA-KALE (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-09-07T20:05:26.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Yn1MACQBF_1dK</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.07 23:05:26<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Elazığ, Adıyaman, Tunceli, Şanlıurfa, Diyarbakır<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.8835,38.3518,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ILICA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-07T20:03:19.000Z</when>
@@ -1316,22 +1348,22 @@
       </Placemark>
 
       <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-07T10:37:35.000Z</when>
+          <when>2025-09-07T21:07:48.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>KktVKed7EJvFS</value>
+            <value>LZ4jNkwL6saaq</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.07 13:37:35<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 12.9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+          <b>Date:</b> 2025.09.08 00:07:48<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1343,7 +1375,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1388,39.1577,0</coordinates>
+          <coordinates>28.2217,39.1815,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2624,38 +2656,6 @@
         </Style>
         <Point>
           <coordinates>28.1212,39.1317,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-07T10:37:35.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>KktVKed7EJvFS</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.07 13:37:35<br/>
-          <b>Magnitude:</b> 3<br/>
-          <b>Depth:</b> 12.9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1388,39.1577,0</coordinates>
         </Point>
       </Placemark>
   </Document>

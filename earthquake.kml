@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-08T03:24:52.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>81QnPCpWQdEZr</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.08 06:24:52<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 11.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1427,39.1763,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KEMALPASA-GOKSUN (KAHRAMANMARAS)</name>
         <TimeStamp>
           <when>2025-09-08T02:19:09.000Z</when>
@@ -1028,22 +1060,22 @@
       </Placemark>
 
       <Placemark>
-        <name>YAYDERE-GENC (BINGOL)</name>
+        <name>KEMALPASA-GOKSUN (KAHRAMANMARAS)</name>
         <TimeStamp>
-          <when>2025-09-07T17:34:42.000Z</when>
+          <when>2025-09-08T02:19:09.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>fv6QRs6oDXzuf</value>
+            <value>jTOKuNQNgWCcH</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.07 20:34:42<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3.2 km<br/>
-          <b>Closest Cities:</b> Diyarbakır, Elazığ, Tunceli, Batman, Erzincan<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Elazığ Havalimanı (EZS)
+          <b>Date:</b> 2025.09.08 05:19:09<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.7 km<br/>
+          <b>Closest Cities:</b> Kayseri, Osmaniye, Malatya, Gaziantep, Adıyaman<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Gaziantep Havalimanı (GZT)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1055,7 +1087,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>40.3058,38.4847,0</coordinates>
+          <coordinates>36.9168,38.1345,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2048,38 +2080,6 @@
         </Style>
         <Point>
           <coordinates>28.1543,39.1718,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YAYDERE-GENC (BINGOL)</name>
-        <TimeStamp>
-          <when>2025-09-07T17:34:42.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>fv6QRs6oDXzuf</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.07 20:34:42<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 3.2 km<br/>
-          <b>Closest Cities:</b> Diyarbakır, Elazığ, Tunceli, Batman, Erzincan<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Diyarbakır Havalimanı (DIY), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.3058,38.4847,0</coordinates>
         </Point>
       </Placemark>
   </Document>

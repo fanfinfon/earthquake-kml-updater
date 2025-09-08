@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KARAAGAC-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-08T08:15:49.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>TA0lHbq0k8SES</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.08 11:15:49<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1418,39.2783,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>CUKURKOY-MILAS (MUGLA)</name>
         <TimeStamp>
           <when>2025-09-08T08:09:11.000Z</when>
@@ -928,6 +960,102 @@
         </Style>
         <Point>
           <coordinates>28.2228,39.1713,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>CUKURKOY-MILAS (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-09-08T08:09:11.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>jn4IOJGXOTa3t</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.08 11:09:11<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 24.6 km<br/>
+          <b>Closest Cities:</b> Muğla, İzmir, Denizli, Manisa, Uşak<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.727,37.492,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-08T07:59:51.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YjhYu2yWt53Co</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.08 10:59:51<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0915,39.2082,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>CUKURKOY-MILAS (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-09-08T07:47:22.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Xpxnx8oIiNA0b</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.08 10:47:22<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 6.8 km<br/>
+          <b>Closest Cities:</b> Aydın, İzmir, Denizli, Manisa, Uşak<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.7403,37.4835,0</coordinates>
         </Point>
       </Placemark>
 

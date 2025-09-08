@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-09-08T21:43:05.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>NtG9OlQtwNgxU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 00:43:05<br/>
+          <b>Magnitude:</b> 3.4<br/>
+          <b>Depth:</b> 3.1 km<br/>
+          <b>Closest Cities:</b> Muğla, Aydın, Denizli, Yunanistan, Burdur<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>26.7145,34.8577,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YUNANISTAN</name>
         <TimeStamp>
           <when>2025-09-08T21:27:53.000Z</when>
@@ -1024,6 +1056,70 @@
         </Style>
         <Point>
           <coordinates>28.1982,39.2277,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-09-08T21:27:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>cYXJdN8OGYJmy</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 00:27:53<br/>
+          <b>Magnitude:</b> 5.3<br/>
+          <b>Depth:</b> 1.5 km<br/>
+          <b>Closest Cities:</b> Yunanistan, İzmir, Çanakkale, Aydın, Manisa<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>23.9668,38.3777,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-09-08T21:27:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>naT7pAUYD028v</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 00:27:53<br/>
+          <b>Magnitude:</b> 5.3<br/>
+          <b>Depth:</b> 1.5 km<br/>
+          <b>Closest Cities:</b> Yunanistan, İzmir, Çanakkale, Aydın, Manisa<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>23.9668,38.3777,0</coordinates>
         </Point>
       </Placemark>
 

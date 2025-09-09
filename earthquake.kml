@@ -132,6 +132,102 @@
       </Placemark>
 
       <Placemark>
+        <name>AGARTI-(VAN)</name>
+        <TimeStamp>
+          <when>2025-09-09T11:07:31.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>WuGfGsgBHIoYO</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 14:07:31<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 2.3 km<br/>
+          <b>Closest Cities:</b> Bitlis, Ağrı, Muş, Siirt, Şırnak<br/>
+          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>43.2375,38.7197,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ATMACA-(VAN)</name>
+        <TimeStamp>
+          <when>2025-09-09T11:05:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>BvlwPTlfqeJTK</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 14:05:42<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 4.6 km<br/>
+          <b>Closest Cities:</b> Bitlis, Ağrı, Muş, Siirt, Şırnak<br/>
+          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>43.2428,38.7193,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TOPCU-KOPRUKOY (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-09-09T11:02:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>JgmtSMrNqLCPt</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 14:02:50<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 8.5 km<br/>
+          <b>Closest Cities:</b> Muş, Kars, Ağrı, Bingöl, Artvin<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.9242,39.7902,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>TOPCU-KOPRUKOY (ERZURUM)</name>
         <TimeStamp>
           <when>2025-09-09T10:55:06.000Z</when>
@@ -1284,6 +1380,38 @@
       </Placemark>
 
       <Placemark>
+        <name>DEGIRMENKOY-(VAN)</name>
+        <TimeStamp>
+          <when>2025-09-09T11:28:53.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>VLXscoz9gFWg7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 14:28:53<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 27.2 km<br/>
+          <b>Closest Cities:</b> Bitlis, Ağrı, Siirt, Şırnak, Hakkari<br/>
+          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Hakkari Yüksekova Havalimanı (YKO), Ağrı Havalimanı (AJI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>43.4917,38.5282,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KOZLU-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-09T11:18:57.000Z</when>
@@ -1344,6 +1472,102 @@
         </Style>
         <Point>
           <coordinates>41.9558,39.7878,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ATAKOY-KOPRUKOY (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-09-09T10:41:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>DFv5OKA35RUEB</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 13:41:06<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 11.8 km<br/>
+          <b>Closest Cities:</b> Muş, Bingöl, Kars, Ağrı, Bitlis<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.8072,39.7093,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KAYABASI-KOPRUKOY (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-09-09T10:31:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>HxPzcWULAGVxz</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 13:31:36<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.9 km<br/>
+          <b>Closest Cities:</b> Muş, Kars, Artvin, Ağrı, Bingöl<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.8492,39.8325,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KAYABASI-KOPRUKOY (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-09-09T10:31:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ArujK60eMldMU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.09 13:31:36<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.5 km<br/>
+          <b>Closest Cities:</b> Muş, Kars, Artvin, Ağrı, Bingöl<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.8518,39.837,0</coordinates>
         </Point>
       </Placemark>
 

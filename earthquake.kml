@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-09T21:22:28.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>hFoY_Z1WhPxL0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 00:22:28<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1452,39.2082,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-09T20:14:22.000Z</when>
@@ -1028,38 +1060,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KAYABASI-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T10:31:36.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>ArujK60eMldMU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 13:31:36<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.5 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Artvin, Ağrı, Bingöl<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.8518,39.837,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-09T20:14:22.000Z</when>
@@ -2080,38 +2080,6 @@
         </Style>
         <Point>
           <coordinates>41.8492,39.8325,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KAYABASI-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T10:31:36.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>ArujK60eMldMU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 13:31:36<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.5 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Artvin, Ağrı, Bingöl<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.8518,39.837,0</coordinates>
         </Point>
       </Placemark>
   </Document>

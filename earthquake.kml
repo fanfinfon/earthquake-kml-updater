@@ -964,22 +964,22 @@
       </Placemark>
 
       <Placemark>
-        <name>TOPCU-KOPRUKOY (ERZURUM)</name>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-09T11:02:50.000Z</when>
+          <when>2025-09-09T21:28:53.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>JgmtSMrNqLCPt</value>
+            <value>aWzvUV2G94BdD</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 14:02:50<br/>
+          <b>Date:</b> 2025.09.10 00:28:53<br/>
           <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.5 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Bingöl, Artvin<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+          <b>Depth:</b> 10.3 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,39 +991,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>41.9242,39.7902,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOPCU-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T10:55:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>wTb2cM64U7V4k</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 13:55:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 1.1 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Artvin, Bitlis<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.9558,39.7878,0</coordinates>
+          <coordinates>28.228,39.1795,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1952,70 +1920,6 @@
         </Style>
         <Point>
           <coordinates>43.2428,38.7193,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOPCU-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T11:02:50.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>JgmtSMrNqLCPt</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 14:02:50<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 8.5 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Bingöl, Artvin<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.9242,39.7902,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOPCU-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T10:55:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>wTb2cM64U7V4k</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 13:55:06<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 1.1 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Artvin, Bitlis<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.9558,39.7878,0</coordinates>
         </Point>
       </Placemark>
   </Document>

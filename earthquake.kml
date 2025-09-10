@@ -6,6 +6,70 @@
       <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
+          <when>2025-09-10T00:10:14.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>WE0_q69utMcHw</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 03:10:14<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 14 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0822,39.2153,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GUZELHISAR-KOPRUKOY (ERZURUM)</name>
+        <TimeStamp>
+          <when>2025-09-09T23:47:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>r1RboKTscOP9o</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 02:47:04<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 1.8 km<br/>
+          <b>Closest Cities:</b> Muş, Kars, Ağrı, Artvin, Bitlis<br/>
+          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>41.9847,39.7992,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
           <when>2025-09-09T22:50:33.000Z</when>
         </TimeStamp>
         <ExtendedData>

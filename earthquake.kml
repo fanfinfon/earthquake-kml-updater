@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KALEALTI-ELBISTAN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-10T13:15:46.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>bEi1UtqDUm_A3</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 16:15:46<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Malatya, Kayseri, Adıyaman, Osmaniye, Gaziantep<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.0642,38.199,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YUREGIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-10T13:01:32.000Z</when>
@@ -868,54 +900,22 @@
       </Placemark>
 
       <Placemark>
-        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <name>YUREGIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-10T00:10:14.000Z</when>
+          <when>2025-09-10T13:01:32.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>WE0_q69utMcHw</value>
+            <value>n7corns1nuwsy</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 03:10:14<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 14 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0822,39.2153,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GUZELHISAR-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T23:47:04.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>r1RboKTscOP9o</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 02:47:04<br/>
+          <b>Date:</b> 2025.09.10 16:01:32<br/>
           <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 1.8 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Artvin, Bitlis<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+          <b>Depth:</b> 7.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Uşak, Kütahya, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Uşak Havalimanı (USQ), Balıkesir Koca Seyit Havalimanı (EDO)
         ]]></description>
         <Style>
           <IconStyle>
@@ -927,7 +927,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>41.9847,39.7992,0</coordinates>
+          <coordinates>28.3027,39.097,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1760,70 +1760,6 @@
         </Style>
         <Point>
           <coordinates>38.8677,38.3995,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-10T00:10:14.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>WE0_q69utMcHw</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 03:10:14<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 14 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0822,39.2153,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GUZELHISAR-KOPRUKOY (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-09T23:47:04.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>r1RboKTscOP9o</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 02:47:04<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 1.8 km<br/>
-          <b>Closest Cities:</b> Muş, Kars, Ağrı, Artvin, Bitlis<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.9847,39.7992,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -644,38 +644,6 @@
       </Placemark>
 
       <Placemark>
-        <name>HALILBEYLI-SAIMBEYLI (ADANA)</name>
-        <TimeStamp>
-          <when>2025-09-09T18:05:55.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>mQu7DxK7MZ2dc</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 21:05:55<br/>
-          <b>Magnitude:</b> 3.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kahramanmaraş, Kayseri, Gaziantep, Niğde<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Şakirpaşa Havalimanı (ADA), Kayseri Erkilet Havalimanı (ASR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.1602,37.7515,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ILICA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-10T04:48:23.000Z</when>
@@ -1312,38 +1280,6 @@
         </Style>
         <Point>
           <coordinates>28.2482,39.1713,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>HALILBEYLI-SAIMBEYLI (ADANA)</name>
-        <TimeStamp>
-          <when>2025-09-09T18:05:55.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>mQu7DxK7MZ2dc</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.09 21:05:55<br/>
-          <b>Magnitude:</b> 3.6<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kahramanmaraş, Kayseri, Gaziantep, Niğde<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Şakirpaşa Havalimanı (ADA), Kayseri Erkilet Havalimanı (ASR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.1602,37.7515,0</coordinates>
         </Point>
       </Placemark>
   </Document>

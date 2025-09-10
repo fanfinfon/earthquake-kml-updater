@@ -868,22 +868,22 @@
       </Placemark>
 
       <Placemark>
-        <name>YUNANISTAN</name>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-10T06:57:21.000Z</when>
+          <when>2025-09-10T22:47:13.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>qqROM0mzDY5TS</value>
+            <value>XecmRdDL4Fwul</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 09:57:21<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 23.2 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Makedonya, İzmir, Edirne, Balıkesir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.09.11 01:47:13<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -895,7 +895,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>23.6878,39.1523,0</coordinates>
+          <coordinates>28.1448,39.1675,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-10T22:43:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>t39BQewhftbMm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.11 01:43:42<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 9.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2472,39.1777,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1696,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>28.102,39.2085,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-09-10T06:57:21.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>qqROM0mzDY5TS</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 09:57:21<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 23.2 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Makedonya, İzmir, Edirne, Balıkesir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>23.6878,39.1523,0</coordinates>
         </Point>
       </Placemark>
   </Document>

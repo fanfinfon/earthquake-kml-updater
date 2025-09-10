@@ -838,6 +838,70 @@
       <Placemark>
         <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
+          <when>2025-09-10T10:37:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Eewngh9ApnvZO</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 13:37:37<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 3.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1142,39.1652,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-09-10T10:31:30.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>_60dZ58znXcsn</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 13:31:30<br/>
+          <b>Magnitude:</b> 3.6<br/>
+          <b>Depth:</b> 10 km<br/>
+          <b>Closest Cities:</b> Çanakkale, İzmir, Makedonya, Balıkesir, Edirne<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>23.7225,38.7018,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
           <when>2025-09-10T10:07:20.000Z</when>
         </TimeStamp>
         <ExtendedData>

@@ -868,38 +868,6 @@
       </Placemark>
 
       <Placemark>
-        <name>MARMARA DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-10T02:01:11.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>UUQUhSMv8n0Qw</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 05:01:11<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Tekirdağ, İstanbul, Yalova, Kırklareli, Balıkesir<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1237,40.8273,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>UCUK-SARKISLA (SIVAS)</name>
         <TimeStamp>
           <when>2025-09-10T18:29:16.000Z</when>
@@ -960,6 +928,70 @@
         </Style>
         <Point>
           <coordinates>28.2013,39.2027,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>HANPASA-AKHISAR (MANISA)</name>
+        <TimeStamp>
+          <when>2025-09-10T17:03:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>CWEOaJivaXbw0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 20:03:50<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 12 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Uşak, Kütahya, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1017,39.0852,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARADENIZ</name>
+        <TimeStamp>
+          <when>2025-09-10T16:55:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>M8ugCR3ykmETN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 19:55:39<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 17.6 km<br/>
+          <b>Closest Cities:</b> İstanbul, Kocaeli, Sakarya, Yalova, Kırklareli<br/>
+          <b>Nearby Airports:</b> İstanbul Havalimanı (IST), Sabiha Gökçen Havalimanı (SAW), Atatürk Havalimanı (IST)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.6002,41.9985,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1696,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>26.2603,39.505,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MARMARA DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-10T02:01:11.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>UUQUhSMv8n0Qw</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 05:01:11<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Tekirdağ, İstanbul, Yalova, Kırklareli, Balıkesir<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1237,40.8273,0</coordinates>
         </Point>
       </Placemark>
   </Document>

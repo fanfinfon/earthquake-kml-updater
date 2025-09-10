@@ -68,6 +68,70 @@
       </Placemark>
 
       <Placemark>
+        <name>HANPASA-AKHISAR (MANISA)</name>
+        <TimeStamp>
+          <when>2025-09-10T17:03:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>CWEOaJivaXbw0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 20:03:50<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 12 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Uşak, Kütahya, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1017,39.0852,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARADENIZ</name>
+        <TimeStamp>
+          <when>2025-09-10T16:55:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>M8ugCR3ykmETN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.10 19:55:39<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 17.6 km<br/>
+          <b>Closest Cities:</b> İstanbul, Kocaeli, Sakarya, Yalova, Kırklareli<br/>
+          <b>Nearby Airports:</b> İstanbul Havalimanı (IST), Sabiha Gökçen Havalimanı (SAW), Atatürk Havalimanı (IST)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.6002,41.9985,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ILICA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-10T16:42:48.000Z</when>
@@ -836,22 +900,22 @@
       </Placemark>
 
       <Placemark>
-        <name>MALAZ-GORDES (MANISA)</name>
+        <name>UCUK-SARKISLA (SIVAS)</name>
         <TimeStamp>
-          <when>2025-09-10T01:33:17.000Z</when>
+          <when>2025-09-10T18:29:16.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>jMCSrgPV13DW2</value>
+            <value>950fxrcR0i71f</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 04:33:17<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 7.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, İzmir, Uşak, Kütahya, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Uşak Havalimanı (USQ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.09.10 21:29:16<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 2.8 km<br/>
+          <b>Closest Cities:</b> Kayseri, Yozgat, Tokat, Kahramanmaraş, Malatya<br/>
+          <b>Nearby Airports:</b> Sivas Nuri Demirağ Havalimanı (VAS), Kayseri Erkilet Havalimanı (ASR), Tokat Havalimanı (TJK)
         ]]></description>
         <Style>
           <IconStyle>
@@ -863,7 +927,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.303,39.0795,0</coordinates>
+          <coordinates>36.5312,39.2352,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1664,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>28.1237,40.8273,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MALAZ-GORDES (MANISA)</name>
-        <TimeStamp>
-          <when>2025-09-10T01:33:17.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>jMCSrgPV13DW2</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 04:33:17<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 7.4 km<br/>
-          <b>Closest Cities:</b> Balıkesir, İzmir, Uşak, Kütahya, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Uşak Havalimanı (USQ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.303,39.0795,0</coordinates>
         </Point>
       </Placemark>
   </Document>

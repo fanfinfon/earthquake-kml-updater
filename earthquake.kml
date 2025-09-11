@@ -644,38 +644,6 @@
       </Placemark>
 
       <Placemark>
-        <name>TEKIR-(KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-10T14:39:05.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>h5I99j9mc_ZtH</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 17:39:05<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 17.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Adana, Kayseri, Gaziantep, Kilis<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Kayseri Erkilet Havalimanı (ASR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.6388,37.9023,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-11T05:37:00.000Z</when>
@@ -1312,38 +1280,6 @@
         </Style>
         <Point>
           <coordinates>28.213,39.1895,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TEKIR-(KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-10T14:39:05.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>h5I99j9mc_ZtH</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.10 17:39:05<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 17.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Adana, Kayseri, Gaziantep, Kilis<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Kayseri Erkilet Havalimanı (ASR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.6388,37.9023,0</coordinates>
         </Point>
       </Placemark>
   </Document>

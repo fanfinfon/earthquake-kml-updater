@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ILICA-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-11T12:27:34.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>hsrxXtL6oADUL</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.11 15:27:34<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 10.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2282,39.1863,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GUMUSSU-DOGANYOL (MALATYA)</name>
+        <TimeStamp>
+          <when>2025-09-11T12:22:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>18fkuw3E80snt</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.11 15:22:37<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 17.6 km<br/>
+          <b>Closest Cities:</b> Elazığ, Adıyaman, Şanlıurfa, Diyarbakır, Tunceli<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.0268,38.2767,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YUVALIK-AKYAZI (SAKARYA)</name>
         <TimeStamp>
           <when>2025-09-11T10:56:12.000Z</when>

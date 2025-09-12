@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>HACET-KIRKAGAC (MANISA)</name>
+        <TimeStamp>
+          <when>2025-09-12T13:42:50.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>fn7G03RyQed_1</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 16:42:50<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 10.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.9988,39.2332,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KILCAK-KALECIK (ANKARA)</name>
         <TimeStamp>
           <when>2025-09-12T13:27:41.000Z</when>
@@ -804,22 +836,22 @@
       </Placemark>
 
       <Placemark>
-        <name>TASDIBI-IVRINDI (BALIKESIR)</name>
+        <name>KILCAK-KALECIK (ANKARA)</name>
         <TimeStamp>
-          <when>2025-09-11T22:47:10.000Z</when>
+          <when>2025-09-12T13:27:41.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>PoBn8H2r6Pgou</value>
+            <value>eePgPDpezhCUz</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 01:47:10<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.1 km<br/>
-          <b>Closest Cities:</b> İzmir, Manisa, Çanakkale, Bursa, Kütahya<br/>
-          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Balıkesir Merkez Havalimanı (BZI), Çiğli Havalimanı (IGL)
+          <b>Date:</b> 2025.09.12 16:27:41<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 7 km<br/>
+          <b>Closest Cities:</b> Çankırı, Kırıkkale, Çorum, Kırşehir, Karabük<br/>
+          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Kastamonu Havalimanı (KFS), Zonguldak Havalimanı (ONQ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -831,7 +863,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>27.4023,39.4148,0</coordinates>
+          <coordinates>33.4088,40.2387,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1600,38 +1632,6 @@
         </Style>
         <Point>
           <coordinates>25.5893,36.7288,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TASDIBI-IVRINDI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-11T22:47:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PoBn8H2r6Pgou</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 01:47:10<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.1 km<br/>
-          <b>Closest Cities:</b> İzmir, Manisa, Çanakkale, Bursa, Kütahya<br/>
-          <b>Nearby Airports:</b> Balıkesir Koca Seyit Havalimanı (EDO), Balıkesir Merkez Havalimanı (BZI), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.4023,39.4148,0</coordinates>
         </Point>
       </Placemark>
   </Document>

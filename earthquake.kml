@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>YESILHISAR (KAYSERI)</name>
+        <TimeStamp>
+          <when>2025-09-12T05:27:14.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>41yXTN5V6WNCc</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 08:27:14<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 3.7 km<br/>
+          <b>Closest Cities:</b> Niğde, Nevşehir, Adana, Aksaray, Kırşehir<br/>
+          <b>Nearby Airports:</b> Kayseri Erkilet Havalimanı (ASR), Nevşehir Kapadokya Havalimanı (NAV), Şakirpaşa Havalimanı (ADA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>35.1848,38.3375,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>MADENDERE-REFAHIYE (ERZINCAN)</name>
         <TimeStamp>
           <when>2025-09-12T05:18:39.000Z</when>
@@ -864,6 +896,38 @@
         </Style>
         <Point>
           <coordinates>25.3932,39.5595,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>MADENDERE-REFAHIYE (ERZINCAN)</name>
+        <TimeStamp>
+          <when>2025-09-12T05:18:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>72fsVSsvmYKUd</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 08:18:39<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 3.5 km<br/>
+          <b>Closest Cities:</b> Giresun, Gümüşhane, Tunceli, Sivas, Elazığ<br/>
+          <b>Nearby Airports:</b> Erzincan Havalimanı (ERC), Ordu Giresun Havalimanı (OGU), Elazığ Havalimanı (EZS)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.6647,39.8183,0</coordinates>
         </Point>
       </Placemark>
 

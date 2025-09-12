@@ -772,22 +772,22 @@
       </Placemark>
 
       <Placemark>
-        <name>ULUKOY-(MALATYA)</name>
+        <name>KUSADASI KORFEZI (EGE DENIZI)</name>
         <TimeStamp>
-          <when>2025-09-11T16:14:23.000Z</when>
+          <when>2025-09-12T08:07:05.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>v9BJ12q_xJRNV</value>
+            <value>Vh0QG63jHj2TV</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.11 19:14:23<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Malatya, Elazığ, Şanlıurfa, Kahramanmaraş, Tunceli<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), Elazığ Havalimanı (EZS)
+          <b>Date:</b> 2025.09.12 11:07:05<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Aydın, İzmir, Manisa, Muğla, Denizli<br/>
+          <b>Nearby Airports:</b> Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -799,7 +799,71 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>38.5643,38.1522,0</coordinates>
+          <coordinates>27.2373,37.9133,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-12T08:00:58.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>DX22E83WMjs63</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 11:00:58<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1397,39.165,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-12T07:52:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Zm5KiuN0dGvMB</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 10:52:10<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 7.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1555,39.1708,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1472,38 +1536,6 @@
         </Style>
         <Point>
           <coordinates>26.282,35.17,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ULUKOY-(MALATYA)</name>
-        <TimeStamp>
-          <when>2025-09-11T16:14:23.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>v9BJ12q_xJRNV</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.11 19:14:23<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 14.4 km<br/>
-          <b>Closest Cities:</b> Malatya, Elazığ, Şanlıurfa, Kahramanmaraş, Tunceli<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), Elazığ Havalimanı (EZS)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.5643,38.1522,0</coordinates>
         </Point>
       </Placemark>
   </Document>

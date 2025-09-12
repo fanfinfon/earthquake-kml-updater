@@ -932,6 +932,38 @@
       </Placemark>
 
       <Placemark>
+        <name>KUYUCAK-(MUGLA)</name>
+        <TimeStamp>
+          <when>2025-09-12T16:34:38.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Bczw0eAtFBSfo</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 19:34:38<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.9 km<br/>
+          <b>Closest Cities:</b> Aydın, Denizli, Burdur, İzmir, Uşak<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Milas Bodrum Havalimanı (BJV), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2893,37.0525,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-09-12T15:56:34.000Z</when>

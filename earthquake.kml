@@ -804,6 +804,38 @@
       </Placemark>
 
       <Placemark>
+        <name>SIHLAR-(KARAMAN)</name>
+        <TimeStamp>
+          <when>2025-09-12T06:14:49.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>kEM0xD8U2RkDv</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 09:14:49<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.5 km<br/>
+          <b>Closest Cities:</b> Mersin, Konya, Antalya, Aksaray, Niğde<br/>
+          <b>Nearby Airports:</b> Gazipaşa Havalimanı (GZP), Konya Havalimanı (KYA), Antalya Havalimanı (AYT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>32.7945,37.0515,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YESILHISAR (KAYSERI)</name>
         <TimeStamp>
           <when>2025-09-12T05:27:14.000Z</when>

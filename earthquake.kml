@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-12T20:04:58.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ZtBN6jYhxtK56</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 23:04:58<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 7.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0892,39.2093,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-12T19:53:43.000Z</when>
@@ -1028,22 +1060,22 @@
       </Placemark>
 
       <Placemark>
-        <name>KAYNAK-KARLIOVA (BINGOL)</name>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-12T01:44:38.000Z</when>
+          <when>2025-09-12T19:53:43.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>38rM45Pds335E</value>
+            <value>8_rAXedn96kXi</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 04:44:38<br/>
+          <b>Date:</b> 2025.09.12 22:53:43<br/>
           <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.5 km<br/>
-          <b>Closest Cities:</b> Erzurum, Muş, Tunceli, Bayburt, Erzincan<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzurum Havalimanı (ERZ), Muş Havalimanı (MSR)
+          <b>Depth:</b> 9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1055,7 +1087,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>40.8705,39.2867,0</coordinates>
+          <coordinates>28.1515,39.2072,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-12T19:44:14.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>MpRcVA0oV4epu</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.12 22:44:14<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 3.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.151,39.1847,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2016,38 +2080,6 @@
         </Style>
         <Point>
           <coordinates>28.1977,39.1882,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KAYNAK-KARLIOVA (BINGOL)</name>
-        <TimeStamp>
-          <when>2025-09-12T01:44:38.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>38rM45Pds335E</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 04:44:38<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.5 km<br/>
-          <b>Closest Cities:</b> Erzurum, Muş, Tunceli, Bayburt, Erzincan<br/>
-          <b>Nearby Airports:</b> Bingöl Havalimanı (BGG), Erzurum Havalimanı (ERZ), Muş Havalimanı (MSR)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>40.8705,39.2867,0</coordinates>
         </Point>
       </Placemark>
   </Document>

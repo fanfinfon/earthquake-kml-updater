@@ -836,38 +836,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KURUCAOVA-DOGANSEHIR (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-09-12T11:10:18.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>MQHTdySSzgKa7</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 14:10:18<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Şanlıurfa, Gaziantep, Elazığ<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.1363,37.982,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>HIRKATEPE-BEYPAZARI (ANKARA)</name>
         <TimeStamp>
           <when>2025-09-13T03:21:24.000Z</when>
@@ -1696,38 +1664,6 @@
         </Style>
         <Point>
           <coordinates>28.1477,39.2058,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KURUCAOVA-DOGANSEHIR (MALATYA)</name>
-        <TimeStamp>
-          <when>2025-09-12T11:10:18.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>MQHTdySSzgKa7</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 14:10:18<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8 km<br/>
-          <b>Closest Cities:</b> Adıyaman, Kahramanmaraş, Şanlıurfa, Gaziantep, Elazığ<br/>
-          <b>Nearby Airports:</b> Adıyaman Havalimanı (ADF), Erhaç Havalimanı (MLX), GAP Havalimanı (GNY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.1363,37.982,0</coordinates>
         </Point>
       </Placemark>
   </Document>

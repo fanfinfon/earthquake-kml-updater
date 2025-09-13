@@ -6,6 +6,38 @@
       <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
+          <when>2025-09-13T09:20:59.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>CDfbPBUZuUen4</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 12:20:59<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 8.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0637,39.1923,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
           <when>2025-09-13T09:07:23.000Z</when>
         </TimeStamp>
         <ExtendedData>
@@ -804,22 +836,22 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-12T15:56:34.000Z</when>
+          <when>2025-09-13T09:07:23.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>lTEbITSwniRxV</value>
+            <value>uIP36YknWy0Uk</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 18:56:34<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 20.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+          <b>Date:</b> 2025.09.13 12:07:23<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 8.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -831,7 +863,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>26.3677,35.6457,0</coordinates>
+          <coordinates>28.0688,39.1973,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1600,38 +1632,6 @@
         </Style>
         <Point>
           <coordinates>28.2893,37.0525,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-12T15:56:34.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>lTEbITSwniRxV</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.12 18:56:34<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 20.4 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Yunanistan, İzmir, Denizli<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>26.3677,35.6457,0</coordinates>
         </Point>
       </Placemark>
   </Document>

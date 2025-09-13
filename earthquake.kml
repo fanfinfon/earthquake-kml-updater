@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T09:38:41.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>V0AJpK3sgzS0I</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 12:38:41<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 9.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2377,39.171,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>HISARCIK (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-13T09:26:57.000Z</when>
@@ -832,6 +864,38 @@
         </Style>
         <Point>
           <coordinates>28.278,39.1842,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>HISARCIK (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-13T09:26:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>H9D9g5xHT4BI3</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 12:26:57<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 12.7 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Bilecik, Balıkesir<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Bursa Havalimanı (BTZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.2183,39.2527,0</coordinates>
         </Point>
       </Placemark>
 

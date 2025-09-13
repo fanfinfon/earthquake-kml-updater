@@ -836,6 +836,38 @@
       </Placemark>
 
       <Placemark>
+        <name>TOPALLAR-SAIMBEYLI (ADANA)</name>
+        <TimeStamp>
+          <when>2025-09-13T06:59:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>SMUX2Ehj6l54K</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 09:59:57<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 9.7 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kahramanmaraş, Kayseri, Gaziantep, Niğde<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Şakirpaşa Havalimanı (ADA)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.2328,37.8837,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-13T06:30:25.000Z</when>

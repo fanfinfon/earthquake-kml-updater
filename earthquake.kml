@@ -4,342 +4,22 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
-        <name>KOZLU-SINDIRGI (BALIKESIR)</name>
+        <name>BUMSUZ-HAYMANA (ANKARA)</name>
         <TimeStamp>
-          <when>2025-09-14T05:22:40.000Z</when>
+          <when>2025-09-14T07:25:31.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>TiwMXl9rRTf7r</value>
+            <value>q_cUHmvPBqXPr</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 08:22:40<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 14.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0925,39.23,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-14T05:02:03.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>v96ysY66w3SYO</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 08:02:03<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 12.8 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1397,39.239,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-14T04:38:59.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xy8en4aWDgd08</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 07:38:59<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 7.7 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0698,39.2202,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>IRAN</name>
-        <TimeStamp>
-          <when>2025-09-14T04:18:18.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>DNLkDITVIp5BA</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 07:18:18<br/>
-          <b>Magnitude:</b> 3.9<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Hakkari, Van, Ermenistan, Ağrı, Iğdır<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>45.1125,38.2248,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KOMURKOY-GOKSUN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-14T03:39:41.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Y_Mx9sRrmVFlf</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 06:39:41<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Kayseri, Osmaniye, Adana, Gaziantep, Malatya<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.5487,38.1465,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TURKIYE-IRAN SINIR BOLGESI</name>
-        <TimeStamp>
-          <when>2025-09-14T02:57:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>pkzbBrvsiniVz</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 05:57:10<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.5 km<br/>
-          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>44.7175,38.3403,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TURKIYE-IRAN SINIR BOLGESI</name>
-        <TimeStamp>
-          <when>2025-09-14T02:54:17.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xnxlFbxWQ92jP</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 05:54:17<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>44.6542,38.3268,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>IRAN                                              REVIZE01   (2025.09.14 05:52:57)</name>
-        <TimeStamp>
-          <when>2025-09-14T02:52:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>bYqtcnoribmPy</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 05:52:57<br/>
-          <b>Magnitude:</b> 4.1<br/>
-          <b>Depth:</b> 24.8 km<br/>
-          <b>Closest Cities:</b> Hakkari, Van, Ağrı, Ermenistan, Iğdır<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>45.0697,38.1992,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>IRAN</name>
-        <TimeStamp>
-          <when>2025-09-14T02:52:57.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>tm5JdT3zDu0Ek</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 05:52:57<br/>
-          <b>Magnitude:</b> 4<br/>
-          <b>Depth:</b> 69.8 km<br/>
-          <b>Closest Cities:</b> Hakkari, Van, Ermenistan, Ağrı, Iğdır<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>45.088,38.1842,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TURKIYE-IRAN SINIR BOLGESI</name>
-        <TimeStamp>
-          <when>2025-09-14T02:31:15.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>AYfHa7uyaWjZK</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 05:31:15<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
-          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>44.7783,38.335,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ORTAOREN-EKINOZU (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-14T01:18:12.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>JwSnaQLt44Xm7</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 04:18:12<br/>
+          <b>Date:</b> 2025.09.14 10:25:31<br/>
           <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.4 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+          <b>Depth:</b> 5.8 km<br/>
+          <b>Closest Cities:</b> Kırıkkale, Aksaray, Konya, Kırşehir, Eskişehir<br/>
+          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Sivrihisar Havalimanı (KYA), Konya Havalimanı (KYA)
         ]]></description>
         <Style>
           <IconStyle>
@@ -351,283 +31,27 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>37.1257,38.1058,0</coordinates>
+          <coordinates>32.6852,39.1357,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-09-14T00:33:11.000Z</when>
+          <when>2025-09-14T05:39:12.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>pkdyYXNPkpoUU</value>
+            <value>NzG6u3jHdYxAX</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 03:33:11<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 9 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0913,39.2028,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BAKACAKLICIFTLIGI-BIGA (CANAKKALE)</name>
-        <TimeStamp>
-          <when>2025-09-14T00:29:16.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>U7SUsjKS89CZI</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 03:29:16<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 9.9 km<br/>
-          <b>Closest Cities:</b> Balıkesir, Tekirdağ, Edirne, Bursa, Yalova<br/>
-          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.2577,40.18,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-09-14T00:15:36.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>58ZPQzq1DhkUm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 03:15:36<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 6.4 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Bulgaristan, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.1855,40.2912,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T23:53:55.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>sYjj7qNDZwYWP</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 02:53:55<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 14.7 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0248,39.2432,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKBAYIR-ELBISTAN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-13T23:18:54.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>odUsGjoLx4VV8</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 02:18:54<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 5.1 km<br/>
-          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.3122,38.1342,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TAFLANCIK-ESPIYE (GIRESUN)</name>
-        <TimeStamp>
-          <when>2025-09-13T23:07:52.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9GFDs3TglZV2P</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 02:07:52<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Gümüşhane, Trabzon, Ordu, Bayburt, Erzincan<br/>
-          <b>Nearby Airports:</b> Ordu Giresun Havalimanı (OGU), Trabzon Havalimanı (TZX), Erzincan Havalimanı (ERC)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>38.7582,40.8552,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T21:58:03.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>79sYnUPRmIngO</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 00:58:03<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 9.7 km<br/>
-          <b>Closest Cities:</b> Balıkesir, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0212,39.1965,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T19:50:24.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Hyw63qJlHm1Fk</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 22:50:24<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 11.8 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1597,39.1575,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T19:42:54.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>r5xur6SDKBRCn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 22:42:54<br/>
-          <b>Magnitude:</b> 2.1<br/>
+          <b>Date:</b> 2025.09.14 08:39:12<br/>
+          <b>Magnitude:</b> 2.6<br/>
           <b>Depth:</b> 12.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+          <b>Closest Cities:</b> Yunanistan, İzmir, Çanakkale, Balıkesir, Manisa<br/>
+          <b>Nearby Airports:</b> Çiğli Havalimanı (IGL), Balıkesir Koca Seyit Havalimanı (EDO), Gökçeada Havalimanı (GKD)
         ]]></description>
         <Style>
           <IconStyle>
@@ -639,263 +63,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.2447,39.1657,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T17:25:13.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9xYnnwrOTdJoD</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 20:25:13<br/>
-          <b>Magnitude:</b> 2.9<br/>
-          <b>Depth:</b> 12.7 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1597,39.2237,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T17:12:44.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>pZCgE2sDKYU2A</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 20:12:44<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0322,39.2262,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T17:01:44.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>nkMTicuLeFZgq</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 20:01:44<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.8 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1447,39.1713,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T16:30:29.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>PHWl8nCAzMMqm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 19:30:29<br/>
-          <b>Magnitude:</b> 3.3<br/>
-          <b>Depth:</b> 15 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0068,39.241,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T16:15:54.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>BQWfp0mC36aUj</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 19:15:54<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 11.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1642,39.1713,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T15:24:59.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>fPxbADeIqWumh</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 18:24:59<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 11.7 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1665,39.2302,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T15:17:25.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>aPW5fnllwcrSm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 18:17:25<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 12.6 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.1688,39.1993,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
-        <TimeStamp>
-          <when>2025-09-13T14:48:23.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>fBpVVCblhnEUB</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 17:48:23<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.5 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
-          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.2455,39.1735,0</coordinates>
+          <coordinates>25.5512,38.875,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1700,20 +868,20 @@
       </Placemark>
 
       <Placemark>
-        <name>SINDIRGI (BALIKESIR)</name>
+        <name>KOZLU-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-13T15:24:59.000Z</when>
+          <when>2025-09-14T05:22:40.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>fPxbADeIqWumh</value>
+            <value>TiwMXl9rRTf7r</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 18:24:59<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 11.7 km<br/>
+          <b>Date:</b> 2025.09.14 08:22:40<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 14.2 km<br/>
           <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
@@ -1727,26 +895,26 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1665,39.2302,0</coordinates>
+          <coordinates>28.0925,39.23,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-13T15:17:25.000Z</when>
+          <when>2025-09-14T05:02:03.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>aPW5fnllwcrSm</value>
+            <value>v96ysY66w3SYO</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 18:17:25<br/>
-          <b>Magnitude:</b> 3.7<br/>
-          <b>Depth:</b> 12.6 km<br/>
-          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Date:</b> 2025.09.14 08:02:03<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 12.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
         ]]></description>
         <Style>
@@ -1759,25 +927,569 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.1688,39.1993,0</coordinates>
+          <coordinates>28.1397,39.239,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-14T04:38:59.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>xy8en4aWDgd08</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 07:38:59<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 7.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0698,39.2202,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IRAN</name>
+        <TimeStamp>
+          <when>2025-09-14T04:18:18.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>DNLkDITVIp5BA</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 07:18:18<br/>
+          <b>Magnitude:</b> 3.9<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Hakkari, Van, Ermenistan, Ağrı, Iğdır<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>45.1125,38.2248,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KOMURKOY-GOKSUN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-14T03:39:41.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Y_Mx9sRrmVFlf</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 06:39:41<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Kayseri, Osmaniye, Adana, Gaziantep, Malatya<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.5487,38.1465,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TURKIYE-IRAN SINIR BOLGESI</name>
+        <TimeStamp>
+          <when>2025-09-14T02:57:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pkzbBrvsiniVz</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 05:57:10<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 10.5 km<br/>
+          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.7175,38.3403,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TURKIYE-IRAN SINIR BOLGESI</name>
+        <TimeStamp>
+          <when>2025-09-14T02:54:17.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>xnxlFbxWQ92jP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 05:54:17<br/>
+          <b>Magnitude:</b> 3.2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.6542,38.3268,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IRAN                                              REVIZE01   (2025.09.14 05:52:57)</name>
+        <TimeStamp>
+          <when>2025-09-14T02:52:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>bYqtcnoribmPy</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 05:52:57<br/>
+          <b>Magnitude:</b> 4.1<br/>
+          <b>Depth:</b> 24.8 km<br/>
+          <b>Closest Cities:</b> Hakkari, Van, Ağrı, Ermenistan, Iğdır<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>45.0697,38.1992,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IRAN</name>
+        <TimeStamp>
+          <when>2025-09-14T02:52:57.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>tm5JdT3zDu0Ek</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 05:52:57<br/>
+          <b>Magnitude:</b> 4<br/>
+          <b>Depth:</b> 69.8 km<br/>
+          <b>Closest Cities:</b> Hakkari, Van, Ermenistan, Ağrı, Iğdır<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>45.088,38.1842,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TURKIYE-IRAN SINIR BOLGESI</name>
+        <TimeStamp>
+          <when>2025-09-14T02:31:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>AYfHa7uyaWjZK</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 05:31:15<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Van, Hakkari, Ağrı, Iğdır, Ermenistan<br/>
+          <b>Nearby Airports:</b> Hakkari Yüksekova Havalimanı (YKO), Van Ferit Melen Havalimanı (VAN), Iğdır Havalimanı (IGD)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>44.7783,38.335,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ORTAOREN-EKINOZU (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-14T01:18:12.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>JwSnaQLt44Xm7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 04:18:12<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.1257,38.1058,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-14T00:33:11.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pkdyYXNPkpoUU</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 03:33:11<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0913,39.2028,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>BAKACAKLICIFTLIGI-BIGA (CANAKKALE)</name>
+        <TimeStamp>
+          <when>2025-09-14T00:29:16.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>U7SUsjKS89CZI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 03:29:16<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 9.9 km<br/>
+          <b>Closest Cities:</b> Balıkesir, Tekirdağ, Edirne, Bursa, Yalova<br/>
+          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.2577,40.18,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-09-14T00:15:36.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>58ZPQzq1DhkUm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 03:15:36<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 6.4 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Bulgaristan, Tekirdağ<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>24.1855,40.2912,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T23:53:55.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>sYjj7qNDZwYWP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 02:53:55<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 14.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0248,39.2432,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>AKBAYIR-ELBISTAN (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-13T23:18:54.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>odUsGjoLx4VV8</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 02:18:54<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 5.1 km<br/>
+          <b>Closest Cities:</b> Malatya, Adıyaman, Gaziantep, Osmaniye, Kayseri<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Erhaç Havalimanı (MLX), Adıyaman Havalimanı (ADF)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.3122,38.1342,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>TAFLANCIK-ESPIYE (GIRESUN)</name>
+        <TimeStamp>
+          <when>2025-09-13T23:07:52.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>9GFDs3TglZV2P</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 02:07:52<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Gümüşhane, Trabzon, Ordu, Bayburt, Erzincan<br/>
+          <b>Nearby Airports:</b> Ordu Giresun Havalimanı (OGU), Trabzon Havalimanı (TZX), Erzincan Havalimanı (ERC)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>38.7582,40.8552,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T21:58:03.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>79sYnUPRmIngO</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.14 00:58:03<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 9.7 km<br/>
+          <b>Closest Cities:</b> Balıkesir, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0212,39.1965,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T19:50:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Hyw63qJlHm1Fk</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 22:50:24<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 11.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1597,39.1575,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
         <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-13T14:48:23.000Z</when>
+          <when>2025-09-13T19:42:54.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>fBpVVCblhnEUB</value>
+            <value>r5xur6SDKBRCn</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.13 17:48:23<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 10.5 km<br/>
+          <b>Date:</b> 2025.09.13 22:42:54<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 12.5 km<br/>
           <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
           <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
         ]]></description>
@@ -1791,7 +1503,167 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.2455,39.1735,0</coordinates>
+          <coordinates>28.2447,39.1657,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>MANDIRA-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T17:25:13.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>9xYnnwrOTdJoD</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 20:25:13<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 12.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1597,39.2237,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ALAKIR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T17:12:44.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pZCgE2sDKYU2A</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 20:12:44<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 8.2 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0322,39.2262,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T17:01:44.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>nkMTicuLeFZgq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 20:01:44<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 10.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1447,39.1713,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T16:30:29.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>PHWl8nCAzMMqm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 19:30:29<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 15 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0068,39.241,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-13T16:15:54.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>BQWfp0mC36aUj</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.13 19:15:54<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 11.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1642,39.1713,0</coordinates>
         </Point>
       </Placemark>
   </Document>

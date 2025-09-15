@@ -164,38 +164,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AKVIRANCARSAK-BALA (ANKARA)</name>
-        <TimeStamp>
-          <when>2025-09-14T11:25:09.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7PCH5oK5LKlvn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 14:25:09<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kırıkkale, Kırşehir, Aksaray, Konya, Nevşehir<br/>
-          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Sivrihisar Havalimanı (KYA), Nevşehir Kapadokya Havalimanı (NAV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>32.9375,39.2925,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>DARICA-AKCADAG (MALATYA)</name>
         <TimeStamp>
           <when>2025-09-14T15:14:32.000Z</when>
@@ -352,38 +320,6 @@
         </Style>
         <Point>
           <coordinates>27.9892,39.2358,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKVIRANCARSAK-BALA (ANKARA)</name>
-        <TimeStamp>
-          <when>2025-09-14T11:25:09.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>7PCH5oK5LKlvn</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 14:25:09<br/>
-          <b>Magnitude:</b> 3.2<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kırıkkale, Kırşehir, Aksaray, Konya, Nevşehir<br/>
-          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Sivrihisar Havalimanı (KYA), Nevşehir Kapadokya Havalimanı (NAV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>32.9375,39.2925,0</coordinates>
         </Point>
       </Placemark>
   </Document>

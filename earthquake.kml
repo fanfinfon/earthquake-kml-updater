@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>SEKLI-BEYPAZARI (ANKARA)</name>
+        <TimeStamp>
+          <when>2025-09-15T17:24:03.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>l0_mq0K0H4gv4</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.15 20:24:03<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 13.9 km<br/>
+          <b>Closest Cities:</b> Bolu, Eskişehir, Düzce, Sakarya, Zonguldak<br/>
+          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.7353,40.1742,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-15T16:05:00.000Z</when>

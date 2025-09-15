@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>TASBASI-DALAMAN (MUGLA)</name>
+        <TimeStamp>
+          <when>2025-09-15T22:58:00.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>LsOKkXSqhw1Th</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 01:58:00<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Denizli, Burdur, Aydın, Antalya, Uşak<br/>
+          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.008,36.8888,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KUMDANLI-YALVAC (ISPARTA)</name>
+        <TimeStamp>
+          <when>2025-09-15T22:50:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>q9SUqihlMRthW</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 01:50:06<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 5.2 km<br/>
+          <b>Closest Cities:</b> Afyon, Burdur, Uşak, Eskişehir, Kütahya<br/>
+          <b>Nearby Airports:</b> Afyon Havalimanı (AFY), Süleyman Demirel Havalimanı (ISE), Çardak Havalimanı (DNZ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>30.9392,38.3487,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>DEREKOY-HAYMANA (ANKARA)</name>
         <TimeStamp>
           <when>2025-09-15T21:26:02.000Z</when>

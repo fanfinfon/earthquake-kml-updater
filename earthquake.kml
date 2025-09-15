@@ -388,38 +388,6 @@
       </Placemark>
 
       <Placemark>
-        <name>BUMSUZ-HAYMANA (ANKARA)</name>
-        <TimeStamp>
-          <when>2025-09-14T07:25:31.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>q_cUHmvPBqXPr</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 10:25:31<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Kırıkkale, Aksaray, Konya, Kırşehir, Eskişehir<br/>
-          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Sivrihisar Havalimanı (KYA), Konya Havalimanı (KYA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>32.6852,39.1357,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>DARICA-AKCADAG (MALATYA)</name>
         <TimeStamp>
           <when>2025-09-14T15:14:32.000Z</when>
@@ -800,38 +768,6 @@
         </Style>
         <Point>
           <coordinates>44.849,38.3103,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>BUMSUZ-HAYMANA (ANKARA)</name>
-        <TimeStamp>
-          <when>2025-09-14T07:25:31.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>q_cUHmvPBqXPr</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.14 10:25:31<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 5.8 km<br/>
-          <b>Closest Cities:</b> Kırıkkale, Aksaray, Konya, Kırşehir, Eskişehir<br/>
-          <b>Nearby Airports:</b> Esenboğa Havalimanı (ESB), Sivrihisar Havalimanı (KYA), Konya Havalimanı (KYA)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>32.6852,39.1357,0</coordinates>
         </Point>
       </Placemark>
   </Document>

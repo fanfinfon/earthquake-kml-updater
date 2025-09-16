@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-16T20:34:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>My6UOca0CIqOG</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 23:34:01<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1397,39.1965,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-16T20:22:16.000Z</when>
@@ -836,22 +868,22 @@
       </Placemark>
 
       <Placemark>
-        <name>KUMDANLI-YALVAC (ISPARTA)</name>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-15T22:50:06.000Z</when>
+          <when>2025-09-16T20:22:16.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>q9SUqihlMRthW</value>
+            <value>OZNTJTXGbkkeO</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 01:50:06<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Afyon, Burdur, Uşak, Eskişehir, Kütahya<br/>
-          <b>Nearby Airports:</b> Afyon Havalimanı (AFY), Süleyman Demirel Havalimanı (ISE), Çardak Havalimanı (DNZ)
+          <b>Date:</b> 2025.09.16 23:22:16<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 11.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -863,7 +895,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>30.9392,38.3487,0</coordinates>
+          <coordinates>28.1163,39.1957,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1664,38 +1696,6 @@
         </Style>
         <Point>
           <coordinates>29.008,36.8888,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KUMDANLI-YALVAC (ISPARTA)</name>
-        <TimeStamp>
-          <when>2025-09-15T22:50:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>q9SUqihlMRthW</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 01:50:06<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Afyon, Burdur, Uşak, Eskişehir, Kütahya<br/>
-          <b>Nearby Airports:</b> Afyon Havalimanı (AFY), Süleyman Demirel Havalimanı (ISE), Çardak Havalimanı (DNZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>30.9392,38.3487,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GOKCEDERE-NURDAGI (GAZIANTEP)</name>
+        <TimeStamp>
+          <when>2025-09-16T17:41:23.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>A27YmChGOkqL_</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 20:41:23<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kilis, Kahramanmaraş, Hatay, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.7182,37.1742,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KINIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-16T17:12:34.000Z</when>
@@ -836,38 +868,6 @@
       </Placemark>
 
       <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-09-15T19:16:56.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9yKkIzIqbbC3L</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 22:16:56<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Bulgaristan, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.1883,40.3067,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>KINIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-16T17:12:34.000Z</when>
@@ -1696,38 +1696,6 @@
         </Style>
         <Point>
           <coordinates>28.1662,39.1827,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>YUNANISTAN</name>
-        <TimeStamp>
-          <when>2025-09-15T19:16:56.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9yKkIzIqbbC3L</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 22:16:56<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 8.3 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Makedonya, Bulgaristan, Tekirdağ<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>24.1883,40.3067,0</coordinates>
         </Point>
       </Placemark>
   </Document>

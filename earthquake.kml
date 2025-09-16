@@ -836,22 +836,22 @@
       </Placemark>
 
       <Placemark>
-        <name>TASBASI-DALAMAN (MUGLA)</name>
+        <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-15T22:58:00.000Z</when>
+          <when>2025-09-16T20:34:01.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>LsOKkXSqhw1Th</value>
+            <value>My6UOca0CIqOG</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 01:58:00<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Denizli, Burdur, Aydın, Antalya, Uşak<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
+          <b>Date:</b> 2025.09.16 23:34:01<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 7.9 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -863,7 +863,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>29.008,36.8888,0</coordinates>
+          <coordinates>28.1397,39.1965,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1664,38 +1664,6 @@
         </Style>
         <Point>
           <coordinates>29.0003,39.2413,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TASBASI-DALAMAN (MUGLA)</name>
-        <TimeStamp>
-          <when>2025-09-15T22:58:00.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>LsOKkXSqhw1Th</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 01:58:00<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Denizli, Burdur, Aydın, Antalya, Uşak<br/>
-          <b>Nearby Airports:</b> Dalaman Havalimanı (DLM), Çardak Havalimanı (DNZ), Milas Bodrum Havalimanı (BJV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.008,36.8888,0</coordinates>
         </Point>
       </Placemark>
   </Document>

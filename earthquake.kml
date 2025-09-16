@@ -36,6 +36,70 @@
       </Placemark>
 
       <Placemark>
+        <name>YUNANISTAN</name>
+        <TimeStamp>
+          <when>2025-09-16T17:31:48.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>UZ4Qspav39JAL</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 20:31:48<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 4.9 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Makedonya, Edirne, Yunanistan, Bulgaristan<br/>
+          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>23.9368,40.3075,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ESENKIYI-ADILCEVAZ (BITLIS)</name>
+        <TimeStamp>
+          <when>2025-09-16T17:16:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>mzdvz3Sluwc1Y</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 20:16:24<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 3.7 km<br/>
+          <b>Closest Cities:</b> Van, Ağrı, Muş, Siirt, Şırnak<br/>
+          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Ağrı Havalimanı (AJI), Muş Havalimanı (MSR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>43.0238,38.7355,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KINIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-16T17:12:34.000Z</when>
@@ -864,6 +928,38 @@
         </Style>
         <Point>
           <coordinates>28.1662,39.1827,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GOKCEDERE-NURDAGI (GAZIANTEP)</name>
+        <TimeStamp>
+          <when>2025-09-16T17:41:23.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>A27YmChGOkqL_</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 20:41:23<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 9.8 km<br/>
+          <b>Closest Cities:</b> Osmaniye, Kilis, Kahramanmaraş, Hatay, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.7182,37.1742,0</coordinates>
         </Point>
       </Placemark>
 

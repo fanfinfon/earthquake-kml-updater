@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KIZILGUR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-16T00:43:34.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>NCbBH0iGCdhst</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.16 03:43:34<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 13 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0335,39.2437,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-15T23:20:44.000Z</when>
@@ -868,38 +900,6 @@
       </Placemark>
 
       <Placemark>
-        <name>SARAYCIK-GOKSUN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-15T02:43:42.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>92FtC0klwd02w</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 05:43:42<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 4.3 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kayseri, Adana, Gaziantep, Kilis<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.599,38.0262,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-15T23:20:44.000Z</when>
@@ -1760,38 +1760,6 @@
         </Style>
         <Point>
           <coordinates>25.7325,36.6538,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SARAYCIK-GOKSUN (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-15T02:43:42.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>92FtC0klwd02w</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 05:43:42<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 4.3 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kayseri, Adana, Gaziantep, Kilis<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Kayseri Erkilet Havalimanı (ASR), Erhaç Havalimanı (MLX)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.599,38.0262,0</coordinates>
         </Point>
       </Placemark>
   </Document>

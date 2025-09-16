@@ -900,38 +900,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AMBAR-AYRANCI (KARAMAN)</name>
-        <TimeStamp>
-          <when>2025-09-15T20:47:22.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>BG9PcqBSI3NW0</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 23:47:22<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.3 km<br/>
-          <b>Closest Cities:</b> Konya, Mersin, Niğde, Aksaray, Adana<br/>
-          <b>Nearby Airports:</b> Konya Havalimanı (KYA), Şakirpaşa Havalimanı (ADA), Nevşehir Kapadokya Havalimanı (NAV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>33.6122,37.4805,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>KAPIKAYA-(AMASYA)</name>
         <TimeStamp>
           <when>2025-09-16T18:14:08.000Z</when>
@@ -1824,38 +1792,6 @@
         </Style>
         <Point>
           <coordinates>32.6557,39.4905,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AMBAR-AYRANCI (KARAMAN)</name>
-        <TimeStamp>
-          <when>2025-09-15T20:47:22.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>BG9PcqBSI3NW0</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.15 23:47:22<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 8.3 km<br/>
-          <b>Closest Cities:</b> Konya, Mersin, Niğde, Aksaray, Adana<br/>
-          <b>Nearby Airports:</b> Konya Havalimanı (KYA), Şakirpaşa Havalimanı (ADA), Nevşehir Kapadokya Havalimanı (NAV)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>33.6122,37.4805,0</coordinates>
         </Point>
       </Placemark>
   </Document>

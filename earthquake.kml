@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>CEVIZDERE-(ELAZIG)</name>
+        <TimeStamp>
+          <when>2025-09-17T12:52:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>q_hUUBZkPIu9k</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.17 15:52:15<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 7.1 km<br/>
+          <b>Closest Cities:</b> Tunceli, Diyarbakır, Malatya, Erzincan, Adıyaman<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Diyarbakır Havalimanı (DIY), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.3318,38.531,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>AKKAVAK-KARACOBAN (ERZURUM)</name>
         <TimeStamp>
           <when>2025-09-17T11:56:50.000Z</when>
@@ -964,22 +996,22 @@
       </Placemark>
 
       <Placemark>
-        <name>SIRINKOY-GOKCEADA (CANAKKALE)</name>
+        <name>AKKAVAK-KARACOBAN (ERZURUM)</name>
         <TimeStamp>
-          <when>2025-09-16T13:48:04.000Z</when>
+          <when>2025-09-17T11:56:50.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>yptf0c6h2W421</value>
+            <value>vkqTxSZrCsWGi</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 16:48:04<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.7 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Balıkesir, Tekirdağ, İzmir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.09.17 14:56:50<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 16 km<br/>
+          <b>Closest Cities:</b> Muş, Bitlis, Ağrı, Bingöl, Batman<br/>
+          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Ağrı Havalimanı (AJI), Erzurum Havalimanı (ERZ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -991,7 +1023,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>25.7993,40.0093,0</coordinates>
+          <coordinates>42.0112,39.288,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1920,38 +1952,6 @@
         </Style>
         <Point>
           <coordinates>28.123,39.13,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>SIRINKOY-GOKCEADA (CANAKKALE)</name>
-        <TimeStamp>
-          <when>2025-09-16T13:48:04.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>yptf0c6h2W421</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 16:48:04<br/>
-          <b>Magnitude:</b> 2.7<br/>
-          <b>Depth:</b> 5.7 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Edirne, Balıkesir, Tekirdağ, İzmir<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.7993,40.0093,0</coordinates>
         </Point>
       </Placemark>
   </Document>

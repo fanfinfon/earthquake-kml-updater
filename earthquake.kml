@@ -932,38 +932,6 @@
       </Placemark>
 
       <Placemark>
-        <name>GOKCEDERE-NURDAGI (GAZIANTEP)</name>
-        <TimeStamp>
-          <when>2025-09-16T17:41:23.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>A27YmChGOkqL_</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 20:41:23<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 9.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kilis, Kahramanmaraş, Hatay, Adana<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.7182,37.1742,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-17T17:17:26.000Z</when>
@@ -1888,38 +1856,6 @@
         </Style>
         <Point>
           <coordinates>25.3087,38.9572,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GOKCEDERE-NURDAGI (GAZIANTEP)</name>
-        <TimeStamp>
-          <when>2025-09-16T17:41:23.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>A27YmChGOkqL_</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.16 20:41:23<br/>
-          <b>Magnitude:</b> 2.8<br/>
-          <b>Depth:</b> 9.8 km<br/>
-          <b>Closest Cities:</b> Osmaniye, Kilis, Kahramanmaraş, Hatay, Adana<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>36.7182,37.1742,0</coordinates>
         </Point>
       </Placemark>
   </Document>

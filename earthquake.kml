@@ -1156,38 +1156,6 @@
       </Placemark>
 
       <Placemark>
-        <name>AKKAVAK-KARACOBAN (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-17T11:56:50.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>vkqTxSZrCsWGi</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.17 14:56:50<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 16 km<br/>
-          <b>Closest Cities:</b> Muş, Bitlis, Ağrı, Bingöl, Batman<br/>
-          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Ağrı Havalimanı (AJI), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.0112,39.288,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-09-18T03:49:37.000Z</when>
@@ -2336,38 +2304,6 @@
         </Style>
         <Point>
           <coordinates>39.3318,38.531,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>AKKAVAK-KARACOBAN (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-17T11:56:50.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>vkqTxSZrCsWGi</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.17 14:56:50<br/>
-          <b>Magnitude:</b> 2.5<br/>
-          <b>Depth:</b> 16 km<br/>
-          <b>Closest Cities:</b> Muş, Bitlis, Ağrı, Bingöl, Batman<br/>
-          <b>Nearby Airports:</b> Muş Havalimanı (MSR), Ağrı Havalimanı (AJI), Erzurum Havalimanı (ERZ)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>42.0112,39.288,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -1124,6 +1124,38 @@
       </Placemark>
 
       <Placemark>
+        <name>BUNYANOSMANIYE-AKHISAR (MANISA)</name>
+        <TimeStamp>
+          <when>2025-09-18T10:53:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>S0U8ExyiimhY5</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.18 13:53:42<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 11.1 km<br/>
+          <b>Closest Cities:</b> İzmir, Balıkesir, Aydın, Uşak, Çanakkale<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Çiğli Havalimanı (IGL), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.7203,38.9647,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>EGE DENIZI</name>
         <TimeStamp>
           <when>2025-09-18T09:26:07.000Z</when>

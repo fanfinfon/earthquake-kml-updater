@@ -612,22 +612,22 @@
       </Placemark>
 
       <Placemark>
-        <name>EGE DENIZI</name>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-18T03:49:37.000Z</when>
+          <when>2025-09-19T02:57:21.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>xV0ed4msa31Bk</value>
+            <value>amMJKysPvz53y</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 06:49:37<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Yunanistan, İzmir, Balıkesir, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
+          <b>Date:</b> 2025.09.19 05:57:21<br/>
+          <b>Magnitude:</b> 2.9<br/>
+          <b>Depth:</b> 10.6 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -639,7 +639,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>25.488,39.31,0</coordinates>
+          <coordinates>28.1628,39.1962,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
+        <TimeStamp>
+          <when>2025-09-19T02:56:43.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>Xe8wgOOg2wHhm</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.19 05:56:43<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 9.3 km<br/>
+          <b>Closest Cities:</b> Gaziantep, Kilis, Osmaniye, Hatay, Adana<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.0422,37.307,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1184,38 +1216,6 @@
         </Style>
         <Point>
           <coordinates>28.172,39.2345,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>EGE DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-18T03:49:37.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>xV0ed4msa31Bk</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 06:49:37<br/>
-          <b>Magnitude:</b> 2.6<br/>
-          <b>Depth:</b> 8.2 km<br/>
-          <b>Closest Cities:</b> Çanakkale, Yunanistan, İzmir, Balıkesir, Manisa<br/>
-          <b>Nearby Airports:</b> Gökçeada Havalimanı (GKD), Çanakkale Havalimanı (CKZ), Balıkesir Koca Seyit Havalimanı (EDO)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>25.488,39.31,0</coordinates>
         </Point>
       </Placemark>
   </Document>

@@ -900,6 +900,38 @@
       </Placemark>
 
       <Placemark>
+        <name>PIRSULTANLI-DUZICI (OSMANIYE)</name>
+        <TimeStamp>
+          <when>2025-09-19T11:15:11.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>yv1IybciXp9CS</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.19 14:15:11<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 7.6 km<br/>
+          <b>Closest Cities:</b> Adana, Gaziantep, Kilis, Kahramanmaraş, Hatay<br/>
+          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Şakirpaşa Havalimanı (ADA), Hatay Havalimanı (HTY)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.3078,37.2933,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ORMANICI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-19T11:01:31.000Z</when>

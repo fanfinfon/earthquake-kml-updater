@@ -1060,22 +1060,22 @@
       </Placemark>
 
       <Placemark>
-        <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
+        <name>GUNEYKOY-SIVRICE (ELAZIG)</name>
         <TimeStamp>
-          <when>2025-09-19T02:56:43.000Z</when>
+          <when>2025-09-19T22:07:45.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>Xe8wgOOg2wHhm</value>
+            <value>kBVUsmeHPQRE1</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.19 05:56:43<br/>
+          <b>Date:</b> 2025.09.20 01:07:45<br/>
           <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 9.3 km<br/>
-          <b>Closest Cities:</b> Gaziantep, Kilis, Osmaniye, Hatay, Adana<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
+          <b>Depth:</b> 6.7 km<br/>
+          <b>Closest Cities:</b> Tunceli, Diyarbakır, Malatya, Erzincan, Adıyaman<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Diyarbakır Havalimanı (DIY), Erhaç Havalimanı (MLX)
         ]]></description>
         <Style>
           <IconStyle>
@@ -1087,7 +1087,39 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>37.0422,37.307,0</coordinates>
+          <coordinates>39.3285,38.5123,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GUNEYKOY-SIVRICE (ELAZIG)</name>
+        <TimeStamp>
+          <when>2025-09-19T22:07:45.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>oNjtyZAfRL7Vx</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.20 01:07:45<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.7 km<br/>
+          <b>Closest Cities:</b> Tunceli, Diyarbakır, Malatya, Erzincan, Adıyaman<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Diyarbakır Havalimanı (DIY), Erhaç Havalimanı (MLX)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.3285,38.5123,0</coordinates>
         </Point>
       </Placemark>
 
@@ -2080,38 +2112,6 @@
         </Style>
         <Point>
           <coordinates>28.1628,39.1962,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>CENNETPINARI-PAZARCIK (KAHRAMANMARAS)</name>
-        <TimeStamp>
-          <when>2025-09-19T02:56:43.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>Xe8wgOOg2wHhm</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.19 05:56:43<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 9.3 km<br/>
-          <b>Closest Cities:</b> Gaziantep, Kilis, Osmaniye, Hatay, Adana<br/>
-          <b>Nearby Airports:</b> Kahramanmaraş Havalimanı (KCM), Gaziantep Havalimanı (GZT), Hatay Havalimanı (HTY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>37.0422,37.307,0</coordinates>
         </Point>
       </Placemark>
   </Document>

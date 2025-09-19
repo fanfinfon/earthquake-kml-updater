@@ -868,38 +868,6 @@
       </Placemark>
 
       <Placemark>
-        <name>MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-18T12:24:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>LKaWlhFtcMYKH</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 15:24:06<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 7.8 km<br/>
-          <b>Closest Cities:</b> Tekirdağ, İstanbul, Yalova, Kırklareli, Balıkesir<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0037,40.811,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>PIRSULTANLI-DUZICI (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-09-19T11:15:11.000Z</when>
@@ -1760,38 +1728,6 @@
         </Style>
         <Point>
           <coordinates>33.8335,37.494,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI</name>
-        <TimeStamp>
-          <when>2025-09-18T12:24:06.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>LKaWlhFtcMYKH</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 15:24:06<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 7.8 km<br/>
-          <b>Closest Cities:</b> Tekirdağ, İstanbul, Yalova, Kırklareli, Balıkesir<br/>
-          <b>Nearby Airports:</b> Tekirdağ Çorlu Havalimanı (TEQ), Bandırma Havalimanı (BDM), Atatürk Havalimanı (IST)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>28.0037,40.811,0</coordinates>
         </Point>
       </Placemark>
   </Document>

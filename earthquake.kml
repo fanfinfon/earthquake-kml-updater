@@ -708,22 +708,22 @@
       </Placemark>
 
       <Placemark>
-        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
+        <name>AKTAS-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-18T07:36:05.000Z</when>
+          <when>2025-09-19T07:15:35.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>nJ0LlkCek25KN</value>
+            <value>jBjwOvG3ouOIU</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 10:36:05<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 12.1 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
+          <b>Date:</b> 2025.09.19 10:15:35<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 12.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,7 +735,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>27.7727,36.9602,0</coordinates>
+          <coordinates>28.1967,39.1868,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1408,6 @@
         </Style>
         <Point>
           <coordinates>27.1285,37.836,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>GOKOVA KORFEZI (EGE DENIZI)</name>
-        <TimeStamp>
-          <when>2025-09-18T07:36:05.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>nJ0LlkCek25KN</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 10:36:05<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 12.1 km<br/>
-          <b>Closest Cities:</b> Muğla, Aydın, Denizli, İzmir, Manisa<br/>
-          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Aydın Çıldır Havalimanı (CII)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>27.7727,36.9602,0</coordinates>
         </Point>
       </Placemark>
   </Document>

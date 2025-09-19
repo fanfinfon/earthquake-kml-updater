@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>ISIKLAR-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-19T13:08:20.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7t3fAW0_KAC2n</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.19 16:08:20<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 8.1 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Uşak, Bursa<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Uşak Havalimanı (USQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.2583,39.1855,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>PIRSULTANLI-DUZICI (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-09-19T11:15:11.000Z</when>
@@ -772,38 +804,6 @@
       </Placemark>
 
       <Placemark>
-        <name>TOPUZARPA-MURADIYE (VAN)</name>
-        <TimeStamp>
-          <when>2025-09-18T15:00:08.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>w07pJ2VWNpYnU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 18:00:08<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 17 km<br/>
-          <b>Closest Cities:</b> Ağrı, Iğdır, Bitlis, Muş, Siirt<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Ağrı Havalimanı (AJI), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>43.7027,38.8703,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>PIRSULTANLI-DUZICI (OSMANIYE)</name>
         <TimeStamp>
           <when>2025-09-19T11:15:11.000Z</when>
@@ -1568,38 +1568,6 @@
         </Style>
         <Point>
           <coordinates>28.4028,40.8598,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>TOPUZARPA-MURADIYE (VAN)</name>
-        <TimeStamp>
-          <when>2025-09-18T15:00:08.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>w07pJ2VWNpYnU</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.18 18:00:08<br/>
-          <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 17 km<br/>
-          <b>Closest Cities:</b> Ağrı, Iğdır, Bitlis, Muş, Siirt<br/>
-          <b>Nearby Airports:</b> Van Ferit Melen Havalimanı (VAN), Ağrı Havalimanı (AJI), Iğdır Havalimanı (IGD)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>43.7027,38.8703,0</coordinates>
         </Point>
       </Placemark>
   </Document>

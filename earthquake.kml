@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>SEKLI-BEYPAZARI (ANKARA)</name>
+        <TimeStamp>
+          <when>2025-09-20T18:52:30.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YQc40v6ZBKdWP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.20 21:52:30<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 1 km<br/>
+          <b>Closest Cities:</b> Bolu, Düzce, Eskişehir, Sakarya, Zonguldak<br/>
+          <b>Nearby Airports:</b> Sivrihisar Havalimanı (KYA), Esenboğa Havalimanı (ESB), Eskişehir Anadolu Havalimanı (AOE)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>31.733,40.1795,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-20T18:15:35.000Z</when>
@@ -804,38 +836,6 @@
       </Placemark>
 
       <Placemark>
-        <name>KATRANDAGI-EMET (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-09-19T19:06:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>RhbRhl9qYAAm5</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.19 22:06:10<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.0358,39.236,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
         <name>ALACAATLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-20T18:15:35.000Z</when>
@@ -1632,38 +1632,6 @@
         </Style>
         <Point>
           <coordinates>28.1595,39.217,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>KATRANDAGI-EMET (KUTAHYA)</name>
-        <TimeStamp>
-          <when>2025-09-19T19:06:10.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>RhbRhl9qYAAm5</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.19 22:06:10<br/>
-          <b>Magnitude:</b> 2.1<br/>
-          <b>Depth:</b> 5.2 km<br/>
-          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>29.0358,39.236,0</coordinates>
         </Point>
       </Placemark>
   </Document>

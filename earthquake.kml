@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>GIRIT ADASI ACIKLARI (AKDENIZ)</name>
+        <TimeStamp>
+          <when>2025-09-20T05:01:21.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>b8Orybj1WeU3e</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.20 08:01:21<br/>
+          <b>Magnitude:</b> 4.1<br/>
+          <b>Depth:</b> 25.9 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Muğla, Aydın, İzmir, Denizli<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Dalaman Havalimanı (DLM), Adnan Menderes Havalimanı (ADB)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>24.0932,34.7513,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>BAYRAKLI-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-20T03:19:12.000Z</when>

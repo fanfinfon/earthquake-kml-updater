@@ -964,6 +964,38 @@
       </Placemark>
 
       <Placemark>
+        <name>CUMHURIYETCI-MADEN (ELAZIG)</name>
+        <TimeStamp>
+          <when>2025-09-20T09:11:42.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>AkgYtMMELvGes</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.20 12:11:42<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Tunceli, Diyarbakır, Bingöl, Erzincan, Malatya<br/>
+          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Diyarbakır Havalimanı (DIY), Bingöl Havalimanı (BGG)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>39.6335,38.5412,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-20T08:53:08.000Z</when>

@@ -964,6 +964,38 @@
       </Placemark>
 
       <Placemark>
+        <name>GOZLEKCILER-YAYLADAGI (HATAY)</name>
+        <TimeStamp>
+          <when>2025-09-20T14:17:58.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>EmJ73TGsKIj91</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.20 17:17:58<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 11.9 km<br/>
+          <b>Closest Cities:</b> Hatay, Kilis, Osmaniye, Gaziantep, Adana<br/>
+          <b>Nearby Airports:</b> Hatay Havalimanı (HTY), Şakirpaşa Havalimanı (ADA), Gaziantep Havalimanı (GZT)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>36.0088,35.9317,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KERTIL-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-20T10:32:38.000Z</when>

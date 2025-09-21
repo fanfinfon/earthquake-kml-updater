@@ -4,6 +4,38 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-21T08:22:24.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>VLmpoh66PQUfD</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.21 11:22:24<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9847,39.2485,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>KULAHLI-GURUN (SIVAS)</name>
         <TimeStamp>
           <when>2025-09-21T07:27:20.000Z</when>

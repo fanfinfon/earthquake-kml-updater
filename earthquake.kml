@@ -868,6 +868,38 @@
       </Placemark>
 
       <Placemark>
+        <name>IKIZDERE-INCIRLIOVA (AYDIN)</name>
+        <TimeStamp>
+          <when>2025-09-21T10:43:09.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pamDelKkToRCx</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.21 13:43:09<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 1.6 km<br/>
+          <b>Closest Cities:</b> İzmir, Manisa, Muğla, Denizli, Uşak<br/>
+          <b>Nearby Airports:</b> Aydın Çıldır Havalimanı (CII), Adnan Menderes Havalimanı (ADB), Milas Bodrum Havalimanı (BJV)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.7463,37.8972,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-21T10:18:56.000Z</when>

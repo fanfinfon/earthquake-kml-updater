@@ -4,6 +4,70 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>KULAHLI-GURUN (SIVAS)</name>
+        <TimeStamp>
+          <when>2025-09-21T07:27:20.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>MuSewOxVBoWIq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.21 10:27:20<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Malatya, Kahramanmaraş, Kayseri, Adıyaman, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Sivas Nuri Demirağ Havalimanı (VAS), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.4258,38.8513,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KULAHLI-GURUN (SIVAS)</name>
+        <TimeStamp>
+          <when>2025-09-21T07:09:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>2jymxIb8rCxsG</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.21 10:09:10<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Malatya, Kahramanmaraş, Kayseri, Adıyaman, Elazığ<br/>
+          <b>Nearby Airports:</b> Erhaç Havalimanı (MLX), Sivas Nuri Demirağ Havalimanı (VAS), Kahramanmaraş Havalimanı (KCM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>37.432,38.8402,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
           <when>2025-09-21T07:01:02.000Z</when>
@@ -708,22 +772,22 @@
       </Placemark>
 
       <Placemark>
-        <name>HIZARDERE-HORASAN (ERZURUM)</name>
+        <name>SINANDEDE-SINDIRGI (BALIKESIR)</name>
         <TimeStamp>
-          <when>2025-09-20T19:10:16.000Z</when>
+          <when>2025-09-21T07:01:02.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>9Ettux8E0T0Ta</value>
+            <value>p2b1cLeFLcRuf</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.20 22:10:16<br/>
+          <b>Date:</b> 2025.09.21 10:01:02<br/>
           <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kars, Artvin, Muş, Rize, Ardahan<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Kars Havalimanı (KSY)
+          <b>Depth:</b> 10 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
         ]]></description>
         <Style>
           <IconStyle>
@@ -735,7 +799,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>41.9365,40.1222,0</coordinates>
+          <coordinates>28.1617,39.1772,0</coordinates>
         </Point>
       </Placemark>
 
@@ -1408,38 +1472,6 @@
         </Style>
         <Point>
           <coordinates>29.0098,39.2475,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark>
-        <name>HIZARDERE-HORASAN (ERZURUM)</name>
-        <TimeStamp>
-          <when>2025-09-20T19:10:16.000Z</when>
-        </TimeStamp>
-        <ExtendedData>
-          <Data name="earthquake_id">
-            <value>9Ettux8E0T0Ta</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[
-          <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.20 22:10:16<br/>
-          <b>Magnitude:</b> 2.3<br/>
-          <b>Depth:</b> 5 km<br/>
-          <b>Closest Cities:</b> Kars, Artvin, Muş, Rize, Ardahan<br/>
-          <b>Nearby Airports:</b> Erzurum Havalimanı (ERZ), Ağrı Havalimanı (AJI), Kars Havalimanı (KSY)
-        ]]></description>
-        <Style>
-          <IconStyle>
-            <color>ff0000ff</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>41.9365,40.1222,0</coordinates>
         </Point>
       </Placemark>
   </Document>

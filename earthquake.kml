@@ -772,6 +772,38 @@
       </Placemark>
 
       <Placemark>
+        <name>HALHALCA-INEGOL (BURSA)</name>
+        <TimeStamp>
+          <when>2025-09-21T08:46:19.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>YgFBvQy1K_il6</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.21 11:46:19<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Yalova, Bilecik, Kocaeli, Kütahya, Sakarya<br/>
+          <b>Nearby Airports:</b> Bursa Yenişehir Havalimanı (YEI), Bursa Havalimanı (BTZ), Sabiha Gökçen Havalimanı (SAW)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.4523,40.163,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-21T08:22:24.000Z</when>

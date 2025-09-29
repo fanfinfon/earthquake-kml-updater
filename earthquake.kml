@@ -4,6 +4,230 @@
     <name>Earthquake Data (Last 7 Days)</name>
     
       <Placemark>
+        <name>EGIRLER-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T08:08:33.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pvIy4VjUhLGLL</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 11:08:33<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 8.5 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0258,39.2278,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T08:05:08.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>v46FHI7AhcE52</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 11:05:08<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.1 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.99,39.2528,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T07:54:20.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>8TZVvHmGtzR0W</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 10:54:20<br/>
+          <b>Magnitude:</b> 2.8<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9933,39.2378,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IBILLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T07:47:32.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>OuwBdC1DgPXmH</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 10:47:32<br/>
+          <b>Magnitude:</b> 3.2<br/>
+          <b>Depth:</b> 7.2 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.121,39.2647,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IBILLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T07:47:32.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>pRoYEz5dfft7_</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 10:47:32<br/>
+          <b>Magnitude:</b> 3.2<br/>
+          <b>Depth:</b> 7.2 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.121,39.2647,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>IBILLER-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T07:47:32.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>7SCi_g8Rb9wLs</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 10:47:32<br/>
+          <b>Magnitude:</b> 3.3<br/>
+          <b>Depth:</b> 7.5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1202,39.2698,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KAYALIDERE-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T07:44:45.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>hG0gdoukRK8F2</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 10:44:45<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 10.8 km<br/>
+          <b>Closest Cities:</b> Bursa, Uşak, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Balıkesir Merkez Havalimanı (BZI), Zafer Havalimanı (KZR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.8953,39.2712,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
         <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <TimeStamp>
           <when>2025-09-29T07:12:52.000Z</when>
@@ -804,19 +1028,627 @@
       </Placemark>
 
       <Placemark>
-        <name>EGIRLER-SIMAV (KUTAHYA)</name>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
         <TimeStamp>
-          <when>2025-09-29T00:16:32.000Z</when>
+          <when>2025-09-29T07:12:52.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>6Fx_8AcNCPKNO</value>
+            <value>UaJI7eYwZUyHg</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.29 03:16:32<br/>
+          <b>Date:</b> 2025.09.29 10:12:52<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 4.1 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9993,39.2435,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:42:10.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>ojCZuFWbfhyNN</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:42:10<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 15.7 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1697,39.2102,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>SAHINKAYA-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:31:38.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>6Cmj7gwl6t73K</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:31:38<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 7.4 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0372,39.2152,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KERTIL-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:19:48.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>kpx9yyG3CdEp9</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:19:48<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Bursa, Kütahya, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Çiğli Havalimanı (IGL)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.0865,39.2178,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:17:01.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>z6PJpisS5LSw6</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:17:01<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 6.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Manisa, Bursa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9923,39.2245,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>GOKCELER-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:05:39.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>nGLe_zbvmMXXq</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:05:39<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Uşak, Manisa, Bursa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0327,39.0905,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:05:06.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>mG2wlKHkuD0DW</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:05:06<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 6.1 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0065,39.2335,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YAYLACIK-SINDIRGI (BALIKESIR)</name>
+        <TimeStamp>
+          <when>2025-09-29T06:02:37.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>eIoaG2A5SzTnb</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 09:02:37<br/>
+          <b>Magnitude:</b> 2.4<br/>
+          <b>Depth:</b> 15.8 km<br/>
+          <b>Closest Cities:</b> Manisa, İzmir, Kütahya, Bursa, Uşak<br/>
+          <b>Nearby Airports:</b> Balıkesir Merkez Havalimanı (BZI), Balıkesir Koca Seyit Havalimanı (EDO), Bandırma Havalimanı (BDM)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.1688,39.2165,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T05:59:05.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>BvdIJ4gyP5D4v</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 08:59:05<br/>
+          <b>Magnitude:</b> 2.5<br/>
+          <b>Depth:</b> 7.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9783,39.2462,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T05:41:15.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>l5aOI98lwcfL8</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 08:41:15<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 2.6 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0053,39.2415,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T04:36:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>M4KzT9jMwLFA0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 07:36:04<br/>
           <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9373,39.2635,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>MARMARA DENIZI</name>
+        <TimeStamp>
+          <when>2025-09-29T04:25:22.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>5bw2pPZm4uMkj</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 07:25:22<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 17 km<br/>
+          <b>Closest Cities:</b> Çanakkale, Tekirdağ, Balıkesir, Edirne, Kırklareli<br/>
+          <b>Nearby Airports:</b> Bandırma Havalimanı (BDM), Çanakkale Havalimanı (CKZ), Tekirdağ Çorlu Havalimanı (TEQ)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>27.1587,40.4945,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T04:13:22.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>qVnyVhhrMiPs2</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 07:13:22<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 6.5 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9373,39.2587,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YESILDERE-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T03:42:40.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>J534ttsH1lWOP</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 06:42:40<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9893,39.2823,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>EGIRLER-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T03:27:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>jBFsfYU_A7iX0</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 06:27:04<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 3.2 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.032,39.2238,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T03:25:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>sRRJv9mw6boeh</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 06:25:04<br/>
+          <b>Magnitude:</b> 2.2<br/>
+          <b>Depth:</b> 5.3 km<br/>
+          <b>Closest Cities:</b> Uşak, Manisa, Bursa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.9942,39.2263,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T03:22:17.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>SgiokPoLamyKF</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 06:22:17<br/>
+          <b>Magnitude:</b> 3<br/>
+          <b>Depth:</b> 5.1 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.0048,39.2338,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T02:13:14.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>eXbFZaorhf7W7</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 05:13:14<br/>
+          <b>Magnitude:</b> 2.6<br/>
+          <b>Depth:</b> 8.6 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.007,39.2472,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T02:01:16.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>rDRAnA6qyEqHw</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 05:01:16<br/>
+          <b>Magnitude:</b> 3.1<br/>
+          <b>Depth:</b> 7.4 km<br/>
+          <b>Closest Cities:</b> Bursa, Uşak, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Balıkesir Merkez Havalimanı (BZI), Zafer Havalimanı (KZR)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>28.909,39.283,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T01:54:27.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>bbkg_E7FtD1bs</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 04:54:27<br/>
+          <b>Magnitude:</b> 2.5<br/>
           <b>Depth:</b> 5.4 km<br/>
           <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
           <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
@@ -831,27 +1663,91 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>29.0212,39.2275,0</coordinates>
+          <coordinates>29.0208,39.2287,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>BALLIDUT-PERTEK (TUNCELI)</name>
+        <name>EGE DENIZI</name>
         <TimeStamp>
-          <when>2025-09-29T00:02:15.000Z</when>
+          <when>2025-09-29T01:43:26.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>87_l76yche7rs</value>
+            <value>vaNZ6pdl0yYYJ</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.29 03:02:15<br/>
+          <b>Date:</b> 2025.09.29 04:43:26<br/>
+          <b>Magnitude:</b> 2.7<br/>
+          <b>Depth:</b> 9.1 km<br/>
+          <b>Closest Cities:</b> Yunanistan, Aydın, Muğla, İzmir, Manisa<br/>
+          <b>Nearby Airports:</b> Milas Bodrum Havalimanı (BJV), Adnan Menderes Havalimanı (ADB), Aydın Çıldır Havalimanı (CII)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>25.6518,36.709,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>YEMISLI-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T01:30:04.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>amTHT6jeOVjHv</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 04:30:04<br/>
+          <b>Magnitude:</b> 3.4<br/>
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
+        ]]></description>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>29.014,39.2302,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>KARAKOCA-SIMAV (KUTAHYA)</name>
+        <TimeStamp>
+          <when>2025-09-29T01:21:31.000Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="earthquake_id">
+            <value>XKYfGvEitgI89</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[
+          <b>Provider:</b> kandilli<br/>
+          <b>Date:</b> 2025.09.29 04:21:31<br/>
           <b>Magnitude:</b> 2.2<br/>
-          <b>Depth:</b> 6.7 km<br/>
-          <b>Closest Cities:</b> Tunceli, Erzincan, Malatya, Diyarbakır, Adıyaman<br/>
-          <b>Nearby Airports:</b> Elazığ Havalimanı (EZS), Erhaç Havalimanı (MLX), Erzincan Havalimanı (ERC)
+          <b>Depth:</b> 5.4 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
         ]]></description>
         <Style>
           <IconStyle>
@@ -863,27 +1759,27 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>39.0943,38.8728,0</coordinates>
+          <coordinates>28.9575,39.2632,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>KAYALIDERE-SIMAV (KUTAHYA)</name>
+        <name>YENILER-SIMAV (KUTAHYA)</name>
         <TimeStamp>
-          <when>2025-09-28T23:51:34.000Z</when>
+          <when>2025-09-29T01:17:22.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>LTd6nFXdCKBE0</value>
+            <value>PkO3fO8FX3mqS</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.29 02:51:34<br/>
-          <b>Magnitude:</b> 2.4<br/>
-          <b>Depth:</b> 4.7 km<br/>
-          <b>Closest Cities:</b> Bursa, Uşak, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Balıkesir Merkez Havalimanı (BZI), Zafer Havalimanı (KZR)
+          <b>Date:</b> 2025.09.29 04:17:22<br/>
+          <b>Magnitude:</b> 2.1<br/>
+          <b>Depth:</b> 3.7 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
         ]]></description>
         <Style>
           <IconStyle>
@@ -895,27 +1791,27 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.8982,39.278,0</coordinates>
+          <coordinates>28.9388,39.2532,0</coordinates>
         </Point>
       </Placemark>
 
       <Placemark>
-        <name>ORTACA-SIMAV (KUTAHYA)</name>
+        <name>YESILDERE-SIMAV (KUTAHYA)</name>
         <TimeStamp>
-          <when>2025-09-28T23:50:36.000Z</when>
+          <when>2025-09-29T00:34:52.000Z</when>
         </TimeStamp>
         <ExtendedData>
           <Data name="earthquake_id">
-            <value>SvsJF6kzNeX3_</value>
+            <value>OQOr3jX2JsNTx</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[
           <b>Provider:</b> kandilli<br/>
-          <b>Date:</b> 2025.09.29 02:50:36<br/>
-          <b>Magnitude:</b> 3.1<br/>
-          <b>Depth:</b> 5.3 km<br/>
-          <b>Closest Cities:</b> Bursa, Uşak, Manisa, Balıkesir, Bilecik<br/>
-          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Balıkesir Merkez Havalimanı (BZI), Zafer Havalimanı (KZR)
+          <b>Date:</b> 2025.09.29 03:34:52<br/>
+          <b>Magnitude:</b> 2.3<br/>
+          <b>Depth:</b> 5.7 km<br/>
+          <b>Closest Cities:</b> Uşak, Bursa, Manisa, Balıkesir, Bilecik<br/>
+          <b>Nearby Airports:</b> Uşak Havalimanı (USQ), Zafer Havalimanı (KZR), Balıkesir Merkez Havalimanı (BZI)
         ]]></description>
         <Style>
           <IconStyle>
@@ -927,7 +1823,7 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>28.914,39.286,0</coordinates>
+          <coordinates>28.9858,39.2622,0</coordinates>
         </Point>
       </Placemark>
   </Document>
